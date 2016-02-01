@@ -1,6 +1,7 @@
 # Security conferences in 2016
 
-| Name | Location | CfP ends |  Conference dates |
+| Name           | Location	| CfP ends |  Conference dates |
+| --- | --- | --- | --- |
 | CanSecWest | Vancouver, Canada | | March |
 | Troopers | Germany | | March |
 | SSTIC | France | Jan 25 | |
