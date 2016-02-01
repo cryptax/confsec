@@ -12,9 +12,9 @@
 | [CARO](http://2016.caro.org/) | Bucharest, Romania | February 15  | May 19-20 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | March 1st | June 27-July 1 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2016/call/index) | Denver, USA | March 18 | October 5-7 |
-| [RMLL Security track](https://sec2016.rmll.info/) | Paris | March 31 | July 4-6 |
+| [RMLL Security track](https://sec2016.rmll.info/) | Paris, France | March 31 | July 4-6 |
 | [BSidesLondon](https://www.securitybsides.org.uk/) | London, UK | ? | April ? |
-| [La nuit du hack](https://www.nuitduhack.com/en/) | | April 10 | July 2-3 |
+| [La nuit du hack](https://www.nuitduhack.com/en/) | Paris, France | April 10 | July 2-3 |
 | [Recon](http://recon.cx/) | Montreal, Canada | April 15 | June 13-19 |
 | [BlackHat US](http://www.blackhat.com/) | Las Vegas, USA | ? | June 30-Aug 2 |
 | [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May ? |
@@ -25,6 +25,7 @@
 | [Hardwear](http://hardwear.io/) | ? | ? | October ? |
 | [SPSM](http://www.spsm-workshop.org) | ? | June ? | October ? |
 | [Hack.lu](http://2015.hack.lu/) | Luxemburg | July ? | October ? |
+| [Hacktivity](http://www.hacktivity.com/) | Budapest, Hungary | ? | October ? |
 | [Hackito Ergo Sum](http://2015.hackitoergosum.org/) | ? | ? | October ? |
 | [MALWARE](http://isiom.wssrl.org/) | ? | ? | October ? |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 27-28 |
