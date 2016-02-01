@@ -30,6 +30,7 @@
 | [MALWARE](http://isiom.wssrl.org/) | ? | ? | October ? |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 27-28 |
 | [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | ? | October 27-28 |
+| [BotConf](https://www.botconf.eu/) | Lyon, France | ? | Nov 30 - Dec 2 |
 
 ## Hey, that awesome conference is missing :)
 
