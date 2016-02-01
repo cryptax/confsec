@@ -9,6 +9,7 @@
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | | March 18 |
 | [SyScan](https://www.syscan360.org/en/) | Singapore | | March 23-24 |
 | [SSTIC](https://www.sstic.org) | Rennes, France | Jan 25 | June 1-3 |
+| [Hack in the box](http://conference.hitb.org/) | Amsterdam, The Netherlands | Feb 14 | May 23-27 |
 | [CARO](http://2016.caro.org/) | Bucharest, Romania | February 15  | May 19-20 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | March 1st | June 27-July 1 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2016/call/index) | Denver, USA | March 18 | October 5-7 |
@@ -17,6 +18,7 @@
 | [La nuit du hack](https://www.nuitduhack.com/en/) | Paris, France | April 10 | July 2-3 |
 | [Recon](http://recon.cx/) | Montreal, Canada | April 15 | June 13-19 |
 | [BlackHat US](http://www.blackhat.com/) | Las Vegas, USA | ? | June 30-Aug 2 |
+| [DEFCON 24](https://www.defcon.org/) | Las Vegas, USA | ? | Aug 4-7 |
 | [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May ? |
 | [USENIX WOOT](https://www.usenix.org/conference/woot16/call-for-papers) | Austin, Texas, USA | May 17 | August 8-9 |
 | [SaSeIoT](http://securityiot.eu/2016/show/home) | Paris, France |  May 27 | October 26-28 |
@@ -30,6 +32,7 @@
 | [MALWARE](http://isiom.wssrl.org/) | ? | ? | October ? |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 27-28 |
 | [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | ? | October 27-28 |
+| [BlackHat Europe](http://www.blackhat.com) | London, UK | ? | Nov 1-4 |
 | [BotConf](https://www.botconf.eu/) | Lyon, France | ? | Nov 30 - Dec 2 |
 
 ## Hey, that awesome conference is missing :)
