@@ -4,6 +4,7 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | --- | --- | --- | --- |
+| [NDSS](http://www.internetsociety.org/events/ndss-symposium-2016) | San Diego, USA |  | Feb 21-24 |
 | [CanSecWest](https://cansecwest.com/) | Vancouver, Canada | | March |
 | [Troopers](https://www.troopers.de/) | Heidelberg, Germany | | March 14-18 |
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | | March 18 |
@@ -34,8 +35,13 @@
 | [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | ? | October 27-28 |
 | [BlackHat Europe](http://www.blackhat.com) | London, UK | ? | Nov 1-4 |
 | [BotConf](https://www.botconf.eu/) | Lyon, France | ? | Nov 30 - Dec 2 |
+| [CCC](https://www.ccc.de/en/) | Germany |  ? | December? |
 
 ## Hey, that awesome conference is missing :)
 
 - It's not an exhaustive list :)
 - If it's awesome + not too far away + you'd like me to submit, be sure to tweet (@cryptax) me as perhaps I don't know about it :)
+
+## Other lists
+
+- [Wikicfp](http://wikicfp.com)
