@@ -32,5 +32,5 @@
 
 ## Hey, that awesome conference is missing :)
 
-- It's not an exhaustive link :)
+- It's not an exhaustive list :)
 - If it's awesome + not too far away + you'd like me to submit, be sure to tweet (@cryptax) me as perhaps I don't know about it :)
