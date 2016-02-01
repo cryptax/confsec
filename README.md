@@ -45,3 +45,9 @@
 ## Other lists
 
 - [Wikicfp](http://wikicfp.com)
+
+## Ratings
+
+- [Crypto and Security Conferences Ranking](http://icsd.i2r.a-star.edu.sg/staff/jianying/conference-ranking.html) (academic conferences)
+- [Guofei Gu](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) and [another one](https://personal.cis.strath.ac.uk/changyu.dong/ranking.html)
+- [Microsoft Academic Research](http://academic.research.microsoft.com/RankList?entitytype=3&topdomainid=2&subdomainid=2)
