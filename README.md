@@ -1,4 +1,6 @@
-# Security conferences in 2016
+# Security conferences 
+
+## In 2016
 
 | Name           | Location	| CfP ends |  Conference dates |
 | --- | --- | --- | --- |
@@ -27,3 +29,8 @@
 | [MALWARE](http://isiom.wssrl.org/) | ? | ? | October ? |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 27-28 |
 | [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | ? | October 27-28 |
+
+## Hey, that awesome conference is missing :)
+
+- It's not an exhaustive link :)
+- If it's awesome + not too far away + you'd like me to submit, be sure to tweet (@cryptax) me as perhaps I don't know about it :)
