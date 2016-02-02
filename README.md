@@ -34,6 +34,7 @@
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 27-28 |
 | [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | ? | October 27-28 |
 | [BlackHat Europe](http://www.blackhat.com) | London, UK | ? | Nov 1-4 |
+| [GreHack](http://www.grehack.fr/) | Grenoble, France | ? | Nov 18 |
 | [BotConf](https://www.botconf.eu/) | Lyon, France | ? | Nov 30 - Dec 2 |
 | [CCC](https://www.ccc.de/en/) | Germany |  ? | December? |
 
