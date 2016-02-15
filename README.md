@@ -18,12 +18,12 @@
 | [BSidesLondon](https://www.securitybsides.org.uk/) | London, UK | ? | April ? |
 | [La nuit du hack](https://www.nuitduhack.com/en/) | Paris, France | April 10 | July 2-3 |
 | [Recon](http://recon.cx/) | Montreal, Canada | April 15 | June 13-19 |
-| [BlackHat US](http://www.blackhat.com/) | Las Vegas, USA | ? | June 30-Aug 2 |
+| [BlackHat US](http://www.blackhat.com/) | Las Vegas, USA | April 11 | June 30-Aug 2 |
 | [DEFCON 24](https://www.defcon.org/) | Las Vegas, USA | ? | Aug 4-7 |
 | [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May ? |
 | [USENIX WOOT](https://www.usenix.org/conference/woot16/call-for-papers) | Austin, Texas, USA | May 17 | August 8-9 |
 | [SaSeIoT](http://securityiot.eu/2016/show/home) | Paris, France |  May 27 | October 26-28 |
-| [Area 41](http://area41.io/) | Zurich, Switzerland | ? | June 10-11 |
+| [Area 41](http://area41.io/) | Zurich, Switzerland | March 31 | June 10-11 |
 | [Sec-T](http://0x08.sec-t.org/) | Stockholm, Sweden | ? | September |
 | [Hardwear](http://hardwear.io/) | ? | ? | October ? |
 | [SPSM](http://www.spsm-workshop.org) | ? | June ? | October ? |
