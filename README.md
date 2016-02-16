@@ -20,7 +20,7 @@
 | [La nuit du hack](https://www.nuitduhack.com/en/) | Paris, France | April 10 | July 2-3 |
 | [BlackHat US](http://www.blackhat.com/) | Las Vegas, USA | April 11 | June 30-Aug 2 |
 | [Recon](http://recon.cx/) | Montreal, Canada | April 15 | June 13-19 |
-| [DEFCON 24](https://www.defcon.org/) | Las Vegas, USA | ? | Aug 4-7 |
+| [DEFCON 24](https://www.defcon.org/) | Las Vegas, USA | May 2 | Aug 4-7 |
 | [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May ? |
 | [USENIX WOOT](https://www.usenix.org/conference/woot16/call-for-papers) | Austin, Texas, USA | May 17 | August 8-9 |
 | [SaSeIoT](http://securityiot.eu/2016/show/home) | Paris, France |  May 27 | October 26-28 |
