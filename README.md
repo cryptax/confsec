@@ -19,7 +19,7 @@
 | [RMLL Security track](https://sec2016.rmll.info/) | Paris, France | March 31 | July 4-6 |
 | [BSidesLondon](https://www.securitybsides.org.uk/) | London, UK | ? | April ? |
 | [La nuit du hack](https://www.nuitduhack.com/en/) | Paris, France | April 10 | July 2-3 |
-| [BlackHat US](http://www.blackhat.com/) | Las Vegas, USA | April 11 | June 30-Aug 2 |
+| [BlackHat US](http://www.blackhat.com/) | Las Vegas, USA | April 11 | July 30-Aug 2 |
 | [Recon](http://recon.cx/) | Montreal, Canada | April 15 | June 13-19 |
 | [DEFCON 24](https://www.defcon.org/) | Las Vegas, USA | May 2 | Aug 4-7 |
 | [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May ? |
