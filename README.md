@@ -26,9 +26,9 @@
 | [USENIX WOOT](https://www.usenix.org/conference/woot16/call-for-papers) | Austin, Texas, USA | May 17 | August 8-9 |
 | [SaSeIoT](http://securityiot.eu/2016/show/home) | Paris, France |  May 27 | October 26-28 |
 | [Sec-T](http://0x08.sec-t.org/) | Stockholm, Sweden | ? | September |
-| [Hardwear](http://hardwear.io/) | ? | ? | October ? |
-| [SPSM](http://www.spsm-workshop.org) | ? | June ? | October ? |
-| [Hack.lu](http://2015.hack.lu/) | Luxemburg | July ? | October ? |
+| [Hardwear](http://hardwear.io/) | The Hague, Netherlands | July 5 | October 22-23 |
+| [SPSM](http://www.spsm-workshop.org) | Vienna, Austria | June 27 | October 24-28 |
+| [Hack.lu](http://2016.hack.lu/) | Luxemburg | July 21 | October 18-20 |
 | [Hacktivity](http://www.hacktivity.com/) | Budapest, Hungary | ? | October ? |
 | [Hackito Ergo Sum](http://2015.hackitoergosum.org/) | ? | ? | October ? |
 | [MALWARE](http://isiom.wssrl.org/) | ? | ? | October ? |
