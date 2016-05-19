@@ -5,6 +5,7 @@
 | Name           | Location	| CfP ends |  Conference dates |
 | --- | --- | --- | --- |
 | [NDSS](http://www.internetsociety.org/events/ndss-symposium-2016) | San Diego, USA |  | Feb 21-24 |
+| [DIMVA](http://dimva2016.mondragon.edu/en) | Spain | February | July 7-8 |
 | [CanSecWest](https://cansecwest.com/) | Vancouver, Canada | | March |
 | [Troopers](https://www.troopers.de/) | Heidelberg, Germany | | March 14-18 |
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | | March 18 |
@@ -21,20 +22,22 @@
 | [La nuit du hack](https://www.nuitduhack.com/en/) | Paris, France | April 10 | July 2-3 |
 | [BlackHat US](http://www.blackhat.com/) | Las Vegas, USA | April 11 | July 30-Aug 2 |
 | [Recon](http://recon.cx/) | Montreal, Canada | April 15 | June 13-19 |
+| [ESORICS](http://www.ics.forth.gr/esorics2016/) | Crete, Greece | May 1 | September 26-30 |
 | [DEFCON 24](https://www.defcon.org/) | Las Vegas, USA | May 2 | Aug 4-7 |
-| [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May ? |
+| [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May 19-20 |
+| [BeerRump](https://beerump.github.io/) | Paris, France | ? | June 16-17 |
 | [USENIX WOOT](https://www.usenix.org/conference/woot16/call-for-papers) | Austin, Texas, USA | May 17 | August 8-9 |
 | [SaSeIoT](http://securityiot.eu/2016/show/home) | Paris, France |  May 27 | October 26-28 |
-| [Sec-T](http://0x08.sec-t.org/) | Stockholm, Sweden | ? | September |
-| [Hardwear](http://hardwear.io/) | The Hague, Netherlands | July 5 | October 22-23 |
+| [BlackHat Europe](http://www.blackhat.com) | London, UK | June 27 | Nov 1-4 |
 | [SPSM](http://www.spsm-workshop.org) | Vienna, Austria | June 27 | October 24-28 |
+| [Hardwear](http://hardwear.io/) | The Hague, Netherlands | July 5 | September 22-23 |
 | [Hack.lu](http://2016.hack.lu/) | Luxemburg | July 21 | October 18-20 |
+| [Sec-T](http://0x08.sec-t.org/) | Stockholm, Sweden | ? | September |
 | [Hacktivity](http://www.hacktivity.com/) | Budapest, Hungary | ? | October ? |
 | [Hackito Ergo Sum](http://2015.hackitoergosum.org/) | ? | ? | October ? |
 | [MALWARE](http://isiom.wssrl.org/) | ? | ? | October ? |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 27-28 |
 | [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | ? | October 27-28 |
-| [BlackHat Europe](http://www.blackhat.com) | London, UK | ? | Nov 1-4 |
 | [GreHack](http://www.grehack.fr/) | Grenoble, France | ? | Nov 18 |
 | [BotConf](https://www.botconf.eu/) | Lyon, France | ? | Nov 30 - Dec 2 |
 | [CCC](https://www.ccc.de/en/) | Germany |  ? | December? |
