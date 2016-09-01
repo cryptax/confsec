@@ -38,6 +38,7 @@
 | [BotConf](https://www.botconf.eu/) | Lyon, France | July 15 | Nov 30 - Dec 2 |
 | [Hack.lu](http://2016.hack.lu/) | Luxemburg | July 21 | October 18-20 |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August 11 | October 18-21 |
+| [SCS](https://www.securitycasestudy.pl/en/agenda-2016/) | Warsaw, Poland | ? | September 14-15 | 
 | [Bsides Lisbon](http://www.bsideslisbon.org/) | Lisbon, Portugal | September 16 | November 11 |
 | [Sec-T](http://0x08.sec-t.org/) | Stockholm, Sweden | ? | September |
 | [ITSecX](https://itsecx.fhstp.ac.at/) | St Polten, Austria | September 30 | November 4 | 
