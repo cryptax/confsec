@@ -31,7 +31,7 @@
 | [44Con](https://44con.com/) | London, UK | ? | September 13-15 |
 | [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | ? | September ? |
 | [Hacktivity](http://hacktivity.com) | Budapest, Hungary | | October ? |
-| [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | ? | October 5-6 |
+| [BruCon](http://2016.brucon.org/) | Ghent, Belgium | ? | October 5-6 |
 | [Hack.lu](http://2017.hack.lu/) | Luxemburg |  ? | October 16-19 |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 26-27 |
