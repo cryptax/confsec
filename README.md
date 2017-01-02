@@ -1,19 +1,18 @@
-# Security conferences 
+# Security conferences
 
 ## In 2017
 
 | Name           | Location	| CfP ends |  Conference dates |
 | --- | --- | --- | --- |
-
 | [NDSS](http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme/ndss-2017-call-papers) | San Diego, USA | Aug 12 | Feb 26-March 1 |
 | [Oakland](http://www.ieee-security.org/TC/SP2017/index.html) - IEEE S&P| San Jose, CA, USA | Nov 11 | May 22-24 |
 | [Hack in the box](http://conference.hitb.org/) | Amsterdam, The Netherlands | Dec 31 | Apr 10-14 |
 | [RuhrSec](https://www.ruhrsec.de/2017/) | Bochum, Germany | January 15 | May 2-5 |
 | [SSTIC](https://www.sstic.org) | Rennes, France | Jan 27 | June 7-9 |
 | [CARO](http://2017.caro.org/) | Krakow, Poland | February 14  | May 11-12 |
-| [USENIX Security](https://www.usenix.org/conference/usenixsecurity17) | Vancouver, BC, Canada | February 16 | August 16-18 | 
+| [USENIX Security](https://www.usenix.org/conference/usenixsecurity17) | Vancouver, BC, Canada | February 16 | August 16-18 |
 | [DIMVA](http://dimva2016.mondragon.edu/en) | Bonn, Germany | February 22 | July 6-7 |
-| [You Shot The Sheriff](http://www.ysts.org/) | Sao Paulo, Brasil | Feb 28 | May 22 | 
+| [You Shot The Sheriff](http://www.ysts.org/) | Sao Paulo, Brasil | Feb 28 | May 22 |
 | [CanSecWest](https://cansecwest.com/) | Vancouver, Canada | | March 15-17 |
 | [Troopers](https://www.troopers.de/) | Heidelberg, Germany | | March 20-24 |
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | | March 23-24 |
@@ -55,5 +54,5 @@
 ## Ratings
 
 - [Crypto and Security Conferences Ranking](http://icsd.i2r.a-star.edu.sg/staff/jianying/conference-ranking.html) (academic conferences)
-- [Guofei Gu](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) 
+- [Guofei Gu](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)
 - [Microsoft Academic Research](http://academic.research.microsoft.com/RankList?entitytype=3&topdomainid=2&subdomainid=2)
