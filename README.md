@@ -15,7 +15,7 @@
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | March 6 | June 19-23 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2017) | Madrid, Spain |  | October 4-6 |
 | [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May 18-19 |
-| [PhDays](http://www.phdays.com/)| Mostcow, Russia | March 15 | May 23-24 |
+| [PhDays](http://www.phdays.com/)| Moscow, Russia | March 15 | May 23-24 |
 | [RMLL Security track](https://2017.rmll.info/) | Saint Etienne, France |  | July 1-7 |
 | [La nuit du hack](https://www.nuitduhack.com/en/) | Paris, France | April 5 | June 24-25 |
 | [Recon](http://recon.cx/) | Montreal, Canada | ? | June 16-18 |
