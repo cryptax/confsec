@@ -1,4 +1,4 @@
-# Security conferences 
+# Security conferences
 
 ## In 2017
 
@@ -11,6 +11,7 @@
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | | March 23-24 |
 | [SSTIC](https://www.sstic.org) | Rennes, France | Jan 27 | June 7-9 |
 | [Hack in the box](http://conference.hitb.org/) | Amsterdam, The Netherlands | Dec 31 | Apr 10-14 |
+| [dotSecurity](https://www.dotsecurity.io/) | Paris, France |  | April 21 |
 | [CARO](http://2017.caro.org/) | Krakow, Poland | February 14  | May 11-12 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | March 6 | June 19-23 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2017) | Madrid, Spain |  | October 4-6 |
@@ -49,5 +50,5 @@
 ## Ratings
 
 - [Crypto and Security Conferences Ranking](http://icsd.i2r.a-star.edu.sg/staff/jianying/conference-ranking.html) (academic conferences)
-- [Guofei Gu](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) 
+- [Guofei Gu](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm)
 - [Microsoft Academic Research](http://academic.research.microsoft.com/RankList?entitytype=3&topdomainid=2&subdomainid=2)
