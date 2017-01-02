@@ -8,7 +8,7 @@
 | [NDSS](http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme/ndss-2017-call-papers) | San Diego, USA | Aug 12 | Feb 26-March 1 |
 | [Oakland](http://www.ieee-security.org/TC/SP2017/index.html) - IEEE S&P| San Jose, CA, USA | Nov 11 | May 22-24 |
 | [Hack in the box](http://conference.hitb.org/) | Amsterdam, The Netherlands | Dec 31 | Apr 10-14 |
-| [RuhrSec](https://www.ruhrsec.de/2017/) | Germany | January 15 | May 2-5 |
+| [RuhrSec](https://www.ruhrsec.de/2017/) | Bochum, Germany | January 15 | May 2-5 |
 | [SSTIC](https://www.sstic.org) | Rennes, France | Jan 27 | June 7-9 |
 | [CARO](http://2017.caro.org/) | Krakow, Poland | February 14  | May 11-12 |
 | [USENIX Security](https://www.usenix.org/conference/usenixsecurity17) | Vancouver, BC, Canada | February 16 | August 16-18 | 
@@ -32,7 +32,7 @@
 | [44Con](https://44con.com/) | London, UK | ? | September 13-15 |
 | [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | ? | September ? |
 | [Hacktivity](http://hacktivity.com) | Budapest, Hungary | | October ? |
- [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | ? | October 5-6 |
+| [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | ? | October 5-6 |
 | [Hack.lu](http://2017.hack.lu/) | Luxemburg |  ? | October 16-19 |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 26-27 |
