@@ -19,6 +19,7 @@
 | [RMLL Security track](https://2017.rmll.info/) | Saint Etienne, France |  | July 1-7 |
 | [La nuit du hack](https://www.nuitduhack.com/en/) | Paris, France | April 5 | June 24-25 |
 | [Recon](http://recon.cx/) | Montreal, Canada | ? | June 16-18 |
+| [SteelCon](https://www.steelcon.info/) | Sheffield, UK | ? | July 15-17 |
 | [BlackHat US](http://www.blackhat.com/) | Las Vegas, USA |  | July 22-27 |
 | [ESORICS](https://www.ntnu.edu/esorics2017) | Oslo, Norway | April 19 | September 11-15 |
 | [DEFCON 25](https://www.defcon.org/) | Las Vegas, USA |  | July 27-30 |
@@ -29,6 +30,7 @@
 | [Hack.lu](http://2017.hack.lu/) | Luxemburg |  ? | October 16-19 |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 26-27 |
+| [GrrCON](http://grrcon.com/) | Grand Rapids, MI, USA | ? | October 26-27 |
 | [GreHack](http://www.grehack.fr/) | Grenoble, France |  | Nov ? |
 | [BotConf](https://www.botconf.eu/) | Lyon, France | | Nov ? |
 | [DefCamp](http://def.camp/) | Bucharest, Romania | | November ? |
