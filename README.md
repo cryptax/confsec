@@ -4,7 +4,6 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | --- | --- | --- | --- |
-
 | [NDSS](http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme/ndss-2017-call-papers) | San Diego, USA | Aug 12 | Feb 26-March 1 |
 | [Oakland](http://www.ieee-security.org/TC/SP2017/index.html) - IEEE S&P| San Jose, CA, USA | Nov 11 | May 22-24 |
 | [Hack in the box](http://conference.hitb.org/) | Amsterdam, The Netherlands | Dec 31 | Apr 10-14 |
