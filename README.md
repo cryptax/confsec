@@ -17,6 +17,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [SSTIC](https://www.sstic.org) | Rennes, France | Jan 27 | June 7-9 |
 | [SHA2017](https://sha2017.org) | ? Netherlands | February 1 | August 4-8 |
 | [CARO](http://2017.caro.org/) | Krakow, Poland | February 14  | May 11-12 |
+| [BSidesMunich](https://sites.google.com/view/bsidesmunich2017) @BSidesMunich | Munich, Germany | February 15 | April 3 |
 | [DIMVA](http://dimva2016.mondragon.edu/en) | Bonn, Germany | February 22 | July 6-7 |
 | [Sthack](https://www.sthack.fr/) [@sth4ck](https://twitter.com/sth4ck) | Bordeaux, France | ? | March ? |
 | [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | ? | March 2-4 | 
@@ -35,6 +36,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [AlligatorCon](http://alligatorcon.pl/) [@AlligatorCon](https://twitter.com/AlligatorConPL) | Krakow, Poland | ? | August 25-26 |
 | [44Con](https://44con.com/) | London, UK | ? | September 13-15 |
 | [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | ? | September ? |
+| [BSidesZurich](https://bsideszh.ch/) [@BSidesZurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | July ? | September ? |
 | [EICAR](http://www.eicar.org/17-0-General-Info.html) | | ? | October ? |
 | [Hacktivity](http://hacktivity.com) | Budapest, Hungary | | October ? |
 | [BruCon](http://2016.brucon.org/) | Ghent, Belgium | ? | October 5-6 |
