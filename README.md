@@ -45,7 +45,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [GreHack](http://www.grehack.fr/) | Grenoble, France |  | November ? |
 | [BlackHat EU](http://www.blackhat.com/) | London, UK |  ? | November ? |
 | [DefCamp](http://def.camp/) | Bucharest, Romania | | November ? |
-| ZeroKnights | Moscow, Russia | ? | November ? |
+| ZeroNights | Moscow, Russia | ? | November ? |
 | [DeepSec](https://deepsec.net/) | Vienna, Austria | ? | November ? |
 | [BSidesVienna](http://bsidesvienna.at/) [@BSidesVienna](https://twitter.com/BSidesVienna) | Vienna, Austria | October ? | November ? |
 | [BotConf](https://www.botconf.eu/) | Montpellier, France | ? | December 5-8 |
