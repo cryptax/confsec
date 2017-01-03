@@ -40,6 +40,10 @@
 | [BotConf](https://www.botconf.eu/) | Montpellier, France | | Nov ? |
 | [DefCamp](http://def.camp/) | Bucharest, Romania | | November ? |
 | [34C3](https://www.ccc.de/en/) | Germany |  ? | December? |
+| [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | ? | August 22-27 |
+| [Black Hat Asia](https://www.blackhat.com/upcoming.html) | Singapore | ? | March 28-31 |
+| [Black Hat Europe](https://www.blackhat.com/upcoming.html) | London, UK | ? | December 4-7 |
+| [Driving IT](https://universe.ida.dk/driving-it/) | Copenhagen, Denmark | ? | November 3 |
 
 
 ## Hey, that awesome conference is missing :)
