@@ -20,7 +20,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [DIMVA](http://dimva2016.mondragon.edu/en) | Bonn, Germany | February 22 | July 6-7 |
 | [Sthack](https://www.sthack.fr/) [@sth4ck](https://twitter.com/sth4ck) | Bordeaux, France | ? | March ? |
 | [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | ? | March 2-4 | 
-| [Troopers](https://www.troopers.de/) | Heidelberg, Germany | | March 20-24 |
+| [Troopers](https://www.troopers.de/) [@WEareTROOPERS](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany | | March 20-24 |
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | | March 23-24 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | March 6 | June 19-23 |
 | [PhDays](http://www.phdays.com/)| Moscow, Russia | March 15 | May 23-24 |
@@ -61,9 +61,9 @@ _Not exhaustive! I won't really be maintaining this list_
 | [IEEE S&P](http://www.ieee-security.org/TC/SP2017/index.html) | San Jose, CA, USA | Nov 11 2016 | May 22-24 |
 | [Infiltrate](http://infiltratecon.com/) [@InfiltrateCon](https://twitter.com/InfiltrateCon) | Miami, USA | Dec 14 | April 6 -7 |
 | [RealWorldCrypto](http://www.realworldcrypto.com/) [@RealWorldCrypto](https://twitter.com/RealWorldCrypto) | New York City, USA | ? | January 4-6 |
+| [ShmooCon](http://shmoocon.org/) | Washington DC, USA | ? | January 13-15 |
 | [ENIGMA](https://www.usenix.org/conference/enigma2017) | Oakland, CA, USA | ? |  Jan 30 - Feb 1 |
 | [ThotCon](http://www.thotcon.org/) | Chicago, USA | Jan 1 | May 4-5 |
-| [ShmooCon](http://shmoocon.org/) | Washington DC, USA | ? | January 13-15 |
 | [RSA](https://www.rsaconference.com) conference | San Francisco, USA | ? | February 13-17 |
 | [NullCon](http://nullcon.net/website/) | Goa, India | ? | February 28 - March 4 |
 | [USENIX Security](https://www.usenix.org/conference/usenixsecurity17) | Vancouver, BC, Canada | February 16 | August 16-18 |
@@ -74,7 +74,7 @@ _Not exhaustive! I won't really be maintaining this list_
 | [CircleCityCon](https://circlecitycon.com/) | Indianapolis, IN, USA | March 3 | June 9-11 |
 | [NorthSec](https://www.nsec.io) [@NorthSec_io](https://twitter.com/NorthSec_io) | Montreal, Canada | March 15 | May 16-21 |
 | [WiSec](http://wisec2017.ccs.neu.edu/) | Boston, USA | March 20 | July 18-20 | 
-| [SAS](https://sas.kaspersky.com/) | St Maarten, | ? | April 2-6 |
+| [SAS](https://sas.kaspersky.com/) | St Maarten | ? | April 2-6 |
 | [ICMC](http://icmconference.org/) [@CryptoModConf](https://twitter.com/CryptoModConf) | Washington DC, USA | ? | May 16-19 |
 | [BSidesKC](https://www.bsideskc.org/) [@_BSidesKC](https://twitter.com/_BSidesKC) | Kansas City, MO, USA | | May 20 |
 | [Recon](http://recon.cx/) | Montreal, Canada | ? | June 16-18 |
@@ -85,7 +85,6 @@ _Not exhaustive! I won't really be maintaining this list_
 | Ruxcon | Melbourne, Australia | | October ? |
 | ACM CCS | | September 25 2015 (!) | October ? |
 | [Ekoparty](https://www.ekoparty.org/) [@ekoparty](https://twitter.com/ekoparty) | Buenos Aires, Argentina | ? | October ? |
-| [ACM CCS]() | | September 25 2015 (!) | October ? |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
 | [GrrCON](http://grrcon.com/) | Grand Rapids, MI, USA | ? | October 26-27 |
 | [SecTor](https://sector.ca/) | Toronto, Canada | August ? | November 13-15 | 
