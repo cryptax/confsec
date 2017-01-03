@@ -15,7 +15,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [SecuriTay](https://2017.securi-tay.co.uk/) | Dundee, Scotland | January 8 |  February 24 | 
 | [RuhrSec](https://www.ruhrsec.de/2017/) | Bochum, Germany | January 15 | May 2-5 |
 | [SSTIC](https://www.sstic.org) | Rennes, France | Jan 27 | June 7-9 |
-| [SHA2017](https://sha2017.org) | ? Netherlands | February 1 | August 4-8 |
+| [SHA2017](https://sha2017.org) | Scoutinglandgoed in Zeewolde Netherlands | February 1 | August 4-8 |
 | [CARO](http://2017.caro.org/) | Krakow, Poland | February 14  | May 11-12 |
 | [DIMVA](http://dimva2016.mondragon.edu/en) | Bonn, Germany | February 22 | July 6-7 |
 | [Sthack](https://www.sthack.fr/) [@sth4ck](https://twitter.com/sth4ck) | Bordeaux, France | ? | March ? |
