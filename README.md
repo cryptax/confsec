@@ -19,8 +19,8 @@
 | [SAS](https://sas.kaspersky.com/) | St Maarten, | ? | April 2-6 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | March 6 | June 19-23 |
 | [PhDays](http://www.phdays.com/)| Moscow, Russia | March 15 | May 23-24 |
-| [Virus Bulletin](https://www.virusbtn.com/conference/vb2017) | Madrid, Spain |  | October 4-6 |
 | [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May 18-19 |
+| [WarCon](http://warcon.pl/) | Warsaw, Poland |  ? | June 2-3 |
 | [Recon](http://recon.cx/) | Montreal, Canada | ? | June 16-18 |
 | [La nuit du hack](https://www.nuitduhack.com/en/) | Paris, France | April 5 | June 24-25 |
 | [RMLL Security track](https://2017.rmll.info/) | Saint Etienne, France |  | July 1-7 |
@@ -31,6 +31,7 @@
 | [44Con](https://44con.com/) | London, UK | ? | September 13-15 |
 | [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | ? | September ? |
 | [Hacktivity](http://hacktivity.com) | Budapest, Hungary | | October ? |
+| [Virus Bulletin](https://www.virusbtn.com/conference/vb2017) | Madrid, Spain | ? | October 4-6 |
 | [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | ? | October 5-6 |
 | [Hack.lu](http://2017.hack.lu/) | Luxemburg |  ? | October 16-19 |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
