@@ -113,6 +113,7 @@ _Not exhaustive! I won't really be maintaining this list_
 - [@niamtokik list](https://twitter.com/niamtokik/lists/events)
 - [Cyber Security Conferences in 2017](https://www.concise-courses.com/security/conferences-of-2017/)
 - [Virus Bulletin Calendar](https://www.virusbulletin.com/resources/calendar/)
+- [Past conference videos and talks](https://github.com/PaulSec/awesome-sec-talks)
 
 ## Ratings
 
@@ -120,6 +121,5 @@ _Not exhaustive! I won't really be maintaining this list_
 - [Guofei Gu](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) 
 - [Microsoft Academic Research](http://academic.research.microsoft.com/RankList?entitytype=3&topdomainid=2&subdomainid=2)
 
-## Past conferences videos
 
-- [Awesome Security Talks](https://github.com/PaulSec/awesome-sec-talks)
+
