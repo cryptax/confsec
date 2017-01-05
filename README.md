@@ -27,6 +27,8 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | March 6 | June 19-23 |
 | [PhDays](http://www.phdays.com/)| Moscow, Russia | March 15 | May 23-24 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2017) | Madrid, Spain | March ? | October 4-6 |
+| [WarCon](http://warcon.pl/) | Warsaw, Poland |  ? | June 2-3 |
+| [Recon](http://recon.cx/) | Montreal, Canada | ? | June 16-18 |
 | [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May 18-19 |
 | [DotSecurity](https://www.dotsecurity.io/) [@DotSecurityIo](https://twitter.com/dotsecurityio) | Paris, France | ? | April 21 |
 | [Security of Things World](http://securityofthingsworld.com/en/) | Berlin, Germany | ? | June 12-13 | 
@@ -43,8 +45,9 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [BSidesZurich](https://bsideszh.ch/) [@BSidesZurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | July ? | September 23 |
 | [EICAR](http://www.eicar.org/17-0-General-Info.html) | | ? | October ? |
 | [Hacktivity](http://hacktivity.com) | Budapest, Hungary | | October ? |
-| [BruCon](http://2016.brucon.org/) | Ghent, Belgium | ? | October 5-6 |
-| [Hack.lu](http://2017.hack.lu/) [@hack_lu](https://twitter.com/hack_lu) | Luxemburg |  ? | October 16-19 |
+| [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | ? | October 5-6 |
+| [Hack.lu](http://2017.hack.lu/) | Luxemburg |  ? | October 16-19 |
+| [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 26-27 |
 | [GreHack](http://www.grehack.fr/) | Grenoble, France |  | November ? |
 | [BlackHat EU](http://www.blackhat.com/) | London, UK |  ? | November ? |
