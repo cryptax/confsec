@@ -119,3 +119,7 @@ _Not exhaustive! I won't really be maintaining this list_
 - [Crypto and Security Conferences Ranking](http://icsd.i2r.a-star.edu.sg/staff/jianying/conference-ranking.html) (academic conferences)
 - [Guofei Gu](http://faculty.cs.tamu.edu/guofei/sec_conf_stat.htm) 
 - [Microsoft Academic Research](http://academic.research.microsoft.com/RankList?entitytype=3&topdomainid=2&subdomainid=2)
+
+## Past conferences videos
+
+- [Awesome Security Talks](https://github.com/PaulSec/awesome-sec-talks)
