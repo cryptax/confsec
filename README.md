@@ -19,6 +19,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [CARO](http://2017.caro.org/) | Krakow, Poland | February 14  | May 11-12 |
 | [BSidesMunich](https://sites.google.com/view/bsidesmunich2017) @BSidesMunich | Munich, Germany | February 15 | April 3 |
 | [DIMVA](http://dimva2016.mondragon.edu/en) | Bonn, Germany | February 22 | July 6-7 |
+| [BSidesEdinburgh](https://www.bsidesedinburgh.org.uk) [@BSidesEdinburgh](https://twitter.com/BSidesEdinburgh) | Edinburgh, Scotland | End of February | April 7 | 
 | [Android Security Symposium](https://usmile.at/symposium) | Vienna, Austria | ? | March 8-10 |
 | [Sthack](https://www.sthack.fr/) [@sth4ck](https://twitter.com/sth4ck) | Bordeaux, France | ? | March ? |
 | [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | ? | March 2-4 | 
@@ -57,7 +58,6 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [BSidesVienna](http://bsidesvienna.at/) [@BSidesVienna](https://twitter.com/BSidesVienna) | Vienna, Austria | October ? | November ? |
 | [BotConf](https://www.botconf.eu/) | Montpellier, France | ? | December 5-8 |
 | [34C3](https://www.ccc.de/en/) | Berlin, Germany |  ? | December? |
-
 
 ### Farther away
 
@@ -113,6 +113,7 @@ _Not exhaustive! I won't really be maintaining this list_
 ## Other lists
 
 - [Wikicfp](http://wikicfp.com)
+- [@pello's list](https://twitter.com/pello/lists/conferences/members)
 - [@niamtokik list](https://twitter.com/niamtokik/lists/events)
 - [Cyber Security Conferences in 2017](https://www.concise-courses.com/security/conferences-of-2017/)
 - [Virus Bulletin Calendar](https://www.virusbulletin.com/resources/calendar/)
