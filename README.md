@@ -38,6 +38,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [ESORICS](https://www.ntnu.edu/esorics2017) | Oslo, Norway | April 19 | September 11-15 |
 | [RMLL Security track](https://2017.rmll.info/) | Saint Etienne, France |  | July 1-7 |
 | [SteelCon](https://www.steelcon.info/) | Sheffield, UK | ? | July 15-17 |
+| [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | ? | August 22-27 |
 | [SaSeIoT](http://securityiot.eu/2016/show/home) | ? | August? | October ? |
 | [AlligatorCon](http://alligatorcon.pl/) [@AlligatorCon](https://twitter.com/AlligatorConPL) | Krakow, Poland | ? | August 25-26 |
 | [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | ? | September ? |
@@ -51,18 +52,18 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 26-27 |
 | [GreHack](http://www.grehack.fr/) | Grenoble, France |  | November ? |
-| [BlackHat EU](http://www.blackhat.com/) | London, UK |  ? | November ? |
+| [BlackHat EU](http://www.blackhat.com/) | London, UK |  ? | December 4-7 |
 | [DefCamp](http://def.camp/) | Bucharest, Romania | | November ? |
 | ZeroNights | Moscow, Russia | ? | November ? |
 | [DeepSec](https://deepsec.net/) | Vienna, Austria | ? | November ? |
 | [BSidesVienna](http://bsidesvienna.at/) [@BSidesVienna](https://twitter.com/BSidesVienna) | Vienna, Austria | October ? | November ? |
+| [Driving IT](https://universe.ida.dk/driving-it/) | Copenhagen, Denmark | ? | November 3 |
 | [BotConf](https://www.botconf.eu/) | Montpellier, France | ? | December 5-8 |
 | [34C3](https://www.ccc.de/en/) | Berlin, Germany |  ? | December? |
 
 ### Farther away
 
 _Not exhaustive! I won't really be maintaining this list_
-
 
 | Name           | Location	| CfP ends |  Conference dates |
 | --- | --- | --- | --- |
