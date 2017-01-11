@@ -18,6 +18,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [SHA2017](https://sha2017.org) | Scoutinglandgoed in Zeewolde Netherlands | February 1 | August 4-8 |
 | [CARO](http://2017.caro.org/) | Krakow, Poland | February 14  | May 11-12 |
 | [BSidesMunich](https://sites.google.com/view/bsidesmunich2017) @BSidesMunich | Munich, Germany | February 15 | April 3 |
+| [BSidesLjubljana](https://bsidesljubljana.si/) | Ljubljana, Slovenia | February 14 | March 10 |
 | [DIMVA](http://dimva2016.mondragon.edu/en) | Bonn, Germany | February 22 | July 6-7 |
 | [BSidesEdinburgh](https://www.bsidesedinburgh.org.uk) [@BSidesEdinburgh](https://twitter.com/BSidesEdinburgh) | Edinburgh, Scotland | End of February | April 7 | 
 | [Android Security Symposium](https://usmile.at/symposium) | Vienna, Austria | ? | March 8-10 |
