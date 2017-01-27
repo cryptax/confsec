@@ -11,6 +11,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [EuroS&P](http://www.ieee-security.org/TC/EuroSP2017/) [@IEEEEUROSP](https://twitter.com/IEEEEUROSP)| Paris, France | Aug 4 2016 | April 26-28 |
 | [Eurocrypt](https://eurocrypt2017.di.ens.fr/) | Paris, France | Oct 1 2016 | April 30-May 4 |
 | [Recon BRX](https://recon.cx/2017/brussels/) [@ReconBrx](https://twitter.com/reconbrx)| Brussels, Belgium | November 27 | January 23-27 |
+| [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | December 19 | March 2-4 | 
 | [Hack in the box](http://conference.hitb.org/) | Amsterdam, The Netherlands | Dec 31 2016 | Apr 10-14 |
 | [SecuriTay](https://2017.securi-tay.co.uk/) | Dundee, Scotland | January 8 |  February 24 | 
 | [RuhrSec](https://www.ruhrsec.de/2017/) | Bochum, Germany | January 15 | May 2-5 |
@@ -22,12 +23,11 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [BSidesEdinburgh](https://www.bsidesedinburgh.org.uk) [@BSidesEdinburgh](https://twitter.com/BSidesEdinburgh) | Edinburgh, Scotland | End of February | April 7 | 
 | [Android Security Symposium](https://usmile.at/symposium) | Vienna, Austria | ? | March 8-10 |
 | [Sthack](https://www.sthack.fr/) [@sth4ck](https://twitter.com/sth4ck) | Bordeaux, France | ? | March ? |
-| [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | ? | March 2-4 | 
 | [Troopers](https://www.troopers.de/) [@WEareTROOPERS](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany |  | March 20-24 |
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | | March 23-24 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | March 6 | June 19-23 |
 | [PhDays](http://www.phdays.com/)| Moscow, Russia | March 15 | May 23-24 |
-| [Virus Bulletin](https://www.virusbtn.com/conference/vb2017) | Madrid, Spain | March ? | October 4-6 |
+| [Virus Bulletin](https://www.virusbtn.com/conference/vb2017) | Madrid, Spain | March 19 | October 4-6 |
 | [WarCon](http://warcon.pl/) | Warsaw, Poland |  ? | June 2-3 |
 | [Recon](http://recon.cx/) | Montreal, Canada | ? | June 16-18 |
 | [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May 18-19 |
