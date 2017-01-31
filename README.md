@@ -85,6 +85,7 @@ _Not exhaustive! I won't really be maintaining this list_
 | [CanSecWest](https://cansecwest.com/) | Vancouver, Canada | | March 15-17 |
 | [NOPCon](http://www.nopcon.org/) | Istanbul, Turkey | ? | May ? |
 | [CircleCityCon](https://circlecitycon.com/) | Indianapolis, IN, USA | March 3 | June 9-11 |
+| [AfricaHackon](http://africahackon.com/) | Nairobi, Kenya | ? | June 24-24 | 
 | [NorthSec](https://www.nsec.io) [@NorthSec_io](https://twitter.com/NorthSec_io) | Montreal, Canada | March 15 | May 16-21 |
 | [CHES](http://www.chesworkshop.org/) | Taipei, Taiwan | March 17 | September 25-28 |
 | [WiSec](http://wisec2017.ccs.neu.edu/) | Boston, USA | March 20 | July 18-20 | 
