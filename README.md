@@ -44,7 +44,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [AlligatorCon](http://alligatorcon.pl/) [@AlligatorCon](https://twitter.com/AlligatorConPL) | Krakow, Poland | ? | August 25-26 |
 | [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | ? | September ? |
 | [Hardwear.io](http://hardwear.io) | The Hague, Netherlands | ? | September ? |
-| [44Con](https://44con.com/) | London, UK | ? | September 13-15 |
+| [44Con](https://44con.com/) | London, UK | May 31 | September 13-15 |
 | [BSidesZurich](https://bsideszh.ch/) [@BSidesZurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | July ? | September 23 |
 | [EICAR](http://www.eicar.org/17-0-General-Info.html) | | ? | October ? |
 | [Hacktivity](http://hacktivity.com) | Budapest, Hungary | | October ? |
