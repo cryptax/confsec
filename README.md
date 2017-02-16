@@ -52,7 +52,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Hack.lu](http://2017.hack.lu/) | Luxemburg |  ? | October 16-19 |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 26-27 |
-| [GreHack](http://www.grehack.fr/) | Grenoble, France |  | November ? |
+| [GreHack](http://www.grehack.fr/) | Grenoble, France |  | November 17 |
 | [BlackHat EU](http://www.blackhat.com/) | London, UK |  ? | December 4-7 |
 | [DefCamp](http://def.camp/) | Bucharest, Romania | | November ? |
 | ZeroNights | Moscow, Russia | ? | November ? |
