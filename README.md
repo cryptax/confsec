@@ -77,12 +77,15 @@ _Not exhaustive! I won't really be maintaining this list_
 | [RealWorldCrypto](http://www.realworldcrypto.com/) [@RealWorldCrypto](https://twitter.com/RealWorldCrypto) | New York City, USA | ? | January 4-6 |
 | [ShmooCon](http://shmoocon.org/) | Washington DC, USA | ? | January 13-15 |
 | [ENIGMA](https://www.usenix.org/conference/enigma2017) | Oakland, CA, USA | ? |  Jan 30 - Feb 1 |
+| [CrikeyCon](https://www.crikeycon.com/) | Brisbane, Australia | ? | Feb 25 |
 | [ThotCon](http://www.thotcon.org/) | Chicago, USA | Jan 1 | May 4-5 |
 | [eCrime](http://apwg.org/apwg-events/ecrime2017/) | Scottdale, AZ, USA | January 13 | April 25-27 |
 | [DockerCon](http://2017.dockercon.com/) | Austin, TX, USA | - | April 17-20 | 
 | [RSA](https://www.rsaconference.com) conference | San Francisco, USA | ? | February 13-17 |
 | [NullCon](http://nullcon.net/website/) | Goa, India | ? | February 28 - March 4 |
+| [BSides Canberra](http://www.bsidesau.com.au/) | Canberra, Australia | ? | Mar 17-18 |
 | [USENIX Security](https://www.usenix.org/conference/usenixsecurity17) | Vancouver, BC, Canada | February 16 | August 16-18 |
+| [WAHCKon](http://wahckon.org.au/) | Perth, Australia | ? | May 6-7 |
 | [You Shot The Sheriff](http://www.ysts.org/) | Sao Paulo, Brasil | Feb 28 | May 22 |
 | [AtlSecCon](https://atlseccon.com) | Halifax, Nova Scotia, Canada | February 29 |  April 27-28 |
 | [CanSecWest](https://cansecwest.com/) | Vancouver, Canada | | March 15-17 |
@@ -96,16 +99,18 @@ _Not exhaustive! I won't really be maintaining this list_
 | [ICMC](http://icmconference.org/) [@CryptoModConf](https://twitter.com/CryptoModConf) | Washington DC, USA | ? | May 16-19 |
 | [BSidesKC](https://www.bsideskc.org/) [@_BSidesKC](https://twitter.com/_BSidesKC) | Kansas City, MO, USA | | May 20 |
 | [Recon](http://recon.cx/) | Montreal, Canada | ? | June 16-18 |
+| UnrestCon | Melbourne, Australia | | Jul 1-2 |
 | [BlackHat US](http://www.blackhat.com/) | Las Vegas, USA |  | July 22-27 |
 | [DEFCON 25](https://www.defcon.org/) | Las Vegas, USA |  | July 27-30 |
 | USENIX [WOOT](https://www.usenix.org/conference/woot17) | ? | ? | August ? |
 | [IoT Security Summit](https://tmt.knect365.com/iot-security/) | Washington DC, USA | ? | September ? |
 | [DerbyCon](https://www.derbycon.com/) [@DerbyCon](https://twitter.com/DerbyCon) | Louisville, KY, USA | August ? | September 20-24 |
-| Ruxcon | Melbourne, Australia | | October ? |
+| [Ruxcon](https://ruxcon.org.au/) | Melbourne, Australia | ? | October ? |
 | ACM CCS | | September 25 2015 (!) | October ? |
 | [Ekoparty](https://www.ekoparty.org/) [@ekoparty](https://twitter.com/ekoparty) | Buenos Aires, Argentina | ? | October ? |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
 | [GrrCON](http://grrcon.com/) | Grand Rapids, MI, USA | ? | October 26-27 |
+| [Kiwicon](https://www.kiwicon.org/) | Wellington, New Zealand | ? | ? |
 | [SyScan](https://www.syscan360.org/en/) | Singapore | ? | November ? |
 | [AVAR](http://aavar.org) | ? | | November ? |
 | [SecTor](https://sector.ca/) | Toronto, Canada | August ? | November 13-15 |
