@@ -23,12 +23,13 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [DIMVA](http://dimva2016.mondragon.edu/en) | Bonn, Germany | February 22 | July 6-7 |
 | [BSidesEdinburgh](https://www.bsidesedinburgh.org.uk) [@BSidesEdinburgh](https://twitter.com/BSidesEdinburgh) | Edinburgh, Scotland | End of February | April 7 | 
 | [Android Security Symposium](https://usmile.at/symposium) | Vienna, Austria | ? | March 8-10 |
-| [Sthack](https://www.sthack.fr/) [@sth4ck](https://twitter.com/sth4ck) | Bordeaux, France | ? | March ? |
+| [Sthack](https://www.sthack.fr/) [@sth4ck](https://twitter.com/sth4ck) | Bordeaux, France | ? | April 7 |
 | [Troopers](https://www.troopers.de/) [@WEareTROOPERS](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany |  | March 20-24 |
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | | March 23-24 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | March 6 | June 19-23 |
 | [PhDays](http://www.phdays.com/)| Moscow, Russia | March 15 | May 23-24 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2017) | Madrid, Spain | March 19 | October 4-6 |
+| [SecITC](http://www.secitc.eu/) | Bucharest, Romania | March 17 | June 8-9 | 
 | [WarCon](http://warcon.pl/) | Warsaw, Poland |  ? | June 2-3 |
 | [Recon](http://recon.cx/) | Montreal, Canada | ? | June 16-18 |
 | [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May 18-19 |
@@ -52,7 +53,8 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Hack.lu](http://2017.hack.lu/) | Luxemburg |  ? | October 16-19 |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 26-27 |
-| [GreHack](http://www.grehack.fr/) | Grenoble, France |  | November ? |
+| [GreHack](http://www.grehack.fr/) | Grenoble, France |  | November 17 |
+| [e-SAME](http://www.esame-conference.org/) | Sophia Antipolis, France | | ? |
 | [BlackHat EU](http://www.blackhat.com/) | London, UK |  ? | December 4-7 |
 | [DefCamp](http://def.camp/) | Bucharest, Romania | | November ? |
 | ZeroNights | Moscow, Russia | ? | November ? |
@@ -77,6 +79,7 @@ _Not exhaustive! I won't really be maintaining this list_
 | [ENIGMA](https://www.usenix.org/conference/enigma2017) | Oakland, CA, USA | ? |  Jan 30 - Feb 1 |
 | [ThotCon](http://www.thotcon.org/) | Chicago, USA | Jan 1 | May 4-5 |
 | [eCrime](http://apwg.org/apwg-events/ecrime2017/) | Scottdale, AZ, USA | January 13 | April 25-27 |
+| [DockerCon](http://2017.dockercon.com/) | Austin, TX, USA | - | April 17-20 | 
 | [RSA](https://www.rsaconference.com) conference | San Francisco, USA | ? | February 13-17 |
 | [NullCon](http://nullcon.net/website/) | Goa, India | ? | February 28 - March 4 |
 | [USENIX Security](https://www.usenix.org/conference/usenixsecurity17) | Vancouver, BC, Canada | February 16 | August 16-18 |
