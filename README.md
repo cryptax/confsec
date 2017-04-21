@@ -51,9 +51,9 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Hacktivity](http://hacktivity.com) | Budapest, Hungary | | October ? |
 | [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | ? | October 5-6 |
 | [Hack.lu](http://2017.hack.lu/) | Luxemburg |  ? | October 16-19 |
+| [GreHack](http://www.grehack.fr/) | Grenoble, France | July 15 | November 17 |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 26-27 |
-| [GreHack](http://www.grehack.fr/) | Grenoble, France |  | November 17 |
 | [e-SAME](http://www.esame-conference.org/) | Sophia Antipolis, France | | ? |
 | [BlackHat EU](http://www.blackhat.com/) | London, UK |  ? | December 4-7 |
 | [DefCamp](http://def.camp/) | Bucharest, Romania | | November ? |
