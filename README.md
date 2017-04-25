@@ -26,12 +26,12 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Sthack](https://www.sthack.fr/) [@sth4ck](https://twitter.com/sth4ck) | Bordeaux, France | ? | April 7 |
 | [Troopers](https://www.troopers.de/) [@WEareTROOPERS](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany |  | March 20-24 |
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | | March 23-24 |
+| [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | March 1 | May 10-11 | 
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | March 6 | June 19-23 |
 | [PhDays](http://www.phdays.com/)| Moscow, Russia | March 15 | May 23-24 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2017) | Madrid, Spain | March 19 | October 4-6 |
 | [SecITC](http://www.secitc.eu/) | Bucharest, Romania | March 17 | June 8-9 | 
 | [WarCon](http://warcon.pl/) | Warsaw, Poland |  ? | June 2-3 |
-| [Recon](http://recon.cx/) | Montreal, Canada | ? | June 16-18 |
 | [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May 18-19 |
 | [DotSecurity](https://www.dotsecurity.io/) [@DotSecurityIo](https://twitter.com/dotsecurityio) | Paris, France | ? | April 21 |
 | [Security of Things World](http://securityofthingsworld.com/en/) | Berlin, Germany | ? | June 12-13 | 
@@ -43,9 +43,9 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | ? | August 22-27 |
 | [SaSeIoT](http://securityiot.eu/2016/show/home) | ? | August? | October ? |
 | [AlligatorCon](http://alligatorcon.pl/) [@AlligatorCon](https://twitter.com/AlligatorConPL) | Krakow, Poland | ? | August 25-26 |
-| [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | ? | September ? |
-| [Hardwear.io](http://hardwear.io) | The Hague, Netherlands | ? | September ? |
+| [Hardwear.io](http://hardwear.io) | The Hague, Netherlands | May 20 | September 21-22 |
 | [44Con](https://44con.com/) | London, UK | May 31 | September 13-15 |
+| [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | July 1 | September 12-15 |
 | [BSidesZurich](https://bsideszh.ch/) [@BSidesZurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | July ? | September 23 |
 | [EICAR](http://www.eicar.org/17-0-General-Info.html) | | ? | October ? |
 | [Hacktivity](http://hacktivity.com) | Budapest, Hungary | | October ? |
@@ -54,8 +54,9 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [GreHack](http://www.grehack.fr/) | Grenoble, France | July 15 | November 17 |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 26-27 |
-| [e-SAME](http://www.esame-conference.org/) | Sophia Antipolis, France | | ? |
-| [BlackHat EU](http://www.blackhat.com/) | London, UK |  ? | December 4-7 |
+| [GreHack](http://www.grehack.fr/) | Grenoble, France |  July 15 | November 17 |
+| [e-SAME](http://www.esame-conference.org/) | Sophia Antipolis, France | | Nov 30? |
+| [BlackHat EU](https://europe-trainings-cfp.blackhat.com/) | London, UK |  ? | December 4-7 |
 | [DefCamp](http://def.camp/) | Bucharest, Romania | | November ? |
 | ZeroNights | Moscow, Russia | ? | November ? |
 | [DeepSec](https://deepsec.net/) | Vienna, Austria | ? | November ? |
@@ -64,7 +65,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [BotConf](https://www.botconf.eu/) | Montpellier, France | ? | December 5-8 |
 | [34C3](https://www.ccc.de/en/) | Berlin, Germany |  ? | December? |
 
-### Farther away
+### Further away
 
 _Not exhaustive! I won't really be maintaining this list_
 
@@ -91,6 +92,7 @@ _Not exhaustive! I won't really be maintaining this list_
 | [CanSecWest](https://cansecwest.com/) | Vancouver, Canada | | March 15-17 |
 | [NOPCon](http://www.nopcon.org/) | Istanbul, Turkey | ? | May ? |
 | [CircleCityCon](https://circlecitycon.com/) | Indianapolis, IN, USA | March 3 | June 9-11 |
+| [Recon](http://recon.cx/) | Montreal, Canada | ? | June 16-18 |
 | [AfricaHackon](http://africahackon.com/) | Nairobi, Kenya | ? | June 24-24 | 
 | [NorthSec](https://www.nsec.io) [@NorthSec_io](https://twitter.com/NorthSec_io) | Montreal, Canada | March 15 | May 16-21 |
 | [CHES](http://www.chesworkshop.org/) | Taipei, Taiwan | March 17 | September 25-28 |
@@ -101,7 +103,7 @@ _Not exhaustive! I won't really be maintaining this list_
 | [Recon](http://recon.cx/) | Montreal, Canada | ? | June 16-18 |
 | UnrestCon | Melbourne, Australia | | Jul 1-2 |
 | [BlackHat US](http://www.blackhat.com/) | Las Vegas, USA |  | July 22-27 |
-| [DEFCON 25](https://www.defcon.org/) | Las Vegas, USA |  | July 27-30 |
+| [DEFCON 25](https://www.defcon.org/) | Las Vegas, USA | May 1  | July 27-30 |
 | USENIX [WOOT](https://www.usenix.org/conference/woot17) | ? | ? | August ? |
 | [IoT Security Summit](https://tmt.knect365.com/iot-security/) | Washington DC, USA | ? | September ? |
 | [DerbyCon](https://www.derbycon.com/) [@DerbyCon](https://twitter.com/DerbyCon) | Louisville, KY, USA | August ? | September 20-24 |
