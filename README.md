@@ -11,6 +11,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [EuroS&P](http://www.ieee-security.org/TC/EuroSP2017/) [@IEEEEUROSP](https://twitter.com/IEEEEUROSP)| Paris, France | Aug 4 2016 | April 26-28 |
 | [Eurocrypt](https://eurocrypt2017.di.ens.fr/) | Paris, France | Oct 1 2016 | April 30-May 4 |
 | [Recon BRX](https://recon.cx/2017/brussels/) [@ReconBrx](https://twitter.com/reconbrx)| Brussels, Belgium | November 27 | January 23-27 |
+| [THCon](https://toulousehackingconvention.fr/) | Toulouse, France | | March 3 |
 | [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | December 19 | March 2-4 | 
 | [Hack in the box](http://conference.hitb.org/) | Amsterdam, The Netherlands | Dec 31 2016 | Apr 10-14 |
 | [SecuriTay](https://2017.securi-tay.co.uk/) | Dundee, Scotland | January 8 |  February 24 | 
