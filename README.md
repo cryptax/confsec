@@ -55,6 +55,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [GreHack](http://www.grehack.fr/) | Grenoble, France | July 15 | November 17 |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | ? | October 26-27 |
+| [Cardis](https://2017.cardis.org/call_papers.html) | Lugano, Switzerland | July 21 | November 13-15 | 
 | [BlackAlps](https://www.blackalps.ch/) [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | Yverdon les Bains, Switzerland | ? | November 15-16 | 
 | [GreHack](http://www.grehack.fr/) | Grenoble, France |  July 15 | November 17 |
 | [e-SAME](http://www.esame-conference.org/) | Sophia Antipolis, France | | Nov 30? |
