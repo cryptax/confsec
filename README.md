@@ -44,6 +44,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | ? | August 22-27 |
 | [SaSeIoT](http://securityiot.eu/2016/show/home) | ? | August? | October ? |
 | [AlligatorCon](http://alligatorcon.pl/) [@AlligatorCon](https://twitter.com/AlligatorConPL) | Krakow, Poland | ? | August 25-26 |
+| [r2con](http://rada.re/con/) | Barcelona, Spain | ? | September 7-9 |
 | [Hardwear.io](http://hardwear.io) | The Hague, Netherlands | May 20 | September 21-22 |
 | [44Con](https://44con.com/) | London, UK | May 31 | September 13-15 |
 | [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | July 1 | September 12-15 |
