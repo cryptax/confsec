@@ -47,10 +47,10 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [r2con](http://rada.re/con/) | Barcelona, Spain | ? | September 7-9 |
 | [Hardwear.io](http://hardwear.io) | The Hague, Netherlands | May 20 | September 21-22 |
 | [44Con](https://44con.com/) | London, UK | May 31 | September 13-15 |
+| [Hacktivity](https://hacktivity.com) | Budapest, Hungary | June 30 | October 20-21 |
 | [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | July 1 | September 12-15 |
 | [BSidesZurich](https://bsideszh.ch/) [@BSidesZurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | July ? | September 23 |
 | [EICAR](http://www.eicar.org/17-0-General-Info.html) | | ? | October ? |
-| [Hacktivity](http://hacktivity.com) | Budapest, Hungary | | October ? |
 | [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | ? | October 5-6 |
 | [Hack.lu](http://2017.hack.lu/) | Luxemburg |  ? | October 16-19 |
 | [GreHack](http://www.grehack.fr/) | Grenoble, France | July 15 | November 17 |
