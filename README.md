@@ -60,7 +60,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [EICAR](http://www.eicar.org/17-0-General-Info.html) | | ? | October ? |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | August 9 | October 26-27 |
 | [Cardis](https://2017.cardis.org/call_papers.html) | Lugano, Switzerland | July 21 | November 13-15 | 
-| [GreHack](http://www.grehack.fr/) | Grenoble, France |  July 15 | November 17 |
+| [BlackAlps](https://blackalps.ch/2017cfp.php) | Yverdon-les-Bains, Suisse |  June 30 | November 15-16 |
 | [e-SAME](http://www.esame-conference.org/) - CTF on Nov 30 | Sophia Antipolis, France | Invited cons | Nov 30-Dec 1 |
 | [BlackHat EU](https://europe-trainings-cfp.blackhat.com/) | London, UK |  ? | December 4-7 |
 | [DefCamp](http://def.camp/) | Bucharest, Romania | | November ? |
