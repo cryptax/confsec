@@ -131,6 +131,7 @@ _Not exhaustive! I won't really be maintaining this list_
 ## Other lists
 
 - [Wikicfp](http://wikicfp.com)
+- [CFPtime](http://cfptime.org)
 - [@pello's list](https://twitter.com/pello/lists/conferences/members)
 - [@niamtokik list](https://twitter.com/niamtokik/lists/events)
 - [Cyber Security Conferences in 2017](https://www.concise-courses.com/security/conferences-of-2017/)
