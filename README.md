@@ -52,19 +52,19 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Hacktivity](https://hacktivity.com) | Budapest, Hungary | June 30 | October 20-21 |
 | [BlackAlps](https://www.blackalps.ch/) [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | Yverdon les Bains, Switzerland | June 30 | November 15-16 | 
 | [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | July 1 | September 12-15 |
-| [BSidesLuxembourg](http://www.securitybsides.com/w/page/116774919/BSidesLuxembourg) [@BSidesLux](https://twitter.com/BSidesLux) | Luxemburg, Luxemburg | September 15 | October 20 |
 | [SaSeIoT](http://securityiot.eu/2017/show/home) | Valencia, Spain | July 15 | November 6-7 |
 | [GreHack](http://www.grehack.fr/) | Grenoble, France | July 15 | November 17 |
 | [BotConf](https://www.botconf.eu/) | Montpellier, France | July 15 | December 5-8 |
 | [Hack.lu](http://2017.hack.lu/) | Luxemburg | July 21 | October 16-19 |
+| [Cardis](https://2017.cardis.org/call_papers.html) | Lugano, Switzerland | July 21 | November 13-15 |
+| [DeepSec](https://deepsec.net/) | Vienna, Austria | July 31 | November 14-17 |
 | [EICAR](http://www.eicar.org/17-0-General-Info.html) | | ? | October ? |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | August 9 | October 26-27 |
-| [Cardis](https://2017.cardis.org/call_papers.html) | Lugano, Switzerland | July 21 | November 13-15 | 
-| [e-SAME](http://www.esame-conference.org/) - CTF on Nov 30 | Sophia Antipolis, France | Invited cons | Nov 30-Dec 1 |
+| [BSidesLuxembourg](http://www.securitybsides.com/w/page/116774919/BSidesLuxembourg) [@BSidesLux](https://twitter.com/BSidesLux) | Luxemburg, Luxemburg | September 15 | October 20 |
+| [e-SAME](http://www.esame-conference.org/) - CTF on Nov 30 | Sophia Antipolis, France | Invited talks | Nov 30-Dec 1 |
 | [BlackHat EU](https://europe-trainings-cfp.blackhat.com/) | London, UK |  ? | December 4-7 |
-| [DefCamp](http://def.camp/) | Bucharest, Romania | | November ? |
-| ZeroNights | Moscow, Russia | ? | November ? |
-| [DeepSec](https://deepsec.net/) | Vienna, Austria | ? | November ? |
+| [DefCamp](http://def.camp/) | Bucharest, Romania | October 25 | November 9-10 |
+| [ZeroNights](https://2017.zeronights.org/) | Moscow, Russia | ? | November 16-17 |
 | [BSidesVienna](http://bsidesvienna.at/) [@BSidesVienna](https://twitter.com/BSidesVienna) | Vienna, Austria | October ? | November ? |
 | [Driving IT](https://universe.ida.dk/driving-it/) | Copenhagen, Denmark | ? | November 3 |
 | [34C3](https://www.ccc.de/en/) | Berlin, Germany |  ? | December? |
