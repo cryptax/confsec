@@ -43,7 +43,6 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [RMLL Security track](https://2017.rmll.info/) | Saint Etienne, France |  | July 1-7 |
 | [SteelCon](https://www.steelcon.info/) | Sheffield, UK | ? | July 15-17 |
 | [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | ? | August 22-27 |
-| [SaSeIoT](http://securityiot.eu/2016/show/home) | ? | August? | October ? |
 | [AlligatorCon](http://alligatorcon.pl/) [@AlligatorCon](https://twitter.com/AlligatorConPL) | Krakow, Poland | ? | August 25-26 |
 | [r2con](http://rada.re/con/) | Barcelona, Spain | ? | September 7-9 |
 | [Hardwear.io](http://hardwear.io) | The Hague, Netherlands | May 20 | September 21-22 |
@@ -54,6 +53,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [BlackAlps](https://www.blackalps.ch/) [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | Yverdon les Bains, Switzerland | June 30 | November 15-16 | 
 | [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | July 1 | September 12-15 |
 | [BSidesLuxembourg](http://www.securitybsides.com/w/page/116774919/BSidesLuxembourg) [@BSidesLux](https://twitter.com/BSidesLux) | Luxemburg, Luxemburg | September 15 | October 20 |
+| [SaSeIoT](http://securityiot.eu/2017/show/home) | Valencia, Spain | July 15 | November 6-7 |
 | [GreHack](http://www.grehack.fr/) | Grenoble, France | July 15 | November 17 |
 | [BotConf](https://www.botconf.eu/) | Montpellier, France | July 15 | December 5-8 |
 | [Hack.lu](http://2017.hack.lu/) | Luxemburg | July 21 | October 16-19 |
@@ -108,18 +108,19 @@ _Not exhaustive! I won't really be maintaining this list_
 | UnrestCon | Melbourne, Australia | | Jul 1-2 |
 | [BlackHat US](http://www.blackhat.com/) | Las Vegas, USA |  | July 22-27 |
 | [DEFCON 25](https://www.defcon.org/) | Las Vegas, USA | May 1  | July 27-30 |
-| USENIX [WOOT](https://www.usenix.org/conference/woot17) | ? | ? | August ? |
-| [IoT Security Summit](https://tmt.knect365.com/iot-security/) | Washington DC, USA | ? | September ? |
-| [DerbyCon](https://www.derbycon.com/) [@DerbyCon](https://twitter.com/DerbyCon) | Louisville, KY, USA | August ? | September 20-24 |
-| [Ruxcon](https://ruxcon.org.au/) | Melbourne, Australia | ? | October ? |
-| ACM CCS | | September 25 2015 (!) | October ? |
-| [Ekoparty](https://www.ekoparty.org/) [@ekoparty](https://twitter.com/ekoparty) | Buenos Aires, Argentina | ? | October ? |
-| [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | August ? | October 24-26 |
+| [ACM CCS](https://www.sigsac.org/ccs/CCS2017/papers.html) | Dallas, USA | May 19 | October 30-Nov 1 |
+| USENIX [WOOT](https://www.usenix.org/conference/woot17) | Vancouver, BC, Canada | May 31 | August 14-15 |
+| [Ekoparty](https://www.ekoparty.org/) [@ekoparty](https://twitter.com/ekoparty) | Buenos Aires, Argentina | ? | September 27-29 |
+| [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | June 25 | October 24-26 |
+| [Ruxcon](https://ruxcon.org.au/) | Melbourne, Australia | June 30 | October 21-22 |
+| [DerbyCon](https://www.derbycon.com/) [@DerbyCon](https://twitter.com/DerbyCon) | Louisville, KY, USA | July 1 | September 20-24 |
+| [SyScan](https://www.syscan360.org/en/) | Beijing, China | July 31 | September 12-13 |
+| [IoT Security Summit](https://tmt.knect365.com/iot-security/) | Washington DC, USA | ? | October 23-24 |
 | [GrrCON](http://grrcon.com/) | Grand Rapids, MI, USA | ? | October 26-27 |
-| [Kiwicon](https://www.kiwicon.org/) | Wellington, New Zealand | ? | ? |
-| [SyScan](https://www.syscan360.org/en/) | Singapore | ? | November ? |
-| [AVAR](http://aavar.org) | ? | | November ? |
-| [SecTor](https://sector.ca/) | Toronto, Canada | August ? | November 13-15 |
+| [SecTor](https://sector.ca/) | Toronto, Canada | August 27 | November 13-15 |
+| [AVAR](http://aavar.org) | Beijing, China | September 30 | December 6-8 |
+| [Kiwicon](https://www.kiwicon.org/) | Wellington, New Zealand | October 14 | November 17-18 |
+
 
 
 ## Hey, that awesome conference is missing :)
