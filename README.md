@@ -43,7 +43,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [RMLL Security track](https://2017.rmll.info/) | Saint Etienne, France |  | July 1-7 |
 | [SteelCon](https://www.steelcon.info/) | Sheffield, UK | ? | July 15-17 |
 | [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | ? | August 22-27 |
-| [AlligatorCon](http://alligatorcon.pl/) [@AlligatorCon](https://twitter.com/AlligatorConPL) | Krakow, Poland | ? | August 25-26 |
+| [AlligatorCon](http://alligatorcon.pl/) [@AlligatorCon](https://twitter.com/AlligatorConPL) | Krakow, Poland | June 25 | August 25-26 |
 | [r2con](http://rada.re/con/) | Barcelona, Spain | ? | September 7-9 |
 | [Hardwear.io](http://hardwear.io) | The Hague, Netherlands | May 20 | September 21-22 |
 | [44Con](https://44con.com/) | London, UK | May 31 | September 13-15 |
