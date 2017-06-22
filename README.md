@@ -62,7 +62,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | August 9 | October 26-27 |
 | [BSidesLuxembourg](http://www.securitybsides.com/w/page/116774919/BSidesLuxembourg) [@BSidesLux](https://twitter.com/BSidesLux) | Luxemburg, Luxemburg | September 15 | October 20 |
 | [e-SAME](http://www.esame-conference.org/) - CTF on Nov 30 | Sophia Antipolis, France | Invited talks | Nov 30-Dec 1 |
-| [BlackHat EU](https://europe-trainings-cfp.blackhat.com/) | London, UK |  ? | December 4-7 |
+| [BlackHat EU](https://europe-trainings-cfp.blackhat.com/) | London, UK |  August 14 | December 4-7 |
 | [DefCamp](http://def.camp/) | Bucharest, Romania | October 25 | November 9-10 |
 | [NetSecure Day](http://www.netsecure-day.fr/) | Rouen, France | October 31 | December 14 |
 | [ZeroNights](https://2017.zeronights.org/) | Moscow, Russia | ? | November 16-17 |
