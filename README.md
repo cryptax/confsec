@@ -8,67 +8,67 @@ _Conferences are ordered by submission date (as much as possible)_.
 
 | Name           | Location	| CfP ends |  Conference dates |
 | --- | --- | --- | --- |
-| [EuroS&P](http://www.ieee-security.org/TC/EuroSP2017/) [@IEEEEUROSP](https://twitter.com/IEEEEUROSP)| Paris, France | Aug 4 2016 | April 26-28 |
-| [Eurocrypt](https://eurocrypt2017.di.ens.fr/) | Paris, France | Oct 1 2016 | April 30-May 4 |
 | [Recon BRX](https://recon.cx/2017/brussels/) [@ReconBrx](https://twitter.com/reconbrx)| Brussels, Belgium | November 27 | January 23-27 |
+| [SecuriTay](https://2017.securi-tay.co.uk/) | Dundee, Scotland | January 8 |  February 24 | 
 | [THCon](https://toulousehackingconvention.fr/) | Toulouse, France | | March 3 |
 | [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | December 19 | March 2-4 | 
-| [Hack in the box](http://conference.hitb.org/) | Amsterdam, The Netherlands | Dec 31 2016 | Apr 10-14 |
-| [SecuriTay](https://2017.securi-tay.co.uk/) | Dundee, Scotland | January 8 |  February 24 | 
-| [RuhrSec](https://www.ruhrsec.de/2017/) | Bochum, Germany | January 15 | May 2-5 |
-| [SSTIC](https://www.sstic.org) | Rennes, France | Jan 27 | June 7-9 |
-| [SHA2017](https://sha2017.org) | Scoutinglandgoed in Zeewolde Netherlands | February 1 | August 4-8 |
-| [CARO](http://2017.caro.org/) | Krakow, Poland | February 14  | May 11-12 |
-| [BSidesMunich](https://sites.google.com/view/bsidesmunich2017) @BSidesMunich | Munich, Germany | February 15 | April 3 |
-| [BSidesLjubljana](https://bsidesljubljana.si/) | Ljubljana, Slovenia | February 14 | March 10 |
-| [DIMVA](http://dimva2016.mondragon.edu/en) | Bonn, Germany | February 22 | July 6-7 |
-| [BSidesEdinburgh](https://www.bsidesedinburgh.org.uk) [@BSidesEdinburgh](https://twitter.com/BSidesEdinburgh) | Edinburgh, Scotland | End of February | April 7 | 
 | [Android Security Symposium](https://usmile.at/symposium) | Vienna, Austria | ? | March 8-10 |
-| [Sthack](https://www.sthack.fr/) [@sth4ck](https://twitter.com/sth4ck) | Bordeaux, France | ? | April 7 |
+| [BSidesLjubljana](https://bsidesljubljana.si/) | Ljubljana, Slovenia | February 14 | March 10 |
 | [Troopers](https://www.troopers.de/) [@WEareTROOPERS](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany |  | March 20-24 |
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | | March 23-24 |
-| [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | March 1 | May 10-11 | 
-| [Hack in Paris](https://hackinparis.com/) | Paris, France | March 6 | June 19-23 |
-| [PhDays](http://www.phdays.com/)| Moscow, Russia | March 15 | May 23-24 |
-| [Virus Bulletin](https://www.virusbtn.com/conference/vb2017) | Madrid, Spain | March 19 | October 4-6 |
-| [SecITC](http://www.secitc.eu/) | Bucharest, Romania | March 17 | June 8-9 | 
-| [WarCon](http://warcon.pl/) | Warsaw, Poland |  ? | June 2-3 |
-| [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May 18-19 |
+| [BSidesMunich](https://sites.google.com/view/bsidesmunich2017) @BSidesMunich | Munich, Germany | February 15 | April 3 |
+| [Sthack](https://www.sthack.fr/) [@sth4ck](https://twitter.com/sth4ck) | Bordeaux, France | ? | April 7 |
+| [BSidesEdinburgh](https://www.bsidesedinburgh.org.uk) [@BSidesEdinburgh](https://twitter.com/BSidesEdinburgh) | Edinburgh, Scotland | End of February | April 7 | 
+| [Hack in the box](http://conference.hitb.org/) | Amsterdam, The Netherlands | Dec 31 2016 | Apr 10-14 |
 | [DotSecurity](https://www.dotsecurity.io/) [@DotSecurityIo](https://twitter.com/dotsecurityio) | Paris, France | ? | April 21 |
+| [EuroS&P](http://www.ieee-security.org/TC/EuroSP2017/) [@IEEEEUROSP](https://twitter.com/IEEEEUROSP)| Paris, France | Aug 4 2016 | April 26-28 |
+| [Eurocrypt](https://eurocrypt2017.di.ens.fr/) | Paris, France | Oct 1 2016 | April 30-May 4 |
+| [RuhrSec](https://www.ruhrsec.de/2017/) | Bochum, Germany | January 15 | May 2-5 |
+| [CARO](http://2017.caro.org/) | Krakow, Poland | February 14  | May 11-12 |
+| [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May 18-19 |
+| [PhDays](http://www.phdays.com/)| Moscow, Russia | March 15 | May 23-24 |
+| [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | March 1 | May 10-11 | 
+| [SecurityFest](https://www.securityfest.com/cfp/) [@securityfest](https://twitter.com/securityfest) | Gothenburg, Sweden | April 15 | June 1 |
+| [WarCon](http://warcon.pl/) | Warsaw, Poland |  ? | June 2-3 |
+| [SSTIC](https://www.sstic.org) | Rennes, France | Jan 27 | June 7-9 |
+| [SecITC](http://www.secitc.eu/) | Bucharest, Romania | March 17 | June 8-9 | 
+| [Hack in Paris](https://hackinparis.com/) | Paris, France | March 6 | June 19-23 |
 | [Security of Things World](http://securityofthingsworld.com/en/) | Berlin, Germany | ? | June 12-13 | 
 | [La nuit du hack](https://www.nuitduhack.com/en/) | Paris, France | April 5 | June 24-25 |
-| [SecurityFest](https://www.securityfest.com/cfp/) [@securityfest](https://twitter.com/securityfest) | Gothenburg, Sweden | April 15 | June 1 |
-| [ESORICS](https://www.ntnu.edu/esorics2017) | Oslo, Norway | April 19 | September 11-15 |
-| [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | April 30 | October 5-6 |
 | [RMLL Security track](https://2017.rmll.info/) | Saint Etienne, France |  | July 1-7 |
+| [DIMVA](http://dimva2016.mondragon.edu/en) | Bonn, Germany | February 22 | July 6-7 |
 | [SteelCon](https://www.steelcon.info/) | Sheffield, UK | ? | July 15-17 |
+| [SHA2017](https://sha2017.org) | Scoutinglandgoed in Zeewolde Netherlands | February 1 | August 4-8 |
 | [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | ? | August 22-27 |
 | [AlligatorCon](http://alligatorcon.pl/) [@AlligatorCon](https://twitter.com/AlligatorConPL) | Krakow, Poland | June 25 | August 25-26 |
 | [r2con](http://rada.re/con/) | Barcelona, Spain | ? | September 7-9 |
-| [Hardwear.io](http://hardwear.io) | The Hague, Netherlands | May 20 | September 21-22 |
-| [44Con](https://44con.com/) | London, UK | May 31 | September 13-15 |
-| [BSidesZurich](https://bsideszh.ch/) [@BSidesZurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | June 20 | September 23 |
-| [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | June 25 | October 24-26 |
-| [Hacktivity](https://hacktivity.com) | Budapest, Hungary | June 30 | October 20-21 |
-| [BlackAlps](https://www.blackalps.ch/) [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | Yverdon les Bains, Switzerland | June 30 | November 15-16 | 
+| [ESORICS](https://www.ntnu.edu/esorics2017) | Oslo, Norway | April 19 | September 11-15 |
 | [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | July 1 | September 12-15 |
-| [SaSeIoT](http://securityiot.eu/2017/show/home) | Valencia, Spain | July 15 | November 6-7 |
-| [GreHack](http://www.grehack.fr/) | Grenoble, France | July 15 | November 17 |
-| [BotConf](https://www.botconf.eu/) | Montpellier, France | July 15 | December 5-8 |
+| [44Con](https://44con.com/) | London, UK | May 31 | September 13-15 |
+| [Hardwear.io](http://hardwear.io) | The Hague, Netherlands | May 20 | September 21-22 |
+| [BSidesZurich](https://bsideszh.ch/) [@BSidesZurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | June 20 | September 23 |
+| [EICAR](http://www.eicar.org/17-0-General-Info.html) | | ? | October ? |
+| [Virus Bulletin](https://www.virusbtn.com/conference/vb2017) | Madrid, Spain | March 19 | October 4-6 |
+| [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | April 30 | October 5-6 |
+| [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | August 9 | October 26-27 |
+| [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | June 25 | October 24-26 |
+| [BSidesLuxembourg](http://www.securitybsides.com/w/page/116774919/BSidesLuxembourg) [@BSidesLux](https://twitter.com/BSidesLux) | Luxemburg, Luxemburg | September 15 | October 20 |
+| [Hacktivity](https://hacktivity.com) | Budapest, Hungary | June 30 | October 20-21 |
 | [Hack.lu](http://2017.hack.lu/) | Luxemburg | July 21 | October 16-19 |
 | [Cardis](https://2017.cardis.org/call_papers.html) | Lugano, Switzerland | July 21 | November 13-15 |
+| [BlackAlps](https://www.blackalps.ch/) [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | Yverdon les Bains, Switzerland | June 30 | November 15-16 | 
 | [DeepSec](https://deepsec.net/) | Vienna, Austria | July 31 | November 14-17 |
-| [EICAR](http://www.eicar.org/17-0-General-Info.html) | | ? | October ? |
-| [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | August 9 | October 26-27 |
-| [BSidesLuxembourg](http://www.securitybsides.com/w/page/116774919/BSidesLuxembourg) [@BSidesLux](https://twitter.com/BSidesLux) | Luxemburg, Luxemburg | September 15 | October 20 |
-| [e-SAME](http://www.esame-conference.org/) - CTF on Nov 30 | Sophia Antipolis, France | Invited talks | Nov 30-Dec 1 |
-| [BlackHat EU](https://europe-trainings-cfp.blackhat.com/) | London, UK |  ? | December 4-7 |
 | [DefCamp](http://def.camp/) | Bucharest, Romania | October 25 | November 9-10 |
-| [NetSecure Day](http://www.netsecure-day.fr/) | Rouen, France | October 31 | December 14 |
-| [ZeroNights](https://2017.zeronights.org/) | Moscow, Russia | ? | November 16-17 |
 | [BSidesVienna](http://bsidesvienna.at/) [@BSidesVienna](https://twitter.com/BSidesVienna) | Vienna, Austria | October ? | November ? |
 | [Driving IT](https://universe.ida.dk/driving-it/) | Copenhagen, Denmark | ? | November 3 |
+| [SaSeIoT](http://securityiot.eu/2017/show/home) | Valencia, Spain | July 15 | November 6-7 |
+| [ZeroNights](https://2017.zeronights.org/) | Moscow, Russia | ? | November 16-17 |
+| [GreHack](http://www.grehack.fr/) | Grenoble, France | July 15 | November 17 |
+| [e-SAME](http://www.esame-conference.org/) - CTF on Nov 30 | Sophia Antipolis, France | Invited talks | Nov 30-Dec 1 |
 | [34C3](https://www.ccc.de/en/) | Berlin, Germany |  ? | December? |
+| [BlackHat EU](https://europe-trainings-cfp.blackhat.com/) | London, UK |  ? | December 4-7 |
+| [BotConf](https://www.botconf.eu/) | Montpellier, France | July 15 | December 5-8 |
+| [NetSecure Day](http://www.netsecure-day.fr/) | Rouen, France | October 31 | December 14 |
 
 ### Further away
 
