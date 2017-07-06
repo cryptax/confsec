@@ -119,6 +119,7 @@ _Not exhaustive! I won't really be maintaining this list_
 | [IoT Security Summit](https://tmt.knect365.com/iot-security/) | Washington DC, USA | ? | October 23-24 |
 | [GrrCON](http://grrcon.com/) | Grand Rapids, MI, USA | ? | October 26-27 |
 | [SecTor](https://sector.ca/) | Toronto, Canada | August 27 | November 13-15 |
+| [Hackfest](https://hackfest.ca) | Quebec, Canada | September 30 | November 3-4 |
 | [AVAR](http://aavar.org) | Beijing, China | September 30 | December 6-8 |
 | [Kiwicon](https://www.kiwicon.org/) | Wellington, New Zealand | October 14 | November 17-18 |
 
