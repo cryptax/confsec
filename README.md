@@ -42,7 +42,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [BruCon](http://2016.brucon.org/) | Bruxelles, Belgium | April 30 | October 5-6 |
 | [RMLL Security track](https://2017.rmll.info/) | Saint Etienne, France |  | July 1-7 |
 | [SteelCon](https://www.steelcon.info/) | Sheffield, UK | ? | July 15-17 |
-| [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | ? | August 22-27 |
+| [Bornhack](https://bornhack.dk/) | Bornholm, Denmark | July 1st ~ | August 22-27 |
 | [AlligatorCon](http://alligatorcon.pl/) [@AlligatorCon](https://twitter.com/AlligatorConPL) | Krakow, Poland | June 25 | August 25-26 |
 | [r2con](http://rada.re/con/) | Barcelona, Spain | ? | September 7-9 |
 | [Hardwear.io](http://hardwear.io) | The Hague, Netherlands | May 20 | September 21-22 |
@@ -62,12 +62,11 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | August 9 | October 26-27 |
 | [BSidesLuxembourg](http://www.securitybsides.com/w/page/116774919/BSidesLuxembourg) [@BSidesLux](https://twitter.com/BSidesLux) | Luxemburg, Luxemburg | September 15 | October 20 |
 | [e-SAME](http://www.esame-conference.org/) - CTF on Nov 30 | Sophia Antipolis, France | Invited talks | Nov 30-Dec 1 |
-| [BlackHat EU](https://europe-trainings-cfp.blackhat.com/) | London, UK |  August 14 | December 4-7 |
+| [BlackHat EU](https://europe-briefings-cfp.blackhat.com/) | London, UK |  August 14 | December 4-7 |
 | [DefCamp](http://def.camp/) | Bucharest, Romania | October 25 | November 9-10 |
 | [NetSecure Day](http://www.netsecure-day.fr/) | Rouen, France | October 31 | December 14 |
-| [ZeroNights](https://2017.zeronights.org/) | Moscow, Russia | ? | November 16-17 |
-| [BSidesVienna](http://bsidesvienna.at/) [@BSidesVienna](https://twitter.com/BSidesVienna) | Vienna, Austria | October ? | November ? |
-| [Driving IT](https://universe.ida.dk/driving-it/) | Copenhagen, Denmark | ? | November 3 |
+| [ZeroNights](https://2017.zeronights.org/) | Moscow, Russia | October 1st | November 16-17 |
+| [BSidesVienna](http://bsidesvienna.at/) [@BSidesVienna](https://twitter.com/BSidesVienna) | Vienna, Austria | October 12 | November ? |
 | [34C3](https://www.ccc.de/en/) | Berlin, Germany |  ? | December? |
 
 ### Further away
@@ -76,7 +75,6 @@ _Not exhaustive! I won't really be maintaining this list_
 
 | Name           | Location	| CfP ends |  Conference dates |
 | --- | --- | --- | --- |
-| [NDSS](http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme/ndss-2017-call-papers) | San Diego, USA | Aug 12 2016 | Feb 26-March 1 |
 | [BlackHat Asia](https://www.blackhat.com/asia-17/) | Singapore | October 31 | March 28-31 | 
 | [IEEE S&P](http://www.ieee-security.org/TC/SP2017/index.html) | San Jose, CA, USA | Nov 11 2016 | May 22-24 |
 | [Infiltrate](http://infiltratecon.com/) [@InfiltrateCon](https://twitter.com/InfiltrateCon) | Miami, USA | Dec 14 | April 6 -7 |
@@ -106,16 +104,16 @@ _Not exhaustive! I won't really be maintaining this list_
 | [ICMC](http://icmconference.org/) [@CryptoModConf](https://twitter.com/CryptoModConf) | Washington DC, USA | ? | May 16-19 |
 | [BSidesKC](https://www.bsideskc.org/) [@_BSidesKC](https://twitter.com/_BSidesKC) | Kansas City, MO, USA | | May 20 |
 | [Recon](http://recon.cx/) | Montreal, Canada | ? | June 16-18 |
-| UnrestCon | Melbourne, Australia | | Jul 1-2 |
 | [BlackHat US](http://www.blackhat.com/) | Las Vegas, USA |  | July 22-27 |
 | [DEFCON 25](https://www.defcon.org/) | Las Vegas, USA | May 1  | July 27-30 |
 | [ACM CCS](https://www.sigsac.org/ccs/CCS2017/papers.html) | Dallas, USA | May 19 | October 30-Nov 1 |
 | USENIX [WOOT](https://www.usenix.org/conference/woot17) | Vancouver, BC, Canada | May 31 | August 14-15 |
-| [Ekoparty](https://www.ekoparty.org/) [@ekoparty](https://twitter.com/ekoparty) | Buenos Aires, Argentina | ? | September 27-29 |
+| [Ekoparty](https://www.ekoparty.org/) [@ekoparty](https://twitter.com/ekoparty) and [CFP](https://cfp.ekoparty.org/)| Buenos Aires, Argentina | ? | September 27-29 |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | June 25 | October 24-26 |
 | [Ruxcon](https://ruxcon.org.au/) | Melbourne, Australia | June 30 | October 21-22 |
 | [DerbyCon](https://www.derbycon.com/) [@DerbyCon](https://twitter.com/DerbyCon) | Louisville, KY, USA | July 1 | September 20-24 |
 | [SyScan](https://www.syscan360.org/en/) | Beijing, China | July 31 | September 12-13 |
+| [NDSS](http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme/ndss-2017-call-papers) | San Diego, USA | Aug 21 **2016** | Feb 18-21 **2018** |
 | [IoT Security Summit](https://tmt.knect365.com/iot-security/) | Washington DC, USA | ? | October 23-24 |
 | [GrrCON](http://grrcon.com/) | Grand Rapids, MI, USA | ? | October 26-27 |
 | [SecTor](https://sector.ca/) | Toronto, Canada | August 27 | November 13-15 |
