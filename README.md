@@ -53,10 +53,10 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [BlackAlps](https://www.blackalps.ch/) [@BlackAlpsConf](https://twitter.com/BlackAlpsConf) | Yverdon les Bains, Switzerland | June 30 | November 15-16 | 
 | [Sec-T](http://www.sec-t.org/) | Stockholm, Sweden | July 1 | September 12-15 |
 | [SaSeIoT](http://securityiot.eu/2017/show/home) | Valencia, Spain | July 15 | November 6-7 |
-| [GreHack](http://www.grehack.fr/) | Grenoble, France | July 15 | November 17 |
 | [BotConf](https://www.botconf.eu/) | Montpellier, France | July 15 | December 5-8 |
 | [Hack.lu](http://2017.hack.lu/) | Luxemburg | July 21 | October 16-19 |
 | [Cardis](https://2017.cardis.org/call_papers.html) | Lugano, Switzerland | July 21 | November 13-15 |
+| [GreHack](https://grehack.fr/2017/cfp) | Grenoble, France | July 23 | November 17 |
 | [DeepSec](https://deepsec.net/) | Vienna, Austria | July 31 | November 14-17 |
 | [EICAR](http://www.eicar.org/17-0-General-Info.html) | | ? | October ? |
 | [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | August 9 | October 26-27 |
@@ -117,6 +117,7 @@ _Not exhaustive! I won't really be maintaining this list_
 | [IoT Security Summit](https://tmt.knect365.com/iot-security/) | Washington DC, USA | ? | October 23-24 |
 | [GrrCON](http://grrcon.com/) | Grand Rapids, MI, USA | ? | October 26-27 |
 | [SecTor](https://sector.ca/) | Toronto, Canada | August 27 | November 13-15 |
+| [Hackfest](https://hackfest.ca) | Quebec, Canada | September 30 | November 3-4 |
 | [AVAR](http://aavar.org) | Beijing, China | September 30 | December 6-8 |
 | [Kiwicon](https://www.kiwicon.org/) | Wellington, New Zealand | October 14 | November 17-18 |
 
