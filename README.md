@@ -109,6 +109,7 @@ _Not exhaustive! I won't really be maintaining this list_
 | [DEFCON 25](https://www.defcon.org/) | Las Vegas, USA | May 1  | July 27-30 |
 | [ACM CCS](https://www.sigsac.org/ccs/CCS2017/papers.html) | Dallas, USA | May 19 | October 30-Nov 1 |
 | USENIX [WOOT](https://www.usenix.org/conference/woot17) | Vancouver, BC, Canada | May 31 | August 14-15 |
+| [HITCON](https://hitcon.org/2017/CMT/agenda.php) | Taipei, Taiwan | ? | August 25-26 |
 | [Ekoparty](https://www.ekoparty.org/) [@ekoparty](https://twitter.com/ekoparty) and [CFP](https://cfp.ekoparty.org/)| Buenos Aires, Argentina | ? | September 27-29 |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | June 25 | October 24-26 |
 | [Ruxcon](https://ruxcon.org.au/) | Melbourne, Australia | June 30 | October 21-22 |
