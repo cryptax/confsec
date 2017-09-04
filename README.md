@@ -112,6 +112,7 @@ _Not exhaustive! I won't really be maintaining this list_
 | USENIX [WOOT](https://www.usenix.org/conference/woot17) | Vancouver, BC, Canada | May 31 | August 14-15 |
 | [HITCON](https://hitcon.org/2017/CMT/agenda.php) | Taipei, Taiwan | ? | August 25-26 |
 | [Ekoparty](https://www.ekoparty.org/) [@ekoparty](https://twitter.com/ekoparty) and [CFP](https://cfp.ekoparty.org/)| Buenos Aires, Argentina | ? | September 27-29 |
+| [MRMCD](https://2017.mrmcd.net/) | Darmstadt, Germany | July 23 | September 1-3 |
 | [MALWARE](http://isiom.wssrl.org/) | Puerto Rico, USA | June 25 | October 24-26 |
 | [Ruxcon](https://ruxcon.org.au/) | Melbourne, Australia | June 30 | October 21-22 |
 | [DerbyCon](https://www.derbycon.com/) [@DerbyCon](https://twitter.com/DerbyCon) | Louisville, KY, USA | July 1 | September 20-24 |
@@ -123,6 +124,7 @@ _Not exhaustive! I won't really be maintaining this list_
 | [Hackfest](https://hackfest.ca) | Quebec, Canada | September 30 | November 3-4 |
 | [AVAR](http://aavar.org) | Beijing, China | September 30 | December 6-8 |
 | [Kiwicon](https://www.kiwicon.org/) | Wellington, New Zealand | October 14 | November 17-18 |
+
 
 
 
