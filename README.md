@@ -31,7 +31,8 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | March 6 | June 19-23 |
 | [PhDays](http://www.phdays.com/)| Moscow, Russia | March 15 | May 23-24 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2017) | Madrid, Spain | March 19 | October 4-6 |
-| [SecITC](http://www.secitc.eu/) | Bucharest, Romania | March 17 | June 8-9 | 
+| [SecITC](http://www.secitc.eu/) | Bucharest, Romania | March 17 | June 8-9 |
+| [ARES](https://www.ares-conference.eu) | Italy | March 31 | August 30-Sept 1 |
 | [WarCon](http://warcon.pl/) | Warsaw, Poland |  ? | June 2-3 |
 | [Confidence](http://confidence.org.pl/en/) | Krakow, Poland | ? | May 18-19 |
 | [DotSecurity](https://www.dotsecurity.io/) [@DotSecurityIo](https://twitter.com/dotsecurityio) | Paris, France | ? | April 21 |
