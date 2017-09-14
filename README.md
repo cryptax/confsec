@@ -1,4 +1,14 @@
-# Security conferences 
+# Security conferences
+
+## In 2018
+
+_Conferences are ordered by submission date (as much as possible)_.
+
+| Name           | Location	| CfP ends |  Conference dates |
+| --- | --- | --- | --- |
+| [Hack in Paris](https://hackinparis.com/) | Paris, France | Nov 29 (training), Feb 13 (talk) | June 25-29 2018 |
+| [Troopers](https://www.troopers.de/) [@WEareTROOPERS](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany | Dec 20 | March 12-16 2018 |
+
 
 ## In 2017
 
@@ -12,7 +22,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Eurocrypt](https://eurocrypt2017.di.ens.fr/) | Paris, France | Oct 1 2016 | April 30-May 4 |
 | [Recon BRX](https://recon.cx/2017/brussels/) [@ReconBrx](https://twitter.com/reconbrx)| Brussels, Belgium | November 27 | January 23-27 |
 | [THCon](https://toulousehackingconvention.fr/) | Toulouse, France | | March 3 |
-| [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | December 19 | March 2-4 | 
+| [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | December 19 | March 2-4 |
 | [Hack in the box](http://conference.hitb.org/) | Amsterdam, The Netherlands | Dec 31 2016 | Apr 10-14 |
 | [SecuriTay](https://2017.securi-tay.co.uk/) | Dundee, Scotland | January 8 |  February 24 | 
 | [RuhrSec](https://www.ruhrsec.de/2017/) | Bochum, Germany | January 15 | May 2-5 |
@@ -25,10 +35,8 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [BSidesEdinburgh](https://www.bsidesedinburgh.org.uk) [@BSidesEdinburgh](https://twitter.com/BSidesEdinburgh) | Edinburgh, Scotland | End of February | April 7 | 
 | [Android Security Symposium](https://usmile.at/symposium) | Vienna, Austria | ? | March 8-10 |
 | [Sthack](https://www.sthack.fr/) [@sth4ck](https://twitter.com/sth4ck) | Bordeaux, France | ? | April 7 |
-| [Troopers](https://www.troopers.de/) [@WEareTROOPERS](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany | Dec 20 | March 12-16 2018 |
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | | March 23-24 |
 | [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | March 1 | May 10-11 | 
-| [Hack in Paris](https://hackinparis.com/) | Paris, France | March 6 | June 19-23 |
 | [PhDays](http://www.phdays.com/)| Moscow, Russia | March 15 | May 23-24 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2017) | Madrid, Spain | March 19 | October 4-6 |
 | [SecITC](http://www.secitc.eu/) | Bucharest, Romania | March 17 | June 8-9 |
