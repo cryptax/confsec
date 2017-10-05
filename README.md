@@ -6,6 +6,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 
 | Name           | Location	| CfP ends |  Conference dates |
 | --- | --- | --- | --- |
+| [DFRWS EU](http://www.dfrws.org/node/579#proposals) | Florence, Italy | October 9 2017 | March 21-23 2018 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | Nov 29 (training), Feb 13 (talk) | June 25-29 2018 |
 | [Troopers](https://www.troopers.de/) [@WEareTROOPERS](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany | Dec 20 | March 12-16 2018 |
 
@@ -76,7 +77,8 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [DefCamp](http://def.camp/) | Bucharest, Romania | October 25 | November 9-10 |
 | [NetSecure Day](http://www.netsecure-day.fr/) | Rouen, France | October 31 | December 14 |
 | [ZeroNights](https://2017.zeronights.org/) | Moscow, Russia | October 1st | November 16-17 |
-| [BSidesVienna](http://bsidesvienna.at/) [@BSidesVienna](https://twitter.com/BSidesVienna) | Vienna, Austria | October 12 | November ? |
+| [BSidesVienna](http://bsidesvienna.at/) [@BSidesVienna](https://twitter.com/BSidesVienna) | Vienna, Austria | October 12 | November 18-19 |
+| [Ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | - | Nov 29 2017 |
 | [34C3](https://www.ccc.de/en/) | Berlin, Germany |  ? | December? |
 
 ### Further away
