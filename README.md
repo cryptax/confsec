@@ -11,6 +11,13 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Troopers](https://www.troopers.de/) [@WEareTROOPERS](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany | Dec 20 | March 12-16 2018 |
 
 
+Outside Europe:
+
+| Name           | Location	| CfP ends |  Conference dates |
+| --- | --- | --- | --- |
+| [Nullcon](https://nullcon.net/website/) | Goa, India | Nov 15, 2017 | 2-3 March 2018 |
+
+
 ## In 2017
 
 _Conferences are ordered by submission date (as much as possible)_.
