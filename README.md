@@ -9,6 +9,8 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [DFRWS EU](http://www.dfrws.org/node/579#proposals) | Florence, Italy | October 9 2017 | March 21-23 2018 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | Nov 29 (training), Feb 13 (talk) | June 25-29 2018 |
 | [Troopers](https://www.troopers.de/) [@WEareTROOPERS](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany | Dec 20 | March 12-16 2018 |
+| [SSTIC](https://www.sstic.org/2018/news/) | Rennes, France | Jan 28 2018 | June 13-15 2018 |
+
 
 
 Outside Europe:
