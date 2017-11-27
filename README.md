@@ -6,9 +6,13 @@ _Conferences are ordered by submission date (as much as possible)_.
 
 | Name           | Location	| CfP ends |  Conference dates |
 | --- | --- | --- | --- |
+| [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | ? | March 1-3 |
+| [THCon](https://18.toulousehackingconvention.fr/) - Toulouse Hacking Convention | Toulouse, France | January 17 | March 9-10 |
 | [DFRWS EU](http://www.dfrws.org/node/579#proposals) | Florence, Italy | October 9 2017 | March 21-23 2018 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | Nov 29 (training), Feb 13 (talk) | June 25-29 2018 |
 | [Troopers](https://www.troopers.de/) [@WEareTROOPERS](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany | Dec 20 | March 12-16 2018 |
+| [Hack in the box](http://conference.hitb.org/) | Amsterdam, The Netherlands | Dec 31 2017 | Apr 9-13 |
+| [CHES](https://ches.iacr.org/) | Amsterdam, The Netherlands | Dec 31 2017 | 9-12 Sept 2018 |
 | [SSTIC](https://www.sstic.org/2018/news/) | Rennes, France | Jan 28 2018 | June 13-15 2018 |
 
 
@@ -18,7 +22,6 @@ Outside Europe:
 | Name           | Location	| CfP ends |  Conference dates |
 | --- | --- | --- | --- |
 | [Nullcon](https://nullcon.net/website/) | Goa, India | Nov 15, 2017 | 2-3 March 2018 |
-
 
 ## In 2017
 
@@ -87,6 +90,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [NetSecure Day](http://www.netsecure-day.fr/) | Rouen, France | October 31 | December 14 |
 | [ZeroNights](https://2017.zeronights.org/) | Moscow, Russia | October 1st | November 16-17 |
 | [BSidesVienna](http://bsidesvienna.at/) [@BSidesVienna](https://twitter.com/BSidesVienna) | Vienna, Austria | October 12 | November 18-19 |
+| [BlackHoodie](https://www.blackhoodie.re) | Luxemburg | - | November 24-26 |
 | [Ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | - | Nov 29 2017 |
 | [34C3](https://www.ccc.de/en/) | Berlin, Germany |  ? | December? |
 
