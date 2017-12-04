@@ -5,8 +5,7 @@
 _Conferences are ordered by submission date (as much as possible)_.
 
 | Name           | Location	| CfP ends |  Conference dates |
-| --- | --- | --- | --- |
-
+| ----------------- | ------------- | -------- --- | -------------------------|
 | [DFRWS EU](http://www.dfrws.org/node/579#proposals) | Florence, Italy | October 9 2017 | March 21-23 2018 |
 | [CoRIIN](http://www.cecyf.fr/activites/recherche-et-developpement/coriin-2018/) | Lille, France | November 12 | Jan 22 |
 | [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | ? | March 1-3 |
@@ -20,14 +19,14 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [SSTIC](https://www.sstic.org/2018/news/) | Rennes, France | Jan 28 2018 | June 13-15 2018 |
 | [GreHack](https://grehack.fr) | Grenoble, France |  | November 16 |
 
-
-
 Outside Europe:
 
 | Name           | Location	| CfP ends |  Conference dates |
 | --- | --- | --- | --- |
+| [CrikeyCon](https://www.crikeycon.com/) | Brisbane, Australia | -| 24  February |
 | [Nullcon](https://nullcon.net/website/) | Goa, India | Nov 15, 2017 | 2-3 March 2018 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2018) | Montreal, Canada |  | October 3-5 |
+
 
 ## In 2017
 
