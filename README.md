@@ -14,10 +14,14 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Troopers](https://www.troopers.de/) [@WEareTROOPERS](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany | Dec 20 | March 12-16 2018 |
 | [Hack in the box](http://conference.hitb.org/) | Amsterdam, The Netherlands | Dec 31 2017 | Apr 9-13 |
 | [CHES](https://ches.iacr.org/) | Amsterdam, The Netherlands | Dec 31 2017 | 9-12 Sept 2018 |
+| [JSSI](https://ossir.org/jssi/index/jssi-2018-appel-a-communications.shtml) | Paris, France | January 7 2018 | March 13 |
 | [Insomni'hack](https://insomnihack.ch/?p=680) | Geneva, Switzerland | Jan 15 2017 | March 20-23 2018 |
 | [THCon](https://18.toulousehackingconvention.fr/) - Toulouse Hacking Convention | Toulouse, France | January 17 | March 9-10 |
 | [SSTIC](https://www.sstic.org/2018/news/) | Rennes, France | Jan 28 2018 | June 13-15 2018 |
+| [BsidesMunich](http://www.bsidesmunich.org/) | Munich, Germany | February 1 | April 8-9 |
+| [BSidesLjubljana](https://0x7e2.bsidesljubljana.si/cfp/) | Ljubljana, Slovenia | February 10 2018 | March 10 2018 |
 | [GreHack](https://grehack.fr) | Grenoble, France |  | November 16 |
+| [PhDays](https://www.phdays.com/en/) | ?, Russia | ? | May 15-16 |
 
 Outside Europe:
 
@@ -25,6 +29,7 @@ Outside Europe:
 | --- | --- | --- | --- |
 | [CrikeyCon](https://www.crikeycon.com/) | Brisbane, Australia | -| 24  February |
 | [Nullcon](https://nullcon.net/website/) | Goa, India | Nov 15, 2017 | 2-3 March 2018 |
+| [Zer0con](http://zer0con.org) | Seoul, South Korea | February 25 | 29-30 March 2018 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2018) | Montreal, Canada |  | October 3-5 |
 
 
@@ -97,7 +102,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [BSidesVienna](http://bsidesvienna.at/) [@BSidesVienna](https://twitter.com/BSidesVienna) | Vienna, Austria | October 12 | November 18-19 |
 | [BlackHoodie](https://www.blackhoodie.re) | Luxemburg | - | November 24-26 |
 | [Ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | - | Nov 29 2017 |
-| [34C3](https://www.ccc.de/en/) | Berlin, Germany |  ? | December? |
+| [34C3](https://www.ccc.de/en/) | Germany |  ? | December 29-30 |
 
 ### Further away
 
