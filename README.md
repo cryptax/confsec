@@ -6,7 +6,10 @@ _Conferences are ordered by submission date (as much as possible)_.
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [Hack It N](http://www.hack-it-n.com/) @hack_it_n | Pessac, France | ? | January 25 |
+| [BSidesLeeds](http://bsidesleeds.co.uk) | Leeds, UK | | January 26 |
 | [DFRWS EU](http://www.dfrws.org/node/579#proposals) | Florence, Italy | October 9 2017 | March 21-23 2018 |
+| [OverDrive](http://overdriveconference.com/) | Girona, Spain | December ? | April 18-20 |
 | [RECon Brussels](https://recon.cx/2018/brussels/) | Brussels, Belgium | ? | January 29 - February 4 2018 |
 | [CoRIIN](http://www.cecyf.fr/activites/recherche-et-developpement/coriin-2018/) | Lille, France | November 12 | Jan 22 |
 | [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | ? | March 1-3 |
@@ -21,8 +24,14 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [SSTIC](https://www.sstic.org/2018/news/) | Rennes, France | Jan 28 2018 | June 13-15 2018 |
 | [BsidesMunich](http://www.bsidesmunich.org/) | Munich, Germany | February 1 | April 8-9 |
 | [BSidesLjubljana](https://0x7e2.bsidesljubljana.si/cfp/) | Ljubljana, Slovenia | February 10 2018 | March 10 2018 |
+| [BsidesAthens](https://www.bsidesath.gr/) @BSidesAth | Athens, Greece | April ? |  June 23 | 
+| [BsidesCopenhagen]() @bsidescph | Copenhagen, Denmark | ? | May 2018 | 
+| [RuhrSec](https://www.ruhrsec.de/2018) @ruhrsec | Essen, Germany | ?  | May 15-18 2018 |
+| [WarCon](https://warcon.pl) @WarConPL | Warsaw, Poland | ? | June 1-2, 2018 |
+| [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | ? | September ? | 
 | [GreHack](https://grehack.fr) | Grenoble, France |  | November 16 |
 | [PhDays](https://www.phdays.com/en/) | ?, Russia | ? | May 15-16 |
+
 
 Outside Europe:
 
