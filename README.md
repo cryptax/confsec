@@ -28,8 +28,12 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [BsidesCopenhagen]() @bsidescph | Copenhagen, Denmark | ? | May 2018 | 
 | [RuhrSec](https://www.ruhrsec.de/2018) @ruhrsec | Essen, Germany | ?  | May 15-18 2018 |
 | [WarCon](https://warcon.pl) @WarConPL | Warsaw, Poland | ? | June 1-2, 2018 |
-| [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | ? | September ? | 
+| [Pass the SALT](https://2018.pass-the-salt.org/) | Lille, France | March 31 | July 2-4, 2018 | 
+| [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | ? | September ? |
+| Hack.lu @hack_lu | Luxembourg | ? | October 16-18 |
 | [GreHack](https://grehack.fr) | Grenoble, France |  | November 16 |
+| [BlackHat Europe]() | London, UK | ? | December 3-6 | 
+| [BotConf](https://botconf.eu) | Toulouse, France | ? | December 4-7 | 
 | [PhDays](https://www.phdays.com/en/) | ?, Russia | ? | May 15-16 |
 
 
