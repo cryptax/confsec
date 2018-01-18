@@ -34,7 +34,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [GreHack](https://grehack.fr) | Grenoble, France |  | November 16 |
 | [BlackHat Europe]() | London, UK | ? | December 3-6 | 
 | [BotConf](https://botconf.eu) | Toulouse, France | ? | December 4-7 | 
-| [PhDays](https://www.phdays.com/en/) | ?, Russia | ? | May 15-16 |
+| [PHDays](https://www.phdays.com/en/) | Moscow, Russia | ? | May 15-16 |
 
 
 Outside Europe:
