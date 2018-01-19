@@ -19,11 +19,13 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Hack in the box](http://conference.hitb.org/) | Amsterdam, The Netherlands | Dec 31 2017 | Apr 9-13 |
 | [CHES](https://ches.iacr.org/) | Amsterdam, The Netherlands | Dec 31 2017 | 9-12 Sept 2018 |
 | [JSSI](https://ossir.org/jssi/index/jssi-2018-appel-a-communications.shtml) | Paris, France | January 7 2018 | March 13 |
-| [Insomni'hack](https://insomnihack.ch/?p=680) | Geneva, Switzerland | Jan 15 2017 | March 20-23 2018 |
+| [Insomni'hack](https://insomnihack.ch/?p=680) | Geneva, Switzerland | Jan 15 | March 20-23 2018 |
+| [Securi-Tay](https://2018.securi-tay.co.uk/) | Dundee, UK | Jan 15 | March 2-3 | 
 | [THCon](https://18.toulousehackingconvention.fr/) - Toulouse Hacking Convention | Toulouse, France | January 17 | March 9-10 |
 | [SSTIC](https://www.sstic.org/2018/news/) | Rennes, France | Jan 28 2018 | June 13-15 2018 |
 | [BsidesMunich](http://www.bsidesmunich.org/) | Munich, Germany | February 1 | April 8-9 |
 | [BSidesLjubljana](https://0x7e2.bsidesljubljana.si/cfp/) | Ljubljana, Slovenia | February 10 2018 | March 10 2018 |
+| [AREA41](http://a41con.ch/home/) | Zurich, Switzerland | March 11 | June 15-16, 2018 | 
 | [BsidesAthens](https://www.bsidesath.gr/) @BSidesAth | Athens, Greece | April ? |  June 23 | 
 | [BsidesCopenhagen]() @bsidescph | Copenhagen, Denmark | ? | May 2018 | 
 | [RuhrSec](https://www.ruhrsec.de/2018) @ruhrsec | Essen, Germany | ?  | May 15-18 2018 |
