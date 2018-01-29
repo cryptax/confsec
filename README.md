@@ -24,16 +24,16 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [THCon](https://18.toulousehackingconvention.fr/) - Toulouse Hacking Convention | Toulouse, France | January 17 | March 9-10 |
 | [SSTIC](https://www.sstic.org/2018/news/) | Rennes, France | Jan 28 2018 | June 13-15 2018 |
 | [BsidesMunich](http://www.bsidesmunich.org/) | Munich, Germany | February 1 | April 8-9 |
-| [BSidesLjubljana](https://0x7e2.bsidesljubljana.si/cfp/) | Ljubljana, Slovenia | February 10 2018 | March 10 2018 |
+| [BSidesLjubljana](https://0x7e2.bsidesljubljana.si/cfp/) | Ljubljana, Slovenia | February 10 | March 10 2018 |
 | [Confidence](https://confidence.org.pl/) | Krakow, Poland | February 28 | June 4-5 |
-| [AREA41](http://a41con.ch/home/) | Zurich, Switzerland | March 11 | June 15-16, 2018 | 
-| [BsidesAthens](https://www.bsidesath.gr/) @BSidesAth | Athens, Greece | April 2 |  June 23 | 
 | [BsidesCopenhagen]() @bsidescph | Copenhagen, Denmark | ? | May 2018 | 
+| [PhDays](https://www.phdays.com/en/) | Moscow, Russia | March 10 | May 15-16 2018 |
 | [RuhrSec](https://www.ruhrsec.de/2018) @ruhrsec | Essen, Germany | ?  | May 15-18 2018 |
 | [WarCon](https://warcon.pl) @WarConPL | Warsaw, Poland | ? | June 1-2, 2018 |
-| [PhDays](https://www.phdays.com/en/) | Moscow, Russia | March 10 | May 15-16 2018 |
+| [AREA41](http://a41con.ch/home/) | Zurich, Switzerland | March 11 | June 15-16, 2018 | 
 | [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | | May 29-30 | 
-| [Pass the SALT](https://2018.pass-the-salt.org/) | Lille, France | March 31 | July 2-4, 2018 | 
+| [Pass the SALT](https://2018.pass-the-salt.org/) | Lille, France | March 31 | July 2-4, 2018 |
+| [BsidesAthens](https://www.bsidesath.gr/) @BSidesAth | Athens, Greece | April 2 |  June 23 | 
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | June 1 | September 13-14 |
 | Hack.lu @hack_lu | Luxembourg | ? | October 16-18 |
 | [GreHack](https://grehack.fr) | Grenoble, France |  | November 16 |
