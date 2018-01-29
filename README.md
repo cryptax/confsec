@@ -25,28 +25,35 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [SSTIC](https://www.sstic.org/2018/news/) | Rennes, France | Jan 28 2018 | June 13-15 2018 |
 | [BsidesMunich](http://www.bsidesmunich.org/) | Munich, Germany | February 1 | April 8-9 |
 | [BSidesLjubljana](https://0x7e2.bsidesljubljana.si/cfp/) | Ljubljana, Slovenia | February 10 2018 | March 10 2018 |
+| [Confidence](https://confidence.org.pl/) | Krakow, Poland | February 28 | June 4-5 |
 | [AREA41](http://a41con.ch/home/) | Zurich, Switzerland | March 11 | June 15-16, 2018 | 
-| [BsidesAthens](https://www.bsidesath.gr/) @BSidesAth | Athens, Greece | April ? |  June 23 | 
+| [BsidesAthens](https://www.bsidesath.gr/) @BSidesAth | Athens, Greece | April 2 |  June 23 | 
 | [BsidesCopenhagen]() @bsidescph | Copenhagen, Denmark | ? | May 2018 | 
 | [RuhrSec](https://www.ruhrsec.de/2018) @ruhrsec | Essen, Germany | ?  | May 15-18 2018 |
 | [WarCon](https://warcon.pl) @WarConPL | Warsaw, Poland | ? | June 1-2, 2018 |
+| [PhDays](https://www.phdays.com/en/) | Moscow, Russia | March 10 | May 15-16 2018 |
+| [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | | May 29-30 | 
 | [Pass the SALT](https://2018.pass-the-salt.org/) | Lille, France | March 31 | July 2-4, 2018 | 
-| [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | ? | September ? |
+| [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | June 1 | September 13-14 |
 | Hack.lu @hack_lu | Luxembourg | ? | October 16-18 |
 | [GreHack](https://grehack.fr) | Grenoble, France |  | November 16 |
 | [BlackHat Europe]() | London, UK | ? | December 3-6 | 
-| [BotConf](https://botconf.eu) | Toulouse, France | ? | December 4-7 | 
-| [PHDays](https://www.phdays.com/en/) | Moscow, Russia | ? | May 15-16 |
+| [BotConf](https://botconf.eu) | Toulouse, France | ? | December 4-7 |
+| [eSAME](http://www.esame-conference.org/) | Sophia Antipolis, France | | December 13 |
+| [ph0wn](https://ph0wn.org) CTF | Sophia Antipolis, France | N/A | December 14 |
+
 
 
 Outside Europe:
 
 | Name           | Location	| CfP ends |  Conference dates |
 | --- | --- | --- | --- |
+| [BlueHat IL](http://www.bluehatil.com) @BlueHatIL | Tel Aviv, | Dec 4 | January 23-24 2018 |
 | [CrikeyCon](https://www.crikeycon.com/) | Brisbane, Australia | -| 24  February |
 | [Nullcon](https://nullcon.net/website/) | Goa, India | Nov 15, 2017 | 2-3 March 2018 |
 | [Zer0con](http://zer0con.org) | Seoul, South Korea | February 25 | 29-30 March 2018 |
-| [Virus Bulletin](https://www.virusbtn.com/conference/vb2018) | Montreal, Canada |  | October 3-5 |
+| [DEFCON 26](https://www.defcon.org/) | Las Vegas, USA | | August 9-12 2018 |
+| [Virus Bulletin](https://www.virusbtn.com/conference/vb2018) | Montreal, Canada | March 18 | October 3-5 |
 
 
 ## In 2017
