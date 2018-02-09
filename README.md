@@ -30,7 +30,8 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [PhDays](https://www.phdays.com/en/) | Moscow, Russia | March 10 | May 15-16 2018 |
 | [RuhrSec](https://www.ruhrsec.de/2018) @ruhrsec | Essen, Germany | ?  | May 15-18 2018 |
 | [WarCon](https://warcon.pl) @WarConPL | Warsaw, Poland | ? | June 1-2, 2018 |
-| [AREA41](http://a41con.ch/home/) | Zurich, Switzerland | March 11 | June 15-16, 2018 | 
+| [AREA41](http://a41con.ch/home/) | Zurich, Switzerland | March 11 | June 15-16, 2018 |
+| [Bsides London](https://docs.google.com/forms/d/e/1FAIpQLSfL1BLcvx4Xf1ezISLPrljhHhHHM-S2JLppyv3dI38uedn-gA/viewform) | London, UK | March 15 | June 6 2018 |
 | [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | | May 29-30 | 
 | [Pass the SALT](https://2018.pass-the-salt.org/) | Lille, France | March 31 | July 2-4, 2018 |
 | [BsidesAthens](https://www.bsidesath.gr/) @BSidesAth | Athens, Greece | April 2 |  June 23 | 
@@ -52,6 +53,7 @@ Outside Europe:
 | [CrikeyCon](https://www.crikeycon.com/) | Brisbane, Australia | -| 24  February |
 | [Nullcon](https://nullcon.net/website/) | Goa, India | Nov 15, 2017 | 2-3 March 2018 |
 | [Zer0con](http://zer0con.org) | Seoul, South Korea | February 25 | 29-30 March 2018 |
+| BlackHat US | Las Vegas, USA | April 9 | |
 | [DEFCON 26](https://www.defcon.org/) | Las Vegas, USA | | August 9-12 2018 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2018) | Montreal, Canada | March 18 | October 3-5 |
 
