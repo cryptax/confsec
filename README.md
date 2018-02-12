@@ -6,6 +6,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [SteelCon](https://steelcon.info/) @steel_con | Sheffield, UK | 6th April 2018 | July 2nd to 8th 2018 |
 | [Hack It N](http://www.hack-it-n.com/) @hack_it_n | Pessac, France | ? | January 25 |
 | [BSidesLeeds](http://bsidesleeds.co.uk) | Leeds, UK | | January 26 |
 | [DFRWS EU](http://www.dfrws.org/node/579#proposals) | Florence, Italy | October 9 2017 | March 21-23 2018 |
