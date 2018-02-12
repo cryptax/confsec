@@ -34,7 +34,8 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Bsides London](https://docs.google.com/forms/d/e/1FAIpQLSfL1BLcvx4Xf1ezISLPrljhHhHHM-S2JLppyv3dI38uedn-gA/viewform) | London, UK | March 15 | June 6 2018 |
 | [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | | May 29-30 | 
 | [Pass the SALT](https://2018.pass-the-salt.org/) | Lille, France | March 31 | July 2-4, 2018 |
-| [BsidesAthens](https://www.bsidesath.gr/) @BSidesAth | Athens, Greece | April 2 |  June 23 | 
+| [BsidesAthens](https://www.bsidesath.gr/) @BSidesAth | Athens, Greece | April 2 |  June 23 |
+| [SteelCon](https://www.steelcon.info/) @Steel_Con | Sheffield, UK | April 24 | July 7-9 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | June 1 | September 13-14 |
 | Hack.lu @hack_lu | Luxembourg | ? | October 16-18 |
 | [GreHack](https://grehack.fr) | Grenoble, France |  | November 16 |
@@ -54,6 +55,7 @@ Outside Europe:
 | [Nullcon](https://nullcon.net/website/) | Goa, India | Nov 15, 2017 | 2-3 March 2018 |
 | [Zer0con](http://zer0con.org) | Seoul, South Korea | February 25 | 29-30 March 2018 |
 | BlackHat US | Las Vegas, USA | April 9 | |
+| [WOOT](https://www.usenix.org/conference/woot18) | Baltimore, MD, USA | May 30 | August 13-14 |
 | [DEFCON 26](https://www.defcon.org/) | Las Vegas, USA | | August 9-12 2018 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2018) | Montreal, Canada | March 18 | October 3-5 |
 
