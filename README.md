@@ -55,11 +55,10 @@ Outside Europe:
 | [CrikeyCon](https://www.crikeycon.com/) | Brisbane, Australia | -| 24  February |
 | [Nullcon](https://nullcon.net/website/) | Goa, India | Nov 15, 2017 | 2-3 March 2018 |
 | [Zer0con](http://zer0con.org) | Seoul, South Korea | February 25 | 29-30 March 2018 |
-| BlackHat US | Las Vegas, USA | April 9 | |
-| [WOOT](https://www.usenix.org/conference/woot18) | Baltimore, MD, USA | May 30 | August 13-14 |
-| [DEFCON 26](https://www.defcon.org/) | Las Vegas, USA | | August 9-12 2018 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2018) | Montreal, Canada | March 18 | October 3-5 |
-
+| BlackHat US | Las Vegas, USA | April 9 | |
+| [DEFCON 26](https://www.defcon.org/) | Las Vegas, USA | May 1st | August 9-12 2018 |
+| [WOOT](https://www.usenix.org/conference/woot18) | Baltimore, MD, USA | May 30 | August 13-14 |
 
 ## In 2017
 
