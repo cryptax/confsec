@@ -38,6 +38,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [BsidesAthens](https://www.bsidesath.gr/) @BSidesAth | Athens, Greece | April 2 |  June 23 |
 | [SteelCon](https://www.steelcon.info/) @Steel_Con | Sheffield, UK | April 24 | July 7-9 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | June 1 | September 13-14 |
+| [R2con](http://radare.org/con/2018/) | Barcelona, Spain | End of June | September 5-8 |
 | [BruCon](https://2018.brucon.org) | Belgium | ? | October 3-5 |
 | Hack.lu @hack_lu | Luxembourg | ? | October 16-18 |
 | [GreHack](https://grehack.fr) | Grenoble, France |  | November 16 |
