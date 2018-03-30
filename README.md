@@ -41,6 +41,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [R2con](http://radare.org/con/2018/) | Barcelona, Spain | End of June | September 5-8 |
 | [BruCon](https://2018.brucon.org) | Belgium | ? | October 3-5 |
 | Hack.lu @hack_lu | Luxembourg | ? | October 16-18 |
+| [Linux Security Summit](https://events.linuxfoundation.org/events/linux-security-summit-europe-2018/) | Edinburgh | July 16 | October 25-26 |
 | [GreHack](https://grehack.fr) | Grenoble, France |  | November 16 |
 | [BlackHat Europe]() | London, UK | ? | December 3-6 | 
 | [BotConf](https://botconf.eu) | Toulouse, France | ? | December 4-7 |
