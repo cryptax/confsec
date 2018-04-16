@@ -24,6 +24,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Securi-Tay](https://2018.securi-tay.co.uk/) | Dundee, UK | Jan 15 | March 2-3 | 
 | [THCon](https://18.toulousehackingconvention.fr/) - Toulouse Hacking Convention | Toulouse, France | January 17 | March 9-10 |
 | [SSTIC](https://www.sstic.org/2018/news/) | Rennes, France | Jan 28 2018 | June 13-15 2018 |
+| [RivieraDev](http://rivieradev.fr/cfp) | Sophia Antipolis, France | January 31, 2018 | May 16-18 2018 |
 | [BsidesMunich](http://www.bsidesmunich.org/) | Munich, Germany | February 1 | April 8-9 |
 | [BSidesLjubljana](https://0x7e2.bsidesljubljana.si/cfp/) | Ljubljana, Slovenia | February 10 | March 10 2018 |
 | [Confidence](https://confidence.org.pl/) | Krakow, Poland | February 28 | June 4-5 |
@@ -56,6 +57,7 @@ Outside Europe:
 | [BlueHat IL](http://www.bluehatil.com) @BlueHatIL | Tel Aviv, | Dec 4 | January 23-24 2018 |
 | [CrikeyCon](https://www.crikeycon.com/) | Brisbane, Australia | -| 24  February |
 | [Nullcon](https://nullcon.net/website/) | Goa, India | Nov 15, 2017 | 2-3 March 2018 |
+| [Security Analyst Summit](https://sas.kaspersky.com/) | Cancun, Mexico | | March 7-11 |
 | [Zer0con](http://zer0con.org) | Seoul, South Korea | February 25 | 29-30 March 2018 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2018) | Montreal, Canada | March 18 | October 3-5 |
 | BlackHat US | Las Vegas, USA | April 9 | |
