@@ -6,6 +6,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [Hacktivity](https://www.hacktivity.com/call-for-papers) @hacktivityconf | Budapest, HU | July 15, 2018 | October 12-13, 2018 |
 | [SteelCon](https://dn.lc/steelcon18cfp) @steel_con | Sheffield, UK | 6th April 2018 | July 2nd to 8th 2018 |
 | [Hack It N](http://www.hack-it-n.com/) @hack_it_n | Pessac, France | ? | January 25 |
 | [BSidesLeeds](http://bsidesleeds.co.uk) | Leeds, UK | | January 26 |
