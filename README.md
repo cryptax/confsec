@@ -35,17 +35,19 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [WarCon](https://warcon.pl) @WarConPL | Warsaw, Poland | ? | June 1-2, 2018 |
 | [AREA41](http://a41con.ch/home/) | Zurich, Switzerland | March 11 | June 15-16, 2018 |
 | [Bsides London](https://docs.google.com/forms/d/e/1FAIpQLSfL1BLcvx4Xf1ezISLPrljhHhHHM-S2JLppyv3dI38uedn-gA/viewform) | London, UK | March 15 | June 6 2018 |
-| [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | | May 29-30 | 
+| [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | | May 29-30 |
+| [Carthage Cyber Arena](https://www.youtube.com/watch?v=QaYohyjblmQ) | Carthage, Tunisia | | June 28-29 |
 | [Pass the SALT](https://2018.pass-the-salt.org/) | Lille, France | March 31 | July 2-4, 2018 |
 | [BsidesAthens](https://www.bsidesath.gr/) @BSidesAth | Athens, Greece | April 2 |  June 23 |
 | [SteelCon](https://www.steelcon.info/) @Steel_Con | Sheffield, UK | April 24 | July 7-9 |
+| [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | May 31 | November 8-9 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | June 1 | September 13-14 |
 | [R2con](http://radare.org/con/2018/) | Barcelona, Spain | End of June | September 5-8 |
 | [BruCon](https://2018.brucon.org) | Belgium | ? | October 3-5 |
-| Hack.lu @hack_lu | Luxembourg | ? | October 16-18 |
-| [BSides Luxembourg](https://bsideslux.lu) [@BSidesLux](https://twitter.com/BSidesLux) | Luxemburg, Luxemburg | August 31 | October 19 |
+| Hack.lu @hack_lu | Luxembourg | June 10 | October 16-18 |
+| [GreHack](https://grehack.fr) | Grenoble, France | July 1 | November 16 |
 | [Linux Security Summit](https://events.linuxfoundation.org/events/linux-security-summit-europe-2018/) | Edinburgh | July 16 | October 25-26 |
-| [GreHack](https://grehack.fr) | Grenoble, France |  | November 16 |
+| [BSides Luxembourg](https://bsideslux.lu) [@BSidesLux](https://twitter.com/BSidesLux) | Luxemburg, Luxemburg | August 31 | October 19 |
 | [BlackHat Europe]() | London, UK | ? | December 3-6 | 
 | [BotConf](https://botconf.eu) | Toulouse, France | ? | December 4-7 |
 | [eSAME](http://www.esame-conference.org/) | Sophia Antipolis, France | | December 13 |
