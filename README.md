@@ -43,6 +43,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [SteelCon](https://www.steelcon.info/) @Steel_Con | Sheffield, UK | April 24 | July 7-9 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | May 31 | November 8-9 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | June 1 | September 13-14 |
+| [Bsides Manchester](https://www.bsidesmcr.org.uk/) @BSidesMCR | Manchester, UK | June 4 | August 16 |
 | [R2con](http://radare.org/con/2018/) | Barcelona, Spain | End of June | September 5-8 |
 | [BruCon](https://2018.brucon.org) | Belgium | ? | October 3-5 |
 | Hack.lu @hack_lu | Luxembourg | June 10 | October 16-18 |
