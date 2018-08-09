@@ -40,10 +40,11 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [Pass the SALT](https://2018.pass-the-salt.org/) | Lille, France | March 31 | July 2-4, 2018 |
 | [BsidesAthens](https://www.bsidesath.gr/) @BSidesAth | Athens, Greece | April 2 |  June 23 |
 | [SteelCon](https://www.steelcon.info/) @Steel_Con | Sheffield, UK | April 24 | July 7-9 |
-| [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | May 31 | November 8-9 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | June 1 | September 13-14 |
 | [R2con](http://radare.org/con/2018/) | Barcelona, Spain | End of June | September 5-8 |
+| [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | June 30 | November 8-9 |
 | [BruCon](https://2018.brucon.org) | Belgium | ? | October 3-5 |
+| [AMUSEC](https://www.amusec.fr) | Marseille, France | ? | October 11-12 |
 | Hack.lu @hack_lu | Luxembourg | June 10 | October 16-18 |
 | [GreHack](https://grehack.fr) | Grenoble, France | July 1 | November 16 |
 | [Linux Security Summit](https://events.linuxfoundation.org/events/linux-security-summit-europe-2018/) | Edinburgh | July 16 | October 25-26 |
