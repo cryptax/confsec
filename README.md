@@ -6,6 +6,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [SANS DFIR Summit](http://dfir.to/DFIRPragueCFP2018) @sansforensics | Prague, CZ | July 10, 2018 | October 1, 2018 |
 | [Hacktivity](https://www.hacktivity.com/call-for-papers) @hacktivityconf | Budapest, HU | July 15, 2018 | October 12-13, 2018 |
 | [SteelCon](https://dn.lc/steelcon18cfp) @steel_con | Sheffield, UK | 6th April 2018 | July 2nd to 8th 2018 |
 | [Hack It N](http://www.hack-it-n.com/) @hack_it_n | Pessac, France | ? | January 25 |
@@ -41,6 +42,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [BsidesAthens](https://www.bsidesath.gr/) @BSidesAth | Athens, Greece | April 2 |  June 23 |
 | [SteelCon](https://www.steelcon.info/) @Steel_Con | Sheffield, UK | April 24 | July 7-9 |
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | June 1 | September 13-14 |
+| [Bsides Manchester](https://www.bsidesmcr.org.uk/) @BSidesMCR | Manchester, UK | June 4 | August 16 |
 | [R2con](http://radare.org/con/2018/) | Barcelona, Spain | End of June | September 5-8 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | June 30 | November 8-9 |
 | [BruCon](https://2018.brucon.org) | Belgium | ? | October 3-5 |
