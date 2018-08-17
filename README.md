@@ -43,6 +43,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [SEC-T](https://www.sec-t.org/) | Stockholm, Sweden | June 1 | September 13-14 |
 | [Bsides Manchester](https://www.bsidesmcr.org.uk/) @BSidesMCR | Manchester, UK | June 4 | August 16 |
 | [R2con](http://radare.org/con/2018/) | Barcelona, Spain | End of June | September 5-8 |
+| [t2.fi]() | Helsinki, Finland | | October 25-26 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | June 30 | November 8-9 |
 | [BruCon](https://2018.brucon.org) | Belgium | ? | October 3-5 |
 | [AMUSEC](https://www.amusec.fr) | Marseille, France | ? | October 11-12 |
