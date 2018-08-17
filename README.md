@@ -8,7 +8,6 @@ _Conferences are ordered by submission date (as much as possible)_.
 | ---------------- | ------------- | ------------ | -------------------------|
 | [SANS DFIR Summit](http://dfir.to/DFIRPragueCFP2018) @sansforensics | Prague, CZ | July 10, 2018 | October 1, 2018 |
 | [Hacktivity](https://www.hacktivity.com/call-for-papers) @hacktivityconf | Budapest, HU | July 15, 2018 | October 12-13, 2018 |
-| [SteelCon](https://dn.lc/steelcon18cfp) @steel_con | Sheffield, UK | 6th April 2018 | July 2nd to 8th 2018 |
 | [Hack It N](http://www.hack-it-n.com/) @hack_it_n | Pessac, France | ? | January 25 |
 | [BSidesLeeds](http://bsidesleeds.co.uk) | Leeds, UK | | January 26 |
 | [DFRWS EU](http://www.dfrws.org/node/579#proposals) | Florence, Italy | October 9 2017 | March 21-23 2018 |
@@ -68,7 +67,7 @@ Outside Europe:
 | [Security Analyst Summit](https://sas.kaspersky.com/) | Cancun, Mexico | | March 7-11 |
 | [Zer0con](http://zer0con.org) | Seoul, South Korea | February 25 | 29-30 March 2018 |
 | [Virus Bulletin](https://www.virusbtn.com/conference/vb2018) | Montreal, Canada | March 18 | October 3-5 |
-| BlackHat US | Las Vegas, USA | April 9 | |
+| BlackHat US | Las Vegas, USA | April 9 | August 8-9 |
 | [DEFCON 26](https://www.defcon.org/) | Las Vegas, USA | May 1st | August 9-12 2018 |
 | [WOOT](https://www.usenix.org/conference/woot18) | Baltimore, MD, USA | May 30 | August 13-14 |
 
@@ -130,7 +129,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [GreHack](https://grehack.fr/2017/cfp) | Grenoble, France | July 23 | November 17 |
 | [DeepSec](https://deepsec.net/) | Vienna, Austria | July 31 | November 14-17 |
 | [EICAR](http://www.eicar.org/17-0-General-Info.html) | | ? | October ? |
-| [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | August 9 | October 26-27 |
+| [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | August 9 | October 25-26 |
 | [BSidesLuxembourg](http://www.securitybsides.com/w/page/116774919/BSidesLuxembourg) [@BSidesLux](https://twitter.com/BSidesLux) | Luxemburg, Luxemburg | September 15 | October 20 |
 | [e-SAME](http://www.esame-conference.org/) - CTF on Nov 30 | Sophia Antipolis, France | Invited talks | Nov 30-Dec 1 |
 | [BlackHat EU](https://europe-briefings-cfp.blackhat.com/) | London, UK |  August 14 | December 4-7 |
