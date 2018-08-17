@@ -130,7 +130,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [GreHack](https://grehack.fr/2017/cfp) | Grenoble, France | July 23 | November 17 |
 | [DeepSec](https://deepsec.net/) | Vienna, Austria | July 31 | November 14-17 |
 | [EICAR](http://www.eicar.org/17-0-General-Info.html) | | ? | October ? |
-| [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | August 9 | October 26-27 |
+| [T2.fi](http://t2.fi/conference/) | Helsinki, Finland | August 9 | October 25-26 |
 | [BSidesLuxembourg](http://www.securitybsides.com/w/page/116774919/BSidesLuxembourg) [@BSidesLux](https://twitter.com/BSidesLux) | Luxemburg, Luxemburg | September 15 | October 20 |
 | [e-SAME](http://www.esame-conference.org/) - CTF on Nov 30 | Sophia Antipolis, France | Invited talks | Nov 30-Dec 1 |
 | [BlackHat EU](https://europe-briefings-cfp.blackhat.com/) | London, UK |  August 14 | December 4-7 |
