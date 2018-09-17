@@ -1,5 +1,11 @@
 # Security conferences
 
+## In 2019
+
+| Name           | Location	| CfP ends |  Conference dates |
+| ---------------- | ------------- | ------------ | -------------------------|
+| [Hack in Paris](https://hackinparis.com/) | Paris, France | December 10 (talk) | June 16-20 2019 |
+
 ## In 2018
 
 _Conferences are ordered by submission date (as much as possible)_.
