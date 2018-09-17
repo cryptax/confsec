@@ -59,6 +59,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [BSides Luxembourg](https://bsideslux.lu) [@BSidesLux](https://twitter.com/BSidesLux) | Luxemburg, Luxemburg | August 31 | October 19 |
 | [BlackHat Europe]() | London, UK | ? | December 3-6 | 
 | [BotConf](https://botconf.eu) | Toulouse, France | ? | December 4-7 |
+| [NetSecure Day](https://www.netsecure-day.fr/) | Rouen, France | September 9 | December 13 |
 | [eSAME](http://www.esame-conference.org/) | Sophia Antipolis, France | | December 13 |
 | [ph0wn](https://ph0wn.org) CTF | Sophia Antipolis, France | N/A | December 14 |
 
