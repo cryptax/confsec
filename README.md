@@ -7,6 +7,12 @@
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | December 10 (talk) | June 16-20 2019 |
 | [Troopers](https://www.troopers.de) | Heidelberg, Germany | November 19, 2019 | March 18-22 2019 |
 
+Outside Europe
+
+| Name           | Location	| CfP ends |  Conference dates |
+| ---------------- | ------------- | ------------ | -------------------------|
+| [RSA Conference](https://www.rsaconference.com/events/us19/speakers) | San Francisco, USA | Opens Oct 2 | March 4 - 8 |
+
 ## In 2018
 
 _Conferences are ordered by submission date (as much as possible)_.
