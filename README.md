@@ -4,14 +4,18 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [Disobey](https://disobey.fi/) | Helsinki, Finland | Oct 31 | Jan 11-12 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | December 10 (talk) | June 16-20 2019 |
 | [Troopers](https://www.troopers.de) | Heidelberg, Germany | November 19, 2019 | March 18-22 2019 |
+| [Virus Bulletin](https://www.virusbulletin.com/conference/vb2019) | London, UK | ? | 2-4 October 2019 |
+
 
 Outside Europe
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
 | [RSA Conference](https://www.rsaconference.com/events/us19/speakers) | San Francisco, USA | Opens Oct 2 | March 4 - 8 |
+| [NorthSec](https://www.nsec.io/) | Montreal, Canada | ? | May 14-20 |
 
 ## In 2018
 
