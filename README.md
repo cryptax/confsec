@@ -73,6 +73,7 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [NetSecure Day](https://www.netsecure-day.fr/) | Rouen, France | September 9 | December 13 |
 | [eSAME](http://www.esame-conference.org/) | Sophia Antipolis, France | | December 13 |
 | [ph0wn](https://ph0wn.org) CTF | Sophia Antipolis, France | N/A | December 14 |
+| [35C3](https://www.ccc.de/en/) | Leipzig, Germany | October 15 | December 27-30 |
 
 
 
