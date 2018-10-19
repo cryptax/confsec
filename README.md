@@ -7,6 +7,7 @@
 | [Disobey](https://disobey.fi/) | Helsinki, Finland | Oct 31 | Jan 11-12 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | December 10 (talk) | June 16-20 2019 |
 | [Troopers](https://www.troopers.de) | Heidelberg, Germany | November 19, 2019 | March 18-22 2019 |
+| [Insomnihack](https://insomnihack.ch/) | Geneva, Switzerland | December 10 | March 19-22 2019 |
 | [Virus Bulletin](https://www.virusbulletin.com/conference/vb2019) | London, UK | ? | 2-4 October 2019 |
 
 
@@ -14,8 +15,9 @@ Outside Europe
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [RSA Conference](https://www.rsaconference.com/events/us19/speakers) | San Francisco, USA | Opens Oct 2 | March 4 - 8 |
+| [RSA Conference](https://www.rsaconference.com/events/us19/speakers) | San Francisco, USA | ? Closed | March 4 - 8 |
 | [NorthSec](https://www.nsec.io/) | Montreal, Canada | ? | May 14-20 |
+| [NullCon](http://nullcon.net/website/) | Goa, India | Nov 15, 2018 | February 26 - March 2 2019 |
 
 ## In 2018
 
@@ -23,8 +25,6 @@ _Conferences are ordered by submission date (as much as possible)_.
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [SANS DFIR Summit](http://dfir.to/DFIRPragueCFP2018) @sansforensics | Prague, CZ | July 10, 2018 | October 1, 2018 |
-| [Hacktivity](https://www.hacktivity.com/call-for-papers) @hacktivityconf | Budapest, HU | July 15, 2018 | October 12-13, 2018 |
 | [Hack It N](http://www.hack-it-n.com/) @hack_it_n | Pessac, France | ? | January 25 |
 | [BSidesLeeds](http://bsidesleeds.co.uk) | Leeds, UK | | January 26 |
 | [DFRWS EU](http://www.dfrws.org/node/579#proposals) | Florence, Italy | October 9 2017 | March 21-23 2018 |
@@ -66,9 +66,11 @@ _Conferences are ordered by submission date (as much as possible)_.
 | [AMUSEC](https://www.amusec.fr) | Marseille, France | ? | October 11-12 |
 | Hack.lu @hack_lu | Luxembourg | June 10 | October 16-18 |
 | [GreHack](https://grehack.fr) | Grenoble, France | July 1 | November 16 |
+| [SANS DFIR Summit](http://dfir.to/DFIRPragueCFP2018) @sansforensics | Prague, CZ | July 10, 2018 | October 1, 2018 |
+| [Hacktivity](https://www.hacktivity.com/call-for-papers) @hacktivityconf | Budapest, HU | July 15, 2018 | October 12-13, 2018 |
 | [Linux Security Summit](https://events.linuxfoundation.org/events/linux-security-summit-europe-2018/) | Edinburgh | July 16 | October 25-26 |
 | [BSides Luxembourg](https://bsideslux.lu) [@BSidesLux](https://twitter.com/BSidesLux) | Luxemburg, Luxemburg | August 31 | October 19 |
-| [BlackHat Europe]() | London, UK | ? | December 3-6 | 
+| [BlackHat Europe](https://www.blackhat.com) | London, UK | August 20  | December 3-6 | 
 | [BotConf](https://botconf.eu) | Toulouse, France | ? | December 4-7 |
 | [NetSecure Day](https://www.netsecure-day.fr/) | Rouen, France | September 9 | December 13 |
 | [eSAME](http://www.esame-conference.org/) | Sophia Antipolis, France | | December 13 |
