@@ -8,7 +8,9 @@
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | December 10 (talk) | June 16-20 2019 |
 | [Troopers](https://www.troopers.de) | Heidelberg, Germany | November 19, 2019 | March 18-22 2019 |
 | [Insomnihack](https://insomnihack.ch/) | Geneva, Switzerland | December 10 | March 19-22 2019 |
+| [CARO](https://www.caro2019.org) | Copenhagen, Denmark | January 14 | 23-24 May 2019 |
 | [Virus Bulletin](https://www.virusbulletin.com/conference/vb2019) | London, UK | ? | 2-4 October 2019 |
+
 
 
 Outside Europe
@@ -211,6 +213,7 @@ _Not exhaustive! I won't really be maintaining this list_
 | [DerbyCon](https://www.derbycon.com/) [@DerbyCon](https://twitter.com/DerbyCon) | Louisville, KY, USA | July 1 | September 20-24 |
 | [SyScan](https://www.syscan360.org/en/) | Beijing, China | July 31 | September 12-13 |
 | [NDSS](http://www.internetsociety.org/events/ndss-symposium/ndss-symposium-2017/ndss-2017-programme/ndss-2017-call-papers) | San Diego, USA | Aug 21 **2016** | Feb 18-21 **2018** |
+| [H2HC](https://www.h2hc.com.br/h2hc/pt/) | Sao Paulo, Brasil | July 17 | October 20-21 |
 | [IoT Security Summit](https://tmt.knect365.com/iot-security/) | Washington DC, USA | ? | October 23-24 |
 | [GrrCON](http://grrcon.com/) | Grand Rapids, MI, USA | ? | October 26-27 |
 | [SecTor](https://sector.ca/) | Toronto, Canada | August 27 | November 13-15 |
