@@ -10,6 +10,7 @@
 | [Insomnihack](https://insomnihack.ch/) | Geneva, Switzerland | December 10 | March 19-22 2019 |
 | [CARO](https://www.caro2019.org) | Copenhagen, Denmark | January 14 | 23-24 May 2019 |
 | [Virus Bulletin](https://www.virusbulletin.com/conference/vb2019) | London, UK | ? | 2-4 October 2019 |
+| [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | December 1 | February 15-16 2019 |
 
 
 
