@@ -4,6 +4,7 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [BSides Budapest](https://2019.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | January 15 2019 | March 28 2019 |
 | [Disobey](https://disobey.fi/) | Helsinki, Finland | Oct 31 | Jan 11-12 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | December 10 (talk) | June 16-20 2019 |
 | [Troopers](https://www.troopers.de) | Heidelberg, Germany | November 19, 2019 | March 18-22 2019 |
