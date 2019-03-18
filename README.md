@@ -4,15 +4,24 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | December 1 | February 15-16 2019 |
 | [BSides Budapest](https://2019.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | January 15 2019 | March 28 2019 |
 | [Disobey](https://disobey.fi/) | Helsinki, Finland | Oct 31 | Jan 11-12 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | December 10 (talk) | June 16-20 2019 |
 | [Troopers](https://www.troopers.de) | Heidelberg, Germany | November 19, 2019 | March 18-22 2019 |
 | [Insomnihack](https://insomnihack.ch/) | Geneva, Switzerland | December 10 | March 19-22 2019 |
+| [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | Passed | May 21-22 |
 | [CARO](https://www.caro2019.org) | Copenhagen, Denmark | January 14 | 23-24 May 2019 |
+| [RuhrSec](https://www.ruhrsec.de/2019/) | Bochum, Germany | Passed ? | May 28-29 |
+| [Pass The Salt](https://2019.pass-the-salt.org/) | Lille, France | March 31 |  July 1-3 2019 |
+| [r2con](https://www.radare.org/con/2019/) | Barcelona, Spain | ? | September 6-7 |
 | [SANS DFIR Europe Summit 2019](https://www.surveymonkey.co.uk/r/DFIR19CFP) @sansforensics | Prague, CZ | March 29, 2019 | September 30, 2019 |
+| [le Hack](https://submit.lehack.org/) | Paris, France | April 8 | July 6-7 |
+| [Hardwear.io](https://hardwear.io/) | The Hague, The Netherlands | May 15 | September 26-27 |
 | [Virus Bulletin](https://www.virusbulletin.com/conference/vb2019) | London, UK | ? | 2-4 October 2019 |
-| [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | December 1 | February 15-16 2019 |
+| [GreHack](https://grehack.fr) | Grenoble, France | July 19 | November 15 |
+| ph0wn CTF | Sophia Antipolis, France | - | December 13 |
+
 
 
 
@@ -20,7 +29,7 @@ Outside Europe
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [RSA Conference](https://www.rsaconference.com/events/us19/speakers) | San Francisco, USA | ? Closed | March 4 - 8 |
+| [RSA Conference](https://www.rsaconference.com/events/us19/speakers) | San Francisco, USA | Closed | March 4 - 8 |
 | [NorthSec](https://www.nsec.io/) | Montreal, Canada | ? | May 14-20 |
 | [NullCon](http://nullcon.net/website/) | Goa, India | Nov 15, 2018 | February 26 - March 2 2019 |
 
