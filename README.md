@@ -10,16 +10,27 @@
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | December 10 (talk) | June 16-20 2019 |
 | [Troopers](https://www.troopers.de) | Heidelberg, Germany | November 19, 2019 | March 18-22 2019 |
 | [Insomnihack](https://insomnihack.ch/) | Geneva, Switzerland | December 10 | March 19-22 2019 |
+| [Bsides Munich](http://www.bsidesmunich.org/) | Munich, Germany | | March 24-25, 2019 |
+| [RootedCON](https://www.rootedcon.com/) | Madrid, Spain | December 21 | March 28-30, 2019 |
 | [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | Passed | May 21-22 |
 | [CARO](https://www.caro2019.org) | Copenhagen, Denmark | January 14 | 23-24 May 2019 |
+| [Confidence](https://confidence-conference.org) | Krakow, Poland | February 15 | June 3-4 |
+| [Hack In The Box](https://conference.hitb.org) | Amsterdam, The Netherlands | Feb 28 | May 6-10 |
 | [RuhrSec](https://www.ruhrsec.de/2019/) | Bochum, Germany | Passed ? | May 28-29 |
+| [Virus Bulletin](https://www.virusbulletin.com/conference/vb2019) | London, UK | March 17 | 2-4 October 2019 |
+| [BSides London](https://www.securitybsides.org.uk/) | London, UK | March 20 | June 5 |
 | [Pass The Salt](https://2019.pass-the-salt.org/) | Lille, France | March 31 |  July 1-3 2019 |
 | [r2con](https://www.radare.org/con/2019/) | Barcelona, Spain | ? | September 6-7 |
 | [SANS DFIR Europe Summit 2019](https://www.surveymonkey.co.uk/r/DFIR19CFP) @sansforensics | Prague, CZ | March 29, 2019 | September 30, 2019 |
 | [le Hack](https://submit.lehack.org/) | Paris, France | April 8 | July 6-7 |
 | [Hardwear.io](https://hardwear.io/) | The Hague, The Netherlands | May 15 | September 26-27 |
-| [Virus Bulletin](https://www.virusbulletin.com/conference/vb2019) | London, UK | ? | 2-4 October 2019 |
+| [SEC-T](https://www.sec-t.org/call-for-papers/)  | Stockholm, Sweden | First round June 1 | September 19-20 |
+| [BruCon](ttps://www.brucon.org/2019/) | Brussels, Belgium | ? | October 10-11 |
+| [T2.FI](https://t2.fi/) | Helsinki, Finland | ? | October 24-25 |
+| [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | ? | November 7-8 |
+| [Defcamp](https://def.camp/) | Bucharest, Romania | November 8-9 |
 | [GreHack](https://grehack.fr) | Grenoble, France | July 19 | November 15 |
+| [BlackHat Europe](https://www.blackhat.com/) | | ? | December 2-5 |
 | ph0wn CTF | Sophia Antipolis, France | - | December 13 |
 
 
