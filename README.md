@@ -23,6 +23,7 @@
 | [r2con](https://www.radare.org/con/2019/) | Barcelona, Spain | ? | September 6-7 |
 | [SANS DFIR Europe Summit 2019](https://www.surveymonkey.co.uk/r/DFIR19CFP) @sansforensics | Prague, CZ | March 29, 2019 | September 30, 2019 |
 | [le Hack](https://submit.lehack.org/) | Paris, France | April 8 | July 6-7 |
+| [Hardwear.io](https://hardwear.io/)  USA | Santa Clara, USA | April 25 | June 11-14 |
 | [Hardwear.io](https://hardwear.io/) | The Hague, The Netherlands | May 15 | September 26-27 |
 | [SEC-T](https://www.sec-t.org/call-for-papers/)  | Stockholm, Sweden | First round June 1 | September 19-20 |
 | [BruCon](ttps://www.brucon.org/2019/) | Brussels, Belgium | ? | October 10-11 |
@@ -43,6 +44,7 @@ Outside Europe
 | [RSA Conference](https://www.rsaconference.com/events/us19/speakers) | San Francisco, USA | Closed | March 4 - 8 |
 | [NorthSec](https://www.nsec.io/) | Montreal, Canada | ? | May 14-20 |
 | [NullCon](http://nullcon.net/website/) | Goa, India | Nov 15, 2018 | February 26 - March 2 2019 |
+| [Recon](https://recon.cx/2019/montreal/) | Montreal, Canada | May 12 | June 28-30 |
 
 ## In 2018
 
