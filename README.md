@@ -28,6 +28,7 @@
 | [SEC-T](https://www.sec-t.org/call-for-papers/)  | Stockholm, Sweden | First round June 1 | September 19-20 |
 | [BruCon](ttps://www.brucon.org/2019/) | Brussels, Belgium | ? | October 10-11 |
 | [T2.FI](https://t2.fi/) | Helsinki, Finland | ? | October 24-25 |
+| [Hacktivity](https://www.hacktivity.com/call-for-papers) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, HU | July 15, 2019 | October 25-26, 2019 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | ? | November 7-8 |
 | [Defcamp](https://def.camp/) | Bucharest, Romania | November 8-9 |
 | [GreHack](https://grehack.fr) | Grenoble, France | July 19 | November 15 |
