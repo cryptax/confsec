@@ -19,6 +19,7 @@
 | [RuhrSec](https://www.ruhrsec.de/2019/) | Bochum, Germany | Passed ? | May 28-29 |
 | [Virus Bulletin](https://www.virusbulletin.com/conference/vb2019) | London, UK | March 17 | 2-4 October 2019 |
 | [BSides London](https://www.securitybsides.org.uk/) | London, UK | March 20 | June 5 |
+| [Sthack](https://sthack.fr/) | Bordeaux, France | ? |  June 14 | 
 | [Pass The Salt](https://2019.pass-the-salt.org/) | Lille, France | March 31 |  July 1-3 2019 |
 | [r2con](https://www.radare.org/con/2019/) | Barcelona, Spain | ? | September 6-7 |
 | [SANS DFIR Europe Summit 2019](https://www.surveymonkey.co.uk/r/DFIR19CFP) @sansforensics | Prague, CZ | March 29, 2019 | September 30, 2019 |
