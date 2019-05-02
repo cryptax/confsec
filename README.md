@@ -19,18 +19,21 @@
 | [RuhrSec](https://www.ruhrsec.de/2019/) | Bochum, Germany | Passed ? | May 28-29 |
 | [Virus Bulletin](https://www.virusbulletin.com/conference/vb2019) | London, UK | March 17 | 2-4 October 2019 |
 | [BSides London](https://www.securitybsides.org.uk/) | London, UK | March 20 | June 5 |
-| [Sthack](https://sthack.fr/) | Bordeaux, France | ? |  June 14 | 
+| [Sthack](https://sthack.fr/) | Bordeaux, France | ? |  June 14 |
+| [Secsea](https://secsea.org/) | Marseille, France | ? | June 15 |
 | [Pass The Salt](https://2019.pass-the-salt.org/) | Lille, France | March 31 |  July 1-3 2019 |
-| [r2con](https://www.radare.org/con/2019/) | Barcelona, Spain | ? | September 6-7 |
 | [SANS DFIR Europe Summit 2019](https://www.surveymonkey.co.uk/r/DFIR19CFP) @sansforensics | Prague, CZ | March 29, 2019 | September 30, 2019 |
 | [le Hack](https://submit.lehack.org/) | Paris, France | April 8 | July 6-7 |
 | [Hardwear.io](https://hardwear.io/)  USA | Santa Clara, USA | April 25 | June 11-14 |
+| [44CON](https://cfp.44con.com/) | London, UK | April 30 | September 11 |
+| [BruCon](https://www.brucon.org/2019/) | Brussels, Belgium | April 30 | October 10-11 |
 | [Hardwear.io](https://hardwear.io/) | The Hague, The Netherlands | May 15 | September 26-27 |
-| [SEC-T](https://www.sec-t.org/call-for-papers/)  | Stockholm, Sweden | First round June 1 | September 19-20 |
-| [BruCon](ttps://www.brucon.org/2019/) | Brussels, Belgium | ? | October 10-11 |
-| [T2.FI](https://t2.fi/) | Helsinki, Finland | ? | October 24-25 |
+| [r2con](https://www.radare.org/con/2019/) | Barcelona, Spain | July 1 | September 6-7 |
+| [Botconf](https://www.botconf.eu/) | Bordeaux, France | July 5 | December 4-6 |
+| [SEC-T](https://www.sec-t.org/call-for-papers/)  | Stockholm, Sweden | First round June 1 - Deadline Aug 1 | September 19-20 |
+| [T2.FI](https://t2.fi/) | Helsinki, Finland | July 31 | October 24-25 |
 | [Hacktivity](https://www.hacktivity.com/call-for-papers) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, HU | July 15, 2019 | October 25-26, 2019 |
-| [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | ? | November 7-8 |
+| [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | Open - Closing: ? | November 7-8 |
 | [Defcamp](https://def.camp/) | Bucharest, Romania | November 8-9 |
 | [GreHack](https://grehack.fr) | Grenoble, France | July 19 | November 15 |
 | [BlackHat Europe](https://www.blackhat.com/) | | ? | December 2-5 |
