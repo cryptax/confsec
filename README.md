@@ -17,6 +17,7 @@
 | [Confidence](https://confidence-conference.org) | Krakow, Poland | February 15 | June 3-4 |
 | [Hack In The Box](https://conference.hitb.org) | Amsterdam, The Netherlands | Feb 28 | May 6-10 |
 | [RuhrSec](https://www.ruhrsec.de/2019/) | Bochum, Germany | Passed ? | May 28-29 |
+| [Copenhagen Cybercrime Conference](https://www.cyberhagen.com/event/39cd5ea8-2155-4d38-8128-34b457dc0e98/summary?5S%2CM3%2C39cd5ea8-2155-4d38-8128-34b457dc0e98=) | Copenhagen, DK | ? | May 29 |
 | [Virus Bulletin](https://www.virusbulletin.com/conference/vb2019) | London, UK | March 17 | 2-4 October 2019 |
 | [BSides London](https://www.securitybsides.org.uk/) | London, UK | March 20 | June 5 |
 | [SANS DFIR Europe Summit 2019](https://www.surveymonkey.co.uk/r/DFIR19CFP) @sansforensics | Prague, CZ | March 29, 2019 | September 30, 2019 |
