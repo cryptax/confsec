@@ -4,40 +4,40 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | December 1 | February 15-16 2019 |
-| [BSides Budapest](https://2019.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | January 15 2019 | March 28 2019 |
 | [Disobey](https://disobey.fi/) | Helsinki, Finland | Oct 31 | Jan 11-12 |
-| [Hack in Paris](https://hackinparis.com/) | Paris, France | December 10 (talk) | June 16-20 2019 |
+| [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | December 1 | February 15-16 2019 |
 | [Troopers](https://www.troopers.de) | Heidelberg, Germany | November 19, 2019 | March 18-22 2019 |
 | [Insomnihack](https://insomnihack.ch/) | Geneva, Switzerland | December 10 | March 19-22 2019 |
 | [Bsides Munich](http://www.bsidesmunich.org/) | Munich, Germany | | March 24-25, 2019 |
+| [BSides Budapest](https://2019.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | January 15 2019 | March 28 2019 |
 | [RootedCON](https://www.rootedcon.com/) | Madrid, Spain | December 21 | March 28-30, 2019 |
+| [Hack In The Box](https://conference.hitb.org) | Amsterdam, The Netherlands | Feb 28 | May 6-10 |
 | [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | Passed | May 21-22 |
 | [CARO](https://www.caro2019.org) | Copenhagen, Denmark | January 14 | 23-24 May 2019 |
-| [Confidence](https://confidence-conference.org) | Krakow, Poland | February 15 | June 3-4 |
-| [Hack In The Box](https://conference.hitb.org) | Amsterdam, The Netherlands | Feb 28 | May 6-10 |
 | [RuhrSec](https://www.ruhrsec.de/2019/) | Bochum, Germany | Passed ? | May 28-29 |
 | [Copenhagen Cybercrime Conference](https://www.cyberhagen.com/event/39cd5ea8-2155-4d38-8128-34b457dc0e98/summary?5S%2CM3%2C39cd5ea8-2155-4d38-8128-34b457dc0e98=) | Copenhagen, DK | ? | May 29 |
-| [Virus Bulletin](https://www.virusbulletin.com/conference/vb2019) | London, UK | March 17 | 2-4 October 2019 |
+| [Confidence](https://confidence-conference.org) | Krakow, Poland | February 15 | June 3-4 |
 | [BSides London](https://www.securitybsides.org.uk/) | London, UK | March 20 | June 5 |
-| [SANS DFIR Europe Summit 2019](https://www.surveymonkey.co.uk/r/DFIR19CFP) @sansforensics | Prague, CZ | March 29, 2019 | September 30, 2019 |
-| [Pass The Salt](https://2019.pass-the-salt.org/) | Lille, France | March 31 |  July 1-3 2019 |
-| [le Hack](https://submit.lehack.org/) | Paris, France | April 8 | July 6-7 |
+| [Hack in Paris](https://hackinparis.com/) | Paris, France | December 10 (talk) | June 16-20 2019 |
 | [Hardwear.io](https://hardwear.io/)  USA | Santa Clara, USA | April 25 | June 11-14 |
-| [44CON](https://cfp.44con.com/) | London, UK | April 30 | September 11 |
-| [BruCon](https://www.brucon.org/2019/) | Brussels, Belgium | April 30 | October 10-11 |
 | [Sthack](https://sthack.fr/) | Bordeaux, France | ? |  June 14 |
 | [Secsea](https://secsea.org/) | Marseille, France | ? | June 15 |
-| [Hardwear.io](https://hardwear.io/) | The Hague, The Netherlands | May 15 | September 26-27 |
+| [Pass The Salt](https://2019.pass-the-salt.org/) | Lille, France | March 31 |  July 1-3 2019 |
+| [le Hack](https://submit.lehack.org/) | Paris, France | April 8 | July 6-7 |
 | [r2con](https://www.radare.org/con/2019/) | Barcelona, Spain | July 1 | September 6-7 |
-| [Botconf](https://www.botconf.eu/) | Bordeaux, France | July 5 | December 4-6 |
+| [44CON](https://cfp.44con.com/) | London, UK | April 30 | September 11 |
 | [SEC-T](https://www.sec-t.org/call-for-papers/)  | Stockholm, Sweden | First round June 1 - Deadline Aug 1 | September 19-20 |
+| [Hardwear.io](https://hardwear.io/) | The Hague, The Netherlands | May 15 | September 26-27 |
+| [SANS DFIR Europe Summit 2019](https://www.surveymonkey.co.uk/r/DFIR19CFP) @sansforensics | Prague, CZ | March 29, 2019 | September 30, 2019 |
+| [Virus Bulletin](https://www.virusbulletin.com/conference/vb2019) | London, UK | March 17 | 2-4 October 2019 |
+| [BruCon](https://www.brucon.org/2019/) | Brussels, Belgium | April 30 | October 10-11 |
 | [T2.FI](https://t2.fi/) | Helsinki, Finland | July 31 | October 24-25 |
 | [Hacktivity](https://www.hacktivity.com/call-for-papers) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, HU | July 15, 2019 | October 25-26, 2019 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | Open - Closing: ? | November 7-8 |
 | [Defcamp](https://def.camp/) | Bucharest, Romania | November 8-9 |
 | [GreHack](https://grehack.fr) | Grenoble, France | July 19 | November 15 |
 | [BlackHat Europe](https://www.blackhat.com/) | | ? | December 2-5 |
+| [Botconf](https://www.botconf.eu/) | Bordeaux, France | July 5 | December 4-6 |
 | ph0wn CTF | Sophia Antipolis, France | - | December 13 |
 
 
