@@ -33,6 +33,9 @@
 | [Botconf](https://www.botconf.eu/) | Bordeaux, France | July 5 | December 4-6 |
 | [SEC-T](https://www.sec-t.org/call-for-papers/)  | Stockholm, Sweden | First round June 1 - Deadline Aug 1 | September 19-20 |
 | [T2.FI](https://t2.fi/) | Helsinki, Finland | July 31 | October 24-25 |
+| MISP Threat Intelligence Summit | Luxembourg, Luxembourg | June 15, 2019 | October 21, 2019 |
+| [Hack.lu](http://2019.hack.lu) [@hack_lu](https://twitter.com/hack_lu) | Luxembourg, Luxembourg | June 15, 2019 | October 22-24, 2019 |
+| [BSides Luxembourg](https://bsideslux.lu) [@BSidesLux](https://twitter.com/BSidesLux) | Luxembourg, Luxembourg | August 30, 2019 | October 25, 2019 |
 | [Hacktivity](https://www.hacktivity.com/call-for-papers) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, HU | July 15, 2019 | October 25-26, 2019 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | Open - Closing: ? | November 7-8 |
 | [Defcamp](https://def.camp/) | Bucharest, Romania | November 8-9 |
