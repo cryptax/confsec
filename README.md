@@ -13,6 +13,7 @@
 | [Bsides Munich](http://www.bsidesmunich.org/) | Munich, Germany | | March 24-25, 2019 |
 | [RootedCON](https://www.rootedcon.com/) | Madrid, Spain | December 21 | March 28-30, 2019 |
 | [Paranoia](https://paranoia.watchcom.no/) | Oslo, Norway | Passed | May 21-22 |
+| [BSidesOslo](https://bsidesoslo.no/) | Oslo, Norway | ? | May 23 | 
 | [CARO](https://www.caro2019.org) | Copenhagen, Denmark | January 14 | 23-24 May 2019 |
 | [Confidence](https://confidence-conference.org) | Krakow, Poland | February 15 | June 3-4 |
 | [Hack In The Box](https://conference.hitb.org) | Amsterdam, The Netherlands | Feb 28 | May 6-10 |
@@ -29,6 +30,7 @@
 | [Sthack](https://sthack.fr/) | Bordeaux, France | ? |  June 14 |
 | [Secsea](https://secsea.org/) | Marseille, France | ? | June 15 |
 | [Hardwear.io](https://hardwear.io/) | The Hague, The Netherlands | May 15 | September 26-27 |
+| [Elbsides](https://2019.elbsides.de/cfp.html) | Hamburg, Germany | June 23 | September 16 |
 | [r2con](https://www.radare.org/con/2019/) | Barcelona, Spain | July 1 | September 6-7 |
 | [Botconf](https://www.botconf.eu/) | Bordeaux, France | July 5 | December 4-6 |
 | [SEC-T](https://www.sec-t.org/call-for-papers/)  | Stockholm, Sweden | First round June 1 - Deadline Aug 1 | September 19-20 |
