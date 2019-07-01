@@ -41,7 +41,7 @@
 | [Hacktivity](https://www.hacktivity.com/call-for-papers) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, HU | July 15, 2019 | October 25-26, 2019 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | Open - Closing: ? | November 7-8 |
 | [Defcamp](https://def.camp/) | Bucharest, Romania | November 8-9 |
-| [GreHack](https://grehack.fr) | Grenoble, France | July 19 | November 15 |
+| [GreHack](https://grehack.fr) | Grenoble, France | July 8 | November 15 |
 | [BlackHat Europe](https://www.blackhat.com/) | | ? | December 2-5 |
 | ph0wn CTF | Sophia Antipolis, France | - | December 13 |
 
