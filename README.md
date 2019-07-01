@@ -4,7 +4,9 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [ShmooCon](http://shmoocon.org/) | Washington DC, USA | ? | January 31-Feb 2 |
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | ? | February 14-15 2020 |
+| [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
 
 
 ## In 2019
@@ -63,6 +65,10 @@ Outside Europe
 | [NorthSec](https://www.nsec.io/) | Montreal, Canada | ? | May 14-20 |
 | [NullCon](http://nullcon.net/website/) | Goa, India | Nov 15, 2018 | February 26 - March 2 2019 |
 | [Recon](https://recon.cx/2019/montreal/) | Montreal, Canada | May 12 | June 28-30 |
+| [DerbyCon](https://www.derbycon.com/) [@DerbyCon](https://twitter.com/DerbyCon) | Louisville, KY, USA | June 9 | September 4-8 |
+| [Hack in the Box Singapore](https://gsec.hitb.org/sg2019/) | Singapore | | August 26-30 |
+| [MALCON](http://isiom.wssrl.org/) | Massachusetts, USA | July 25 | October 1-3 |
+| [eCrime](http://apwg.org/apwg-events/ecrime2019/) | Scottdale, AZ, USA | August 16 | November 13-15 |
 
 ## In 2018
 
