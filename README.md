@@ -7,7 +7,7 @@
 | [ShmooCon](http://shmoocon.org/) | Washington DC, USA | ? | January 31-Feb 2 |
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | ? | February 14-15 2020 |
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
-
+| [RuhrSec](https://www.ruhrsec.de/2020/) | Bochum, Germany | January 13 | May 5-8 |
 
 ## In 2019
 
