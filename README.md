@@ -1,5 +1,12 @@
 # Security conferences
 
+## In 2020
+
+| Name           | Location	| CfP ends |  Conference dates |
+| ---------------- | ------------- | ------------ | -------------------------|
+| [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | ? | February 14-15 2020 |
+
+
 ## In 2019
 
 | Name           | Location	| CfP ends |  Conference dates |
@@ -40,7 +47,7 @@
 | [BSides Luxembourg](https://bsideslux.lu) [@BSidesLux](https://twitter.com/BSidesLux) | Luxembourg, Luxembourg | August 30, 2019 | October 25, 2019 |
 | [Hacktivity](https://www.hacktivity.com/call-for-papers) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, HU | July 15, 2019 | October 25-26, 2019 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | Open - Closing: ? | November 7-8 |
-| [Defcamp](https://def.camp/) | Bucharest, Romania | November 8-9 |
+| [Defcamp](https://def.camp/) | Bucharest, Romania | October 15 (last round) | November 8-9 |
 | [GreHack](https://grehack.fr) | Grenoble, France | July 8 | November 15 |
 | [BlackHat Europe](https://www.blackhat.com/) | | ? | December 2-5 |
 | ph0wn CTF | Sophia Antipolis, France | - | December 13 |
