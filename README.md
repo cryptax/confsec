@@ -50,6 +50,7 @@
 | [No Hat](https://www.nohat.it/) | Bergamo, Italy | August 1 | September 14 |
 | [BSides Luxembourg](https://bsideslux.lu) [@BSidesLux](https://twitter.com/BSidesLux) | Luxembourg, Luxembourg | August 30, 2019 | October 25, 2019 |
 | [Hacktivity](https://www.hacktivity.com/call-for-papers) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, HU | July 15, 2019 | October 25-26, 2019 |
+| [SECURE](https://www.secure.edu.pl/en/secure-2019-call-for-speakers) | Warsaw, Poland | July 22 | Oct 22-23 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | Open - Closing: ? | November 7-8 |
 | [Defcamp](https://def.camp/) | Bucharest, Romania | October 15 (last round) | November 8-9 |
 | [GreHack](https://grehack.fr) | Grenoble, France | July 8 | November 15 |
