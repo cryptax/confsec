@@ -8,6 +8,15 @@
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | ? | February 14-15 2020 |
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
 | [RuhrSec](https://www.ruhrsec.de/2020/) | Bochum, Germany | January 13 | May 5-8 |
+| [CARO](https://www.caro2020.org/) | Bochum, Germany | ? | May 13-15 |
+
+
+### Outside Europe
+
+| Name           | Location	| CfP ends |  Conference dates |
+| ---------------- | ------------- | ------------ | -------------------------|
+| [RSA](https://www.rsaconference.com/) | San Francisco, US | August 9 | Feb 24-28 |
+
 
 ## In 2019
 
@@ -52,7 +61,7 @@
 | [BSides Belfast](https://www.bsidesbelfast.org/cfp/) | Belfast, Ireland | Sept 1, 2019 | October 31, 2019 |
 | [Hacktivity](https://www.hacktivity.com/call-for-papers) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, HU | July 15, 2019 | October 25-26, 2019 |
 | [SECURE](https://www.secure.edu.pl/en/secure-2019-call-for-speakers) | Warsaw, Poland | July 22 | Oct 22-23 |
-| [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | Open - Closing: ? | November 7-8 |
+| [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | July 6 | November 7-8 |
 | [Defcamp](https://def.camp/) | Bucharest, Romania | October 15 (last round) | November 8-9 |
 | [GreHack](https://grehack.fr) | Grenoble, France | July 8 | November 15 |
 | [BlackHat Europe](https://www.blackhat.com/) | | ? | December 2-5 |
@@ -278,6 +287,7 @@ _Not exhaustive! I won't really be maintaining this list_
 
 
 ## Hey, that awesome conference is missing :)
+
 
 - It's not an exhaustive list :)
 - If it's awesome + not too far away + you'd like me to submit, be sure to tweet (@cryptax) me as perhaps I don't know about it :)
