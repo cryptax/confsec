@@ -53,6 +53,7 @@
 | [r2con](https://www.radare.org/con/2019/) | Barcelona, Spain | July 1 | September 6-7 |
 | [AMUSEC](https://www.amusec.fr/) | Marseille, France | ? | October 3-4 |
 | [Botconf](https://www.botconf.eu/) | Bordeaux, France | July 5 | December 4-6 |
+| [BalCCon](https://2k19.balccon.org) | Vojvodina, Serbia | ? | September 13-15 |
 | [SEC-T](https://www.sec-t.org/call-for-papers/)  | Stockholm, Sweden | First round June 1 - Deadline Aug 1 | September 19-20 |
 | [T2.FI](https://t2.fi/) | Helsinki, Finland | July 31 | October 24-25 |
 | MISP Threat Intelligence Summit | Luxembourg, Luxembourg | June 15, 2019 | October 21, 2019 |
