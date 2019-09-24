@@ -4,9 +4,9 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [ShmooCon](http://shmoocon.org/) | Washington DC, USA | ? | January 31-Feb 2 |
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | ? | February 14-15 2020 |
-| [TROOPERS 20](https://cfp.ernw-insight.de/tr20/) | Heidelberg, Germany | ? | March 18-19 |
+| [TROOPERS 20](https://cfp.ernw-insight.de/tr20/) | Heidelberg, Germany | November 17 | March 18-19 |
+| [The SAS](https://thesascon.com/) sascfp@kaspersky.com | Barcelona, Spain | December 2 | April 6-9 |
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
 | [RuhrSec](https://www.ruhrsec.de/2020/) | Bochum, Germany | January 13 | May 5-8 |
 | [CARO](https://www.caro2020.org/) | Bochum, Germany | ? | May 13-15 |
@@ -16,6 +16,7 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [ShmooCon](http://shmoocon.org/) | Washington DC, USA | ? | January 31-Feb 2 |
 | [RSA](https://www.rsaconference.com/) | San Francisco, US | August 9 | Feb 24-28 |
 
 
