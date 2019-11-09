@@ -6,11 +6,13 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [CoRIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2020/) | Lille | Oct 31 | Jan 26 2020 |
 | [TROOPERS 20](https://cfp.ernw-insight.de/tr20/) | Heidelberg, Germany | November 17 | March 18-19 |
+| [Securi-tay](https://securi-tay.co.uk/) | Abertay, Scotland | ? | February 28 |
 | [The SAS](https://thesascon.com/) sascfp@kaspersky.com | Barcelona, Spain | December 2 | April 6-9 |
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | December 2 | February 14-15 2020 |
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
 | [RuhrSec](https://www.ruhrsec.de/2020/) | Bochum, Germany | January 13 | May 5-8 |
 | [CARO](https://www.caro2020.org/) | Bochum, Germany | ? | May 13-15 |
+| [Steelcon](https://www.steelcon.info) | Sheffield Uk | ? | July 7-12 |
 
 
 ### Outside Europe
@@ -68,6 +70,7 @@
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | July 6 | November 7-8 |
 | [Defcamp](https://def.camp/) | Bucharest, Romania | October 15 (last round) | November 8-9 |
 | [GreHack](https://grehack.fr) | Grenoble, France | July 8 | November 15 |
+| [Bsides NCL](http://bsidesnewcastle.org/) | Newcastle, UK | November 23 |
 | [BlackHat Europe](https://www.blackhat.com/) | | ? | December 2-5 |
 | ph0wn CTF | Sophia Antipolis, France | - | December 13 |
 
