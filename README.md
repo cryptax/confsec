@@ -6,11 +6,16 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [CoRIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2020/) | Lille | Oct 31 | Jan 26 2020 |
 | [TROOPERS 20](https://cfp.ernw-insight.de/tr20/) | Heidelberg, Germany | November 17 | March 18-19 |
+| [Euro S&P](https://www.ieee-security.org/TC/EuroSP2020/) | Genova, Italy | November 20 | June 16-18 |
 | [The SAS](https://thesascon.com/) sascfp@kaspersky.com | Barcelona, Spain | December 2 | April 6-9 |
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | December 2 | February 14-15 2020 |
+| [HackCon](https://www.hackcon.org/english/) | Oslo, Norway | | February 12-13 |
+| [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | Open | March 19-20 |
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
 | [RuhrSec](https://www.ruhrsec.de/2020/) | Bochum, Germany | January 13 | May 5-8 |
 | [CARO](https://www.caro2020.org/) | Bochum, Germany | ? | May 13-15 |
+| [AREA 41](http://area41.io/) | Zurich, Switzerland | ? | June 11-12 |
+
 
 
 ### Outside Europe
@@ -302,9 +307,11 @@ _Not exhaustive! I won't really be maintaining this list_
 - [CFPtime](http://cfptime.org)
 - [@pello's list](https://twitter.com/pello/lists/conferences/members)
 - [@niamtokik list](https://twitter.com/niamtokik/lists/events)
+- [Conference list 2019/2020](https://docs.google.com/spreadsheets/d/1SdJwWAwutrIKfh4o3c209hH81zB1e3gNS2StoBoqApU/edit#gid=0)
 - [Cyber Security Conferences in 2017](https://www.concise-courses.com/security/conferences-of-2017/)
 - [Virus Bulletin Calendar](https://www.virusbulletin.com/resources/calendar/)
 - [Past conference videos and talks](https://github.com/PaulSec/awesome-sec-talks)
+
 
 ## Ratings
 
