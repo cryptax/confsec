@@ -15,6 +15,7 @@
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | Open | March 19-20 |
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
 | [RuhrSec](https://www.ruhrsec.de/2020/) | Bochum, Germany | January 13 | May 5-8 |
+| [BSides Budapest](https://2020.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | January 20 | March 26 |
 | [CARO](https://www.caro2020.org/) | Bochum, Germany | ? | May 13-15 |
 | [AREA 41](http://area41.io/) | Zurich, Switzerland | ? | June 11-12 |
 | [Steelcon](https://www.steelcon.info) | Sheffield Uk | ? | July 7-12 |
