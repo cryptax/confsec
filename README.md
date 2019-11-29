@@ -10,12 +10,15 @@
 | [The SAS](https://thesascon.com/) sascfp@kaspersky.com | Barcelona, Spain | December 2 | April 6-9 |
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | December 2 | February 14-15 2020 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | December 20 | June 15-19 |
+| [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | December 23 | March 5-7 |
 | [HackCon](https://www.hackcon.org/english/) | Oslo, Norway | | February 12-13 |
 | [Securi-tay](https://securi-tay.co.uk/) | Abertay, Scotland | ? | February 28 |
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | Open | March 19-20 |
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
 | [RuhrSec](https://www.ruhrsec.de/2020/) | Bochum, Germany | January 13 | May 5-8 |
 | [BSides Budapest](https://2020.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | January 20 | March 26 |
+| [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | | May 13 |
+| [SSTIC](https://www.sstic.org/2020/news/) | Rennes, France | Feb 2 | June 3-5 | 
 | [CARO](https://www.caro2020.org/) | Bochum, Germany | ? | May 13-15 |
 | [AREA 41](http://area41.io/) | Zurich, Switzerland | ? | June 11-12 |
 | [Steelcon](https://www.steelcon.info) | Sheffield Uk | ? | July 7-12 |
