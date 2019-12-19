@@ -18,7 +18,8 @@
 | [RuhrSec](https://www.ruhrsec.de/2020/) | Bochum, Germany | January 13 | May 5-8 |
 | [BSides Budapest](https://2020.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | January 20 | March 26 |
 | [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | | May 13 |
-| [SSTIC](https://www.sstic.org/2020/news/) | Rennes, France | Feb 2 | June 3-5 | 
+| [SSTIC](https://www.sstic.org/2020/news/) | Rennes, France | Feb 2 | June 3-5 |
+| [Virus Bulletin](https://www.virusbulletin.com/blog/2019/12/vb2020-call-papers-now-open/) | Dublin, Ireland | March 15 | 30 Sept - Oct 2 |
 | [CARO](https://www.caro2020.org/) | Bochum, Germany | ? | May 13-15 |
 | [AREA 41](http://area41.io/) | Zurich, Switzerland | ? | June 11-12 |
 | [Steelcon](https://www.steelcon.info) | Sheffield Uk | ? | July 7-12 |
