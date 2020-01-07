@@ -4,26 +4,31 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [CoRIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2020/) | Lille | Oct 31 | Jan 26 2020 |
+| [CoRIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2020/) | Lille | Oct 31 | Jan 28 2020 |
 | [TROOPERS 20](https://cfp.ernw-insight.de/tr20/) | Heidelberg, Germany | November 17 | March 18-19 |
 | [Euro S&P](https://www.ieee-security.org/TC/EuroSP2020/) | Genova, Italy | November 20 | June 16-18 |
 | [The SAS](https://thesascon.com/) sascfp@kaspersky.com | Barcelona, Spain | December 2 | April 6-9 |
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | December 2 | February 14-15 2020 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | December 20 | June 15-19 |
 | [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | December 23 | March 5-7 |
+| [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | Closed | March 19-20 |
 | [HackCon](https://www.hackcon.org/english/) | Oslo, Norway | | February 12-13 |
 | [Securi-tay](https://securi-tay.co.uk/) | Abertay, Scotland | ? | February 28 |
-| [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | Open | March 19-20 |
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
 | [RuhrSec](https://www.ruhrsec.de/2020/) | Bochum, Germany | January 13 | May 5-8 |
 | [BSides Budapest](https://2020.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | January 20 | March 26 |
-| [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | | May 13 |
+| [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | Open | May 13 |
 | [SSTIC](https://www.sstic.org/2020/news/) | Rennes, France | Feb 2 | June 3-5 |
+| [THCon](https://thcon.party/) | Toulouse, France | February 7 | March 6 |
+| [BSides Munich](https://2020.bsidesmunich.org) | Munich, Germany | February 12 | April 26-27 |
 | [Virus Bulletin](https://www.virusbulletin.com/blog/2019/12/vb2020-call-papers-now-open/) | Dublin, Ireland | March 15 | 30 Sept - Oct 2 |
+| [Pass The Salt](https://cfp.pass-the-salt.org/) | Lille, France | March 31 | June 29- July 1 |
 | [CARO](https://www.caro2020.org/) | Bochum, Germany | ? | May 13-15 |
 | [AREA 41](http://area41.io/) | Zurich, Switzerland | ? | June 11-12 |
 | [Steelcon](https://www.steelcon.info) | Sheffield Uk | ? | July 7-12 |
 | Copenhagen CyberCrime conference | Copenhagen, Denmark | | September |
+
+
 
 
 ### Outside Europe
