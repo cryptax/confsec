@@ -17,7 +17,7 @@
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
 | [RuhrSec](https://www.ruhrsec.de/2020/) | Bochum, Germany | January 13 | May 5-8 |
 | [BSides Budapest](https://2020.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | January 20 | March 26 |
-| [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | Open | May 13 |
+| [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | March 13 | May 13 |
 | [SSTIC](https://www.sstic.org/2020/news/) | Rennes, France | Feb 2 | June 3-5 |
 | [THCon](https://thcon.party/) | Toulouse, France | February 7 | March 6 |
 | [BSides Munich](https://2020.bsidesmunich.org) | Munich, Germany | February 12 | April 26-27 |
