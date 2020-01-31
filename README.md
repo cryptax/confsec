@@ -17,16 +17,17 @@
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
 | [RuhrSec](https://www.ruhrsec.de/2020/) | Bochum, Germany | January 13 | May 5-8 |
 | [BSides Budapest](https://2020.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | January 20 | March 26 |
-| [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | March 13 | May 13 |
 | [SSTIC](https://www.sstic.org/2020/news/) | Rennes, France | Feb 2 | June 3-5 |
 | [THCon](https://thcon.party/) | Toulouse, France | February 7 | March 6 |
 | [BSides Munich](https://2020.bsidesmunich.org) | Munich, Germany | February 12 | April 26-27 |
+| [Copenhagen CyberCrime conference](https://www.cyberhagen.com) | Copenhagen, Denmark | Feb 29 | Sept 17 |
+| [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | March 13 | May 13 |
 | [Virus Bulletin](https://www.virusbulletin.com/blog/2019/12/vb2020-call-papers-now-open/) | Dublin, Ireland | March 15 | 30 Sept - Oct 2 |
 | [Pass The Salt](https://cfp.pass-the-salt.org/) | Lille, France | March 31 | June 29- July 1 |
 | [CARO](https://www.caro2020.org/) | Bochum, Germany | ? | May 13-15 |
 | [AREA 41](http://area41.io/) | Zurich, Switzerland | ? | June 11-12 |
-| [Steelcon](https://www.steelcon.info) | Sheffield Uk | ? | July 7-12 |
-| Copenhagen CyberCrime conference | Copenhagen, Denmark | | September |
+| [Steelcon](https://www.steelcon.info) | Sheffield, UK | ? | July 7-12 |
+
 
 
 
