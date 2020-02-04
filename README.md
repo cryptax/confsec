@@ -19,6 +19,7 @@
 | [BSides Budapest](https://2020.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | January 20 | March 26 |
 | [SSTIC](https://www.sstic.org/2020/news/) | Rennes, France | Feb 2 | June 3-5 |
 | [THCon](https://thcon.party/) | Toulouse, France | February 7 | March 6 |
+| [Overdrive](http://overdriveconference.com/) | Girona, Spain | Open | April 11-12 |
 | [BSides Munich](https://2020.bsidesmunich.org) | Munich, Germany | February 12 | April 26-27 |
 | [Copenhagen CyberCrime conference](https://www.cyberhagen.com) | Copenhagen, Denmark | Feb 29 | Sept 17 |
 | [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | March 13 | May 13 |
