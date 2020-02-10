@@ -29,6 +29,7 @@
 | [AREA 41](http://area41.io/) | Zurich, Switzerland | ? | June 11-12 |
 | [Steelcon](https://www.steelcon.info) | Sheffield, UK | ? | July 7-12 |
 | [Unlock your Brain](https://www.unlockyourbrain.bzh/) | Brest, France | Aug 31 | November 13-14 |
+| [BotConf](https://www.botconf.eu/botconf-2020/call-for-papers-2020/) | Nantes, France | July 5 | December 2-4 |
 
 
 
