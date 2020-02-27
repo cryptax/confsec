@@ -27,7 +27,9 @@
 | [Pass The Salt](https://cfp.pass-the-salt.org/) | Lille, France | March 31 | June 29- July 1 |
 | [CARO](https://www.caro2020.org/) | Bochum, Germany | ? | May 13-15 |
 | [AREA 41](http://area41.io/) | Zurich, Switzerland | ? | June 11-12 |
+| [SecSea](https://secsea.org/) | La Ciotat, France | ? | June 12-13 |
 | [Steelcon](https://www.steelcon.info) | Sheffield, UK | ? | July 7-12 |
+| [r2Con](https://con.rada.re/r2con-2020/cfp/) |  | June 30 | Sept 2-5 |
 | [Unlock your Brain](https://www.unlockyourbrain.bzh/) | Brest, France | Aug 31 | November 13-14 |
 | [BotConf](https://www.botconf.eu/botconf-2020/call-for-papers-2020/) | Nantes, France | July 5 | December 2-4 |
 
