@@ -4,6 +4,7 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [Hacktivity](https://www.hacktivity.com/call-for-papers) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15 2020 | October 8-9 2020 |
 | [CoRIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2020/) | Lille | Oct 31 | Jan 28 2020 |
 | [TROOPERS 20](https://cfp.ernw-insight.de/tr20/) | Heidelberg, Germany | November 17 | March 18-19 |
 | [Euro S&P](https://www.ieee-security.org/TC/EuroSP2020/) | Genova, Italy | November 20 | June 16-18 |
