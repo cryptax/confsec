@@ -11,7 +11,7 @@
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | December 2 | February 14-15 2020 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | December 20 | June 15-19 |
 | [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | December 23 | March 5-7 |
-| [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | Closed | March 19-20 |
+| [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | Closed | June 4-5 |
 | [HackCon](https://www.hackcon.org/english/) | Oslo, Norway | | February 12-13 |
 | [Securi-tay](https://securi-tay.co.uk/) | Abertay, Scotland | ? | February 28 |
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
@@ -25,14 +25,13 @@
 | [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | March 13 | May 13 |
 | [Virus Bulletin](https://www.virusbulletin.com/blog/2019/12/vb2020-call-papers-now-open/) | Dublin, Ireland | March 15 | 30 Sept - Oct 2 |
 | [Pass The Salt](https://cfp.pass-the-salt.org/) | Lille, France | March 31 | June 29- July 1 |
+| [BarbHack](https://submit.barbhack.fr/) | Hyeres, France | March 31 | May 16 |
 | [CARO](https://www.caro2020.org/) | Bochum, Germany | ? | May 13-15 |
-| [AREA 41](http://area41.io/) | Zurich, Switzerland | ? | June 11-12 |
 | [SecSea](https://secsea.org/) | La Ciotat, France | ? | June 12-13 |
 | [Steelcon](https://www.steelcon.info) | Sheffield, UK | ? | July 7-12 |
 | [r2Con](https://con.rada.re/r2con-2020/cfp/) |  | June 30 | Sept 2-5 |
 | [Unlock your Brain](https://www.unlockyourbrain.bzh/) | Brest, France | Aug 31 | November 13-14 |
 | [BotConf](https://www.botconf.eu/botconf-2020/call-for-papers-2020/) | Nantes, France | July 5 | December 2-4 |
-
 
 
 
