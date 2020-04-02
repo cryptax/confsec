@@ -6,13 +6,13 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Hacktivity](https://www.hacktivity.com/call-for-papers) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15 2020 | October 8-9 2020 |
 | [CoRIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2020/) | Lille | Oct 31 | Jan 28 2020 |
-| [TROOPERS 20](https://cfp.ernw-insight.de/tr20/) | Heidelberg, Germany | November 17 | March 18-19 |
+| [TROOPERS 20](https://cfp.ernw-insight.de/tr20/) | Heidelberg, Germany | November 17 | March 18-19 - CANCELLED |
 | [Euro S&P](https://www.ieee-security.org/TC/EuroSP2020/) | Genova, Italy | November 20 | June 16-18 |
-| [The SAS](https://thesascon.com/) sascfp@kaspersky.com | Barcelona, Spain | December 2 | April 6-9 |
+| [The SAS](https://thesascon.com/) sascfp@kaspersky.com | Barcelona, Spain | December 2 | April 6-9 - CANCELLED |
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | December 2 | February 14-15 2020 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | December 20 | June 15-19 |
 | [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | December 23 | March 5-7 |
-| [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | Closed | June 4-5 |
+| [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | Closed | Postponed: June 4-5 |
 | [HackCon](https://www.hackcon.org/english/) | Oslo, Norway | | February 12-13 |
 | [Securi-tay](https://securi-tay.co.uk/) | Abertay, Scotland | ? | February 28 |
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
@@ -21,11 +21,11 @@
 | [SSTIC](https://www.sstic.org/2020/news/) | Rennes, France | Feb 2 | June 3-5 |
 | [THCon](https://thcon.party/) | Toulouse, France | February 7 | March 6 |
 | [Overdrive](http://overdriveconference.com/) | Girona, Spain | Open | April 11-12 |
-| [BSides Munich](https://2020.bsidesmunich.org) | Munich, Germany | February 12 | April 26-27 |
+| [BSides Munich](https://2020.bsidesmunich.org) | Munich, Germany | February 12 | April 26-27 - CANCELLED |
 | [Copenhagen CyberCrime conference](https://www.cyberhagen.com) | Copenhagen, Denmark | Feb 29 | Sept 17 |
-| [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | March 13 | May 13 |
+| [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | March 13 | May 13 - CANCELLED |
 | [Virus Bulletin](https://www.virusbulletin.com/blog/2019/12/vb2020-call-papers-now-open/) | Dublin, Ireland | March 15 | 30 Sept - Oct 2 |
-| [Pass The Salt](https://cfp.pass-the-salt.org/) | Lille, France | March 31 | June 29- July 1 |
+| [Pass The Salt](https://cfp.pass-the-salt.org/) | Lille, France | April 30 | June 29- July 1 |
 | [BarbHack](https://submit.barbhack.fr/) | Hyeres, France | March 31 | May 16 |
 | [CARO](https://www.caro2020.org/) | Bochum, Germany | ? | May 13-15 |
 | [SecSea](https://secsea.org/) | La Ciotat, France | ? | June 12-13 |
