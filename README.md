@@ -6,13 +6,10 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Hacktivity](https://www.hacktivity.com/call-for-papers) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15 2020 | October 8-9 2020 |
 | [CoRIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2020/) | Lille | Oct 31 | Jan 28 2020 |
-| [TROOPERS 20](https://cfp.ernw-insight.de/tr20/) | Heidelberg, Germany | November 17 | March 18-19 - CANCELLED |
 | [Euro S&P](https://www.ieee-security.org/TC/EuroSP2020/) | Genova, Italy | November 20 | June 16-18 |
-| [The SAS](https://thesascon.com/) sascfp@kaspersky.com | Barcelona, Spain | December 2 | April 6-9 - CANCELLED |
 | [OffensiveCon](https://www.offensivecon.org/) | Berlin, Germany | December 2 | February 14-15 2020 |
 | [Hack in Paris](https://hackinparis.com/) | Paris, France | December 20 | June 15-19 |
 | [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | December 23 | March 5-7 |
-| [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | Closed | Postponed: June 4-5 |
 | [HackCon](https://www.hackcon.org/english/) | Oslo, Norway | | February 12-13 |
 | [Securi-tay](https://securi-tay.co.uk/) | Abertay, Scotland | ? | February 28 |
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
@@ -21,17 +18,20 @@
 | [SSTIC](https://www.sstic.org/2020/news/) | Rennes, France | Feb 2 | June 3-5 |
 | [THCon](https://thcon.party/) | Toulouse, France | February 7 | March 6 |
 | [Overdrive](http://overdriveconference.com/) | Girona, Spain | Open | April 11-12 |
-| [BSides Munich](https://2020.bsidesmunich.org) | Munich, Germany | February 12 | April 26-27 - CANCELLED |
-| [Copenhagen CyberCrime conference](https://www.cyberhagen.com) | Copenhagen, Denmark | Feb 29 | Sept 17 |
-| [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | March 13 | May 13 - CANCELLED |
-| [Virus Bulletin](https://www.virusbulletin.com/blog/2019/12/vb2020-call-papers-now-open/) | Dublin, Ireland | March 15 | 30 Sept - Oct 2 |
-| [Pass The Salt](https://cfp.pass-the-salt.org/) | Lille, France | April 30 | June 29- July 1 |
-| [BarbHack](https://submit.barbhack.fr/) | Hyeres, France | March 31 | May 16 |
-| [CARO](https://www.caro2020.org/) | Bochum, Germany | ? | May 13-15 |
-| [SecSea](https://secsea.org/) | La Ciotat, France | ? | June 12-13 |
+| [BSides Munich](https://2020.bsidesmunich.org) *virtual* | Munich, Germany | February 12 | April 26-27 - CANCELLED |
+| [Copenhagen CyberCrime conference](https://www.cyberhagen.com) *virtual* | Copenhagen, Denmark | Feb 29 | Sept 17 |
+| [Virus Bulletin](https://www.virusbulletin.com/blog/2019/12/vb2020-call-papers-now-open/) *virtual* | Dublin, Ireland | March 15 | 30 Sept - Oct 2 |
+| [Pass The Salt](https://cfp.pass-the-salt.org/) *virtual* | Lille, France | April 30 | June 29- July 1 |
+| [BarbHack](https://submit.barbhack.fr/) | Hyeres, France | March 31 | Aug 29 |
+| [SecSea](https://secsea.org/) *virtual* | La Ciotat, France | ? | June 12-13 |
 | [Steelcon](https://www.steelcon.info) | Sheffield, UK | ? | July 7-12 |
-| [r2Con](https://con.rada.re/r2con-2020/cfp/) |  | June 30 | Sept 2-5 |
+| [r2Con](https://con.rada.re/r2con-2020/cfp/) *virtual* |  | June 30 | Sept 2-5 |
+| [SEC-T](https://www.sec-t.org) **CANCELLED** | | Aug | Sept |
+| [AMUSEC](https://www.amusec.fr/) | Marseille, France |  | October 8-9 |
+| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | ? | Nov 5 |
 | [Unlock your Brain](https://www.unlockyourbrain.bzh/) | Brest, France | Aug 31 | November 13-14 |
+| [GreHack](https://grehack.fr/) | Grenoble, France | | Nov 20 |
+| [NoHat](https://www.nohat.it) | Bergamo, Italy | April 15 | Nov 28 |
 | [BotConf](https://www.botconf.eu/botconf-2020/call-for-papers-2020/) | Nantes, France | July 5 | December 2-4 |
 
 
@@ -43,6 +43,17 @@
 | [ShmooCon](http://shmoocon.org/) | Washington DC, USA | ? | January 31-Feb 2 |
 | [RSA](https://www.rsaconference.com/) | San Francisco, US | August 9 | Feb 24-28 |
 
+
+## In 2021
+
+| Name           | Location	| CfP ends |  Conference dates |
+| ---------------- | ------------- | ------------ | -------------------------|
+| [ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | n/a | January 22 2021 |
+| [TROOPERS 21](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany | November ? | March ? |
+| [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | ? | March ? |
+| [The SAS](https://thesascon.com/) sascfp@kaspersky.com | ? | December ? | April ? |
+| [BSides Oslo](https://bsidesoslo.no) | Oslo, Norway | ? | May 12, 2021 |
+| [BSides Zurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | ? | September 2021 |
 
 ## In 2019
 
