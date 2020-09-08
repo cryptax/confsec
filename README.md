@@ -19,7 +19,7 @@
 | [THCon](https://thcon.party/) | Toulouse, France | February 7 | March 6 |
 | [Overdrive](http://overdriveconference.com/) | Girona, Spain | Open | April 11-12 |
 | [BSides Munich](https://2020.bsidesmunich.org) *virtual* | Munich, Germany | February 12 | August 25 (online) |
-| [Copenhagen CyberCrime conference](https://www.cyberhagen.com) *virtual* | Copenhagen, Denmark | Feb 29 | Sept 17 |
+| [Copenhagen CyberCrime conference](https://www.cyberhagen.com) *virtual* | Copenhagen, Denmark | Feb 29 | Sept 14-16 |
 | [Virus Bulletin](https://www.virusbulletin.com/blog/2019/12/vb2020-call-papers-now-open/) *virtual* | Dublin, Ireland | March 15 | 30 Sept - Oct 2 |
 | [Pass The Salt](https://cfp.pass-the-salt.org/) *virtual* | Lille, France | April 30 | June 29- July 1 |
 | [BarbHack](https://submit.barbhack.fr/) | Hyeres, France | March 31 | Aug 29 |
