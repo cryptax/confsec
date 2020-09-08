@@ -18,7 +18,7 @@
 | [SSTIC](https://www.sstic.org/2020/news/) | Rennes, France | Feb 2 | June 3-5 |
 | [THCon](https://thcon.party/) | Toulouse, France | February 7 | March 6 |
 | [Overdrive](http://overdriveconference.com/) | Girona, Spain | Open | April 11-12 |
-| [BSides Munich](https://2020.bsidesmunich.org) *virtual* | Munich, Germany | February 12 | April 26-27 - CANCELLED |
+| [BSides Munich](https://2020.bsidesmunich.org) *virtual* | Munich, Germany | February 12 | August 25 (online) |
 | [Copenhagen CyberCrime conference](https://www.cyberhagen.com) *virtual* | Copenhagen, Denmark | Feb 29 | Sept 17 |
 | [Virus Bulletin](https://www.virusbulletin.com/blog/2019/12/vb2020-call-papers-now-open/) *virtual* | Dublin, Ireland | March 15 | 30 Sept - Oct 2 |
 | [Pass The Salt](https://cfp.pass-the-salt.org/) *virtual* | Lille, France | April 30 | June 29- July 1 |
@@ -27,7 +27,6 @@
 | [Steelcon](https://www.steelcon.info) | Sheffield, UK | ? | July 7-12 |
 | [r2Con](https://con.rada.re/r2con-2020/cfp/) *virtual* |  | June 30 | Sept 2-5 |
 | [SEC-T](https://www.sec-t.org) **CANCELLED** | | Aug | Sept |
-| [AMUSEC](https://www.amusec.fr/) | Marseille, France |  | October 8-9 |
 | [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | ? | Nov 5 |
 | [Unlock your Brain](https://www.unlockyourbrain.bzh/) | Brest, France | Aug 31 | November 13-14 |
 | [GreHack](https://grehack.fr/) | Grenoble, France | | Nov 20 |
@@ -52,7 +51,9 @@
 | [TROOPERS 21](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany | November ? | March ? |
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | ? | March ? |
 | [The SAS](https://thesascon.com/) sascfp@kaspersky.com | ? | December ? | April ? |
+| [AMUSEC](https://www.amusec.fr/) | Marseille, France |  | April 8-9 |
 | [BSides Oslo](https://bsidesoslo.no) | Oslo, Norway | ? | May 12, 2021 |
+| [le Hack](https://submit.lehack.org/) | Paris, France | April ? | July ? |
 | [BSides Zurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | ? | September 2021 |
 
 ## In 2019
