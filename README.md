@@ -15,7 +15,7 @@
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam | ? | April 2020? |
 | [RuhrSec](https://www.ruhrsec.de/2020/) | Bochum, Germany | January 13 | May 5-8 |
 | [BSides Budapest](https://2020.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | January 20 | March 26 |
-| [SSTIC](https://www.sstic.org/2020/news/) | Rennes, France | Feb 2 | June 3-5 |
+| [SSTIC](https://www.sstic.org/2020/news/) *virtual* | Rennes, France | Feb 2 | June 3-5 |
 | [THCon](https://thcon.party/) | Toulouse, France | February 7 | March 6 |
 | [Overdrive](http://overdriveconference.com/) | Girona, Spain | Open | April 11-12 |
 | [BSides Munich](https://2020.bsidesmunich.org) *virtual* | Munich, Germany | February 12 | August 25 (online) |
@@ -27,6 +27,7 @@
 | [Steelcon](https://www.steelcon.info) | Sheffield, UK | ? | July 7-12 |
 | [r2Con](https://con.rada.re/r2con-2020/cfp/) *virtual* |  | June 30 | Sept 2-5 |
 | [SEC-T](https://www.sec-t.org) **CANCELLED** | | Aug | Sept |
+| [Hardwear.io](https://hardwear.io) *virtual* | The Netherlands | May 31 | Sept 27 - Oct 2 |
 | [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | ? | Nov 5 |
 | [Unlock your Brain](https://www.unlockyourbrain.bzh/) | Brest, France | Aug 31 | November 13-14 |
 | [GreHack](https://grehack.fr/) | Grenoble, France | | Nov 20 |
