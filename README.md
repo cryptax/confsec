@@ -51,8 +51,8 @@
 | [ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | n/a | January 22 2021 |
 | [TROOPERS 21](https://twitter.com/WEareTROOPERS) | Heidelberg, Germany | November ? | March ? |
 | [Insomni'hack](https://insomnihack.ch/) | Geneva, Switzerland | ? | March ? |
-| [The SAS](https://thesascon.com/) sascfp@kaspersky.com | ? | December ? | April ? |
-| [AMUSEC](https://www.amusec.fr/) | Marseille, France |  | April 8-9 |
+| [The SAS](https://thesascon.com/) sascfp@kaspersky.com | Barcelona, Spain | December 1 | April 14-17 |
+| [AMUSEC](https://www.amusec.fr/) | Marseille, France | ? | April 8-9 |
 | [BSides Oslo](https://bsidesoslo.no) | Oslo, Norway | ? | May 12, 2021 |
 | [le Hack](https://submit.lehack.org/) | Paris, France | April ? | July ? |
 | [BSides Zurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | ? | September 2021 |
