@@ -28,11 +28,11 @@
 | [r2Con](https://con.rada.re/r2con-2020/cfp/) *virtual* |  | June 30 | Sept 2-5 |
 | [SEC-T](https://www.sec-t.org) **CANCELLED** | | Aug | Sept |
 | [Hardwear.io](https://hardwear.io) *virtual* | The Netherlands | May 31 | Sept 27 - Oct 2 |
-| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | ? | Nov 5 |
-| [Unlock your Brain](https://www.unlockyourbrain.bzh/) | Brest, France | Aug 31 | November 13-14 |
+| [BlackAlps](https://blackalps.ch) **CANCELLED** | Yverdon les Bains, Switzerland | ? | Nov 5 |
+| [Unlock your Brain](https://www.unlockyourbrain.bzh/) *partly virtual* | Brest, France | Aug 31 | November 13-14 |
 | [GreHack](https://grehack.fr/) | Grenoble, France | | Nov 20 |
 | [NoHat](https://www.nohat.it) | Bergamo, Italy | April 15 | Nov 28 |
-| [BotConf](https://www.botconf.eu/botconf-2020/call-for-papers-2020/) | Nantes, France | July 5 | December 2-4 |
+| [BotConf](https://www.botconf.eu/botconf-2020/call-for-papers-2020/) *virtual* | Nantes, France | July 5 | December 2-4 |
 | [Remote Chaos Experience](https://events.ccc.de/2020/09/04/rc3-remote-chaos-experience/) *virtual* | | ? | December 27-30 |
 
 
