@@ -44,9 +44,9 @@
 | [ShmooCon](http://shmoocon.org/) | Washington DC, USA | ended | January 31-Feb 2 |
 | [RSA](https://www.rsaconference.com/) | San Francisco, US | ended| Feb 24-28 |
 | [BlackHat USA](https://www.blackhat.com/us-20/) | Las Vegas, US | ended | August 5-6 |
-| [DEFCON 28](https://defcon.org/html/defcon-safemode/dc-safemode-index.html) | Las Vegas, US | ended | August 6-9 |
-| [SecTor](https://sector.ca/) | Toronto, Canada | ended | October 21-22 |
-| [CISO Forum Canada](https://www.siberx.org/event/ciso-forum-canada/) | Toronto, Canada | ended | November 9-13 |
+| [DEFCON 28](https://defcon.org/html/defcon-safemode/dc-safemode-index.html) *virtual* | Las Vegas, US | ended | August 6-9 |
+| [SecTor](https://sector.ca/) *virtual* | Toronto, Canada | ended | October 21-22 |
+| [CISO Forum Canada](https://www.siberx.org/event/ciso-forum-canada/) *virtual* | Toronto, Canada | ended | November 9-13 |
 
 
 ## In 2021
