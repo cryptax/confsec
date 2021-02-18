@@ -6,6 +6,7 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Virus Bulletin](https://www.virusbulletin.com/) | Prague, Czech Republic | March 21 | Oct 6-8 |
 | [AMUSEC](https://www.amusec.fr/) | Marseille, France | ? | April 8-9 |
+| [BSides Budapest](https://2021.bsidesbud.com/call-for-paper/) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | April 15 | May 27 |
 | [le Hack](https://submit.lehack.org/) | Paris, France | April ? | June 25-26 |
 | [BSides Oslo](https://bsidesoslo.no) | Oslo, Norway | ? | May 12, 2021 |
 | [RomHack](https://www.romhack.io/cfp-2021.html) | Roma, Italy | May 28 | Sept 25 |
