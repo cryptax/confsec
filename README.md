@@ -4,9 +4,11 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [Virus Bulletin](https://www.virusbulletin.com/) | Prague, Czech Republic | March 21 | Oct 6-8 |
+| [Virus Bulletin](https://www.virusbulletin.com/) | Online | April 21 | Oct 6-8 |
+| [NorthSec](https://nsec.io/cfp/) | Online | Apr 4 | May 20-21 |
 | [AMUSEC](https://www.amusec.fr/) | Marseille, France | ? | April 8-9 |
 | [le Hack](https://submit.lehack.org/) | Paris, France | April ? | June 25-26 |
+| [Brucon](https://www.brucon.org/2021/cfp/) | Ghent, Belgium | April 30 | October 7-8 | 
 | [BSides Oslo](https://bsidesoslo.no) | Oslo, Norway | ? | May 12, 2021 |
 | [RomHack](https://www.romhack.io/cfp-2021.html) | Roma, Italy | May 28 | Sept 25 |
 | [ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | n/a | December 10 22 2021 |
