@@ -9,11 +9,14 @@
 | [IsolationCon](https://themanyhats.club/the-many-hats-club-presents-isolationcon/) | Online | March 31 | April 24 |
 | [BSides Budapest](https://2021.bsidesbud.com/call-for-paper/) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | April 15 | May 27 |
 | [SecSea](https://secsea.org/) | La Ciotat, France | ? | June 11-12 |
-| [le Hack](https://submit.lehack.org/) | Paris, France | April 12 | June 25-26 |
-| [BSides Oslo](https://bsidesoslo.no) | Oslo, Norway | ? | May 12, 2021 |
+| [THCon](https://thcon.party/) | Online | April 16 | June 11 |
+| [BSides Oslo](https://bsidesoslo.no) | Online | April 30 | June 8, 2021 |
 | [RomHack](https://www.romhack.io/cfp-2021.html) | Roma, Italy | May 28 | Sept 25 |
 | [ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | n/a | December 10 22 2021 |
 | [BSides Zurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | ? | September 2021 |
+| [Brucon](https://www.brucon.org/2021/2021/03/31/brucon-0x0d-introduction-and-cfp-cft/) | Ghent, Belgium + Online | ? | October 4-8 |
+
+- Insomnihack, leHack: cancelled
 
 
 ## In 2020
