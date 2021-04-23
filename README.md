@@ -16,10 +16,12 @@
 | [RomHack](https://www.romhack.io/cfp-2021.html) | Roma, Italy | May 28 | Sept 25 |
 | [CORIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2021/) | Lille, France | July 1 | Sept 7 |
 | [GreHack](https://www.grehack.fr) | Online | July 10 | November 19 |
-| [Barbhack](https://www.barbhack.fr/) | Hyeres, France | ? | August 28 | 
-| [SecSea](https://secsea.org/) | La Ciotat, France | ? | October 15-16 |
-| [ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | n/a | December 3, 2021 |
+| [Barbhack](https://www.barbhack.fr/) | Hyeres, France | ? | August 28 |
 | [BSides Zurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | ? | September 2021 |
+| [SecSea](https://secsea.org/) | La Ciotat, France | ? | October 15-16 |
+| [BlackAlps](http://blackalps.ch/ba/index.php) | Yverdon les Bains, Switzerland | ? | November 4-5 |
+| [ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | n/a | December 3, 2021 |
+
 
 - Insomnihack, leHack: cancelled
 
