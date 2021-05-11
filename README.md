@@ -8,11 +8,12 @@
 | [Virus Bulletin](https://www.virusbulletin.com/) | Online | April 21 | Oct 6-8 |
 | [AMUSEC](https://www.amusec.fr/) | Online | - | April 8-9 |
 | [IsolationCon](https://themanyhats.club/the-many-hats-club-presents-isolationcon/) | Online | March 31 | April 24 |
+| [x33fcon](https://x33fcon.com) | Online | | May 17-21 |
 | [BSides Budapest](https://2021.bsidesbud.com/call-for-paper/) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | April 15 | May 27 |
 | [THCon](https://thcon.party/) | Online | April 16 | June 11 |
 | [BSides Oslo](https://bsidesoslo.no) | Online | April 30 | June 8, 2021 |
 | [Brucon](https://www.brucon.org/2021/cfp/) | Ghent, Belgium + Online | April 30 | October 4-8 | 
-| [BSides Oslo](https://bsidesoslo.no) | Online | April 30 | May 12, 2021 |
+| [BSides Oslo](https://bsidesoslo.no) | Online | April 30 | June 8, 2021 |
 | [RomHack](https://www.romhack.io/cfp-2021.html) | Roma, Italy | May 28 | Sept 25 |
 | [CORIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2021/) | Lille, France | July 1 | Sept 7 |
 | [GreHack](https://www.grehack.fr) | Online | July 10 | November 19 |
