@@ -15,9 +15,11 @@
 | [Brucon](https://www.brucon.org/2021/cfp/) | Ghent, Belgium + Online | April 30 | October 4-8 | 
 | [BSides Oslo](https://bsidesoslo.no) | Online | April 30 | June 8, 2021 |
 | [RomHack](https://www.romhack.io/cfp-2021.html) | Roma, Italy | May 28 | Sept 25 |
+| [Hack in Paris](https://papercall.io/hackinparis21) | Online | June 27 | November 18-19 |
+| [Barbhack](https://submit.barbhack.fr/) | Hyeres, France | June 30 | August 28 |
 | [CORIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2021/) | Lille, France | July 1 | Sept 7 |
 | [GreHack](https://www.grehack.fr) | Online | July 10 | November 19 |
-| [Barbhack](https://www.barbhack.fr/) | Hyeres, France | ? | August 28 |
+| [BotConf](https://www.botconf.eu/botconf-2021/call-for-papers-2021/) | Nantes, France | July 15 | November 30 - December 3 |
 | [BSides Zurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | ? | September 2021 |
 | [SecSea](https://secsea.org/) | La Ciotat, France | ? | October 15-16 |
 | [BlackAlps](http://blackalps.ch/ba/index.php) | Yverdon les Bains, Switzerland | ? | November 4-5 |
