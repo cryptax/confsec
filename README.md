@@ -6,19 +6,28 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [NorthSec](https://nsec.io/cfp/) | Online | Apr 4 | May 20-21 |
 | [Virus Bulletin](https://www.virusbulletin.com/) | Online | April 21 | Oct 6-8 |
-| [AMUSEC](https://www.amusec.fr/) | Marseille, France | ? | April 8-9 |
+| [AMUSEC](https://www.amusec.fr/) | Online | - | April 8-9 |
 | [IsolationCon](https://themanyhats.club/the-many-hats-club-presents-isolationcon/) | Online | March 31 | April 24 |
+| [x33fcon](https://x33fcon.com) | Online | | May 17-21 |
 | [BSides Budapest](https://2021.bsidesbud.com/call-for-paper/) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | April 15 | May 27 |
-| [SecSea](https://secsea.org/) | La Ciotat, France | ? | June 11-12 |
 | [THCon](https://thcon.party/) | Online | April 16 | June 11 |
 | [BSides Oslo](https://bsidesoslo.no) | Online | April 30 | June 8, 2021 |
 | [Brucon](https://www.brucon.org/2021/cfp/) | Ghent, Belgium + Online | April 30 | October 4-8 | 
-| [BSides Oslo](https://bsidesoslo.no) | Oslo, Norway | April 30 | May 12, 2021 |
+| [BSides Oslo](https://bsidesoslo.no) | Online | April 30 | June 8, 2021 |
 | [RomHack](https://www.romhack.io/cfp-2021.html) | Roma, Italy | May 28 | Sept 25 |
-| [ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | n/a | December 10 22 2021 |
-| [BSides Zurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | ? | September 2021 |
+| [Hack in Paris](https://papercall.io/hackinparis21) | Online | June 27 | November 18-19 |
+| [Barbhack](https://submit.barbhack.fr/) | Hyeres, France | June 30 | August 28 |
+| [CORIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2021/) | Lille, France | July 1 | Sept 7 |
+| [GreHack](https://www.grehack.fr) | Online | July 10 | November 19 |
+| [BotConf](https://www.botconf.eu/botconf-2021/call-for-papers-2021/) | Nantes, France | July 15 | November 30 - December 3 |
+| [NoHat](https://www.nohat.it) | Bergamo, Italy | September 15 | November 20, 2021 |
+| [SecSea](https://secsea.org/) | La Ciotat, France | ? | October 15-16 |
+| [BlackAlps](http://blackalps.ch/ba/index.php) | Yverdon les Bains, Switzerland | ? | November 4-5 |
+| [UYBHYS](https://www.unlockyourbrain.bzh/) | Brest, France | ? | November 12-13, 2021 |
+| [ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | n/a | December 3, 2021 |
 
-- Insomnihack, leHack: cancelled
+
+- Insomnihack, leHack, BSides Zurich: cancelled
 
 
 ## In 2020
