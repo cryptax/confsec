@@ -13,8 +13,7 @@
 | [THCon](https://thcon.party/) | Online | April 16 | June 11 |
 | [BSides Oslo](https://bsidesoslo.no) | Online | April 30 | June 8, 2021 |
 | [Brucon](https://www.brucon.org/2021/cfp/) | Ghent, Belgium + Online | April 30 | October 4-8 | 
-| [BSides Oslo](https://bsidesoslo.no) | Oslo, Norway | ? | May 12, 2021 |
->>>>>>> 42fc6d46ea1230023907535d93be881f6a069837
+| [BSides Oslo](https://bsidesoslo.no) | Oslo, Norway | April 30 | May 12, 2021 |
 | [RomHack](https://www.romhack.io/cfp-2021.html) | Roma, Italy | May 28 | Sept 25 |
 | [ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | n/a | December 10 22 2021 |
 | [BSides Zurich](https://twitter.com/BSidesZurich) | Zurich, Switzerland | ? | September 2021 |
