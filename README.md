@@ -21,6 +21,7 @@
 | [GreHack](https://www.grehack.fr) | Online | July 10 | November 19 |
 | [BotConf](https://www.botconf.eu/botconf-2021/call-for-papers-2021/) | Nantes, France | July 15 | November 30 - December 3 |
 | [NoHat](https://www.nohat.it) | Bergamo, Italy | September 15 | November 20, 2021 |
+| [Sthack](http://sthack.fr) | Bordeaux, France | ? | October 15 |
 | [SecSea](https://secsea.org/) | La Ciotat, France | ? | October 15-16 |
 | [BlackAlps](http://blackalps.ch/ba/index.php) | Yverdon les Bains, Switzerland | ? | November 4-5 |
 | [UYBHYS](https://www.unlockyourbrain.bzh/) | Brest, France | ? | November 12-13, 2021 |
