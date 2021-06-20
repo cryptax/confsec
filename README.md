@@ -4,6 +4,7 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [Hacktivity](https://hacktivity.com/call-for-papers) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary + Online | July 25 | October 8 |
 | [NorthSec](https://nsec.io/cfp/) | Online | Apr 4 | May 20-21 |
 | [Virus Bulletin](https://www.virusbulletin.com/) | Online | April 21 | Oct 6-8 |
 | [AMUSEC](https://www.amusec.fr/) | Online | - | April 8-9 |
