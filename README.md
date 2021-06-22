@@ -20,7 +20,7 @@
 | [CORIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2021/) | Lille, France | July 1 | Sept 7 |
 | [GreHack](https://www.grehack.fr) | Online | July 10 | November 19 |
 | [BotConf](https://www.botconf.eu/botconf-2021/call-for-papers-2021/) | Nantes, France | July 15 | November 30 - December 3 |
-| [the SAS](https://cfp.thesascon.com/thesascon2021/) | Barcelona, Spain | July 18 | September 27-30 |
+| [the SAS](https://cfp.thesascon.com/thesascon2021/) | Barcelona, Spain + online | July 18 | September 27-30 |
 | [Hacktivity](https://hacktivity.com/call-for-papers) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary + Online | July 25 | October 8 |
 | [SEC-T](https://www.sec-t.org/call-for-papers/) | Stockholm, Sweden | August 15 | September 7-10 |
 | [NoHat](https://www.nohat.it) | Bergamo, Italy | September 15 | November 20, 2021 |
