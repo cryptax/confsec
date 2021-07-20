@@ -1,5 +1,12 @@
 # Security conferences
 
+## In 2022
+
+| Name           | Location	| CfP ends |  Conference dates |
+| ---------------- | ------------- | ------------ | -------------------------|
+| [BotConf](https://www.botconf.eu/botconf-2021/call-for-papers-2021/) | Nantes, France | Nov 30 | April 27-29 2022 |
+
+
 ## In 2021
 
 | Name           | Location	| CfP ends |  Conference dates |
@@ -19,7 +26,6 @@
 | [Barbhack](https://submit.barbhack.fr/) | Hyeres, France | June 30 | August 28 |
 | [CORIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2021/) | Lille, France | July 1 | Sept 7 |
 | [GreHack](https://www.grehack.fr) | Online | July 10 | November 19 |
-| [BotConf](https://www.botconf.eu/botconf-2021/call-for-papers-2021/) | Nantes, France | July 15 | November 30 - December 3 |
 | [NoHat](https://www.nohat.it) | Bergamo, Italy | September 15 | November 20, 2021 |
 | [SecSea](https://secsea.org/) | La Ciotat, France | ? | October 15-16 |
 | [BlackAlps](http://blackalps.ch/ba/index.php) | Yverdon les Bains, Switzerland | ? | November 4-5 |
@@ -28,6 +34,7 @@
 
 
 - Insomnihack, leHack, BSides Zurich: cancelled
+- BotConf: postponed to April 2022
 
 
 ## In 2020
