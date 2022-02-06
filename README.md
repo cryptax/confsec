@@ -4,6 +4,7 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [BSides Budapest](https://2022.bsidesbud.com/call-for-paper/) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | March 15 | May 26 2022 |
 | [BotConf](https://www.botconf.eu/botconf-2021/call-for-papers-2021/) | Nantes, France | Nov 30 | April 27-29 2022 |
 
 
