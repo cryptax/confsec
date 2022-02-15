@@ -4,6 +4,7 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [Digital Overdose Conference 2](https://digitaloverdose.tech/conference) | Online | Feb. 28th, 2022 | April 23-24 2022 |
 | [BotConf](https://www.botconf.eu/botconf-2021/call-for-papers-2021/) | Nantes, France | Nov 30 | April 27-29 2022 |
 
 
