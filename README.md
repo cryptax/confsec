@@ -4,9 +4,10 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [Digital Overdose Conference 2](https://digitaloverdose.tech/conference) | Online | Feb. 28th, 2022 | April 23-24 2022 |
 | [BotConf](https://www.botconf.eu/botconf-2021/call-for-papers-2021/) | Nantes, France | Nov 30 | April 27-29 2022 |
 | [BSides Budapest](https://2022.bsidesbud.com/call-for-paper/) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | March 15 | May 26 2022 |
-
+| [RuhrSec Day 2022](https://www.ruhrsec.de/2022/index.html#cfp) | Bochum, Germany | March 21 | May 5 |
 
 ## In 2021
 
@@ -36,11 +37,6 @@
 | [BlackAlps](http://blackalps.ch/ba/index.php) | Yverdon les Bains, Switzerland | ? | November 4-5 |
 | [UYBHYS](https://www.unlockyourbrain.bzh/) | Brest, France | ? | November 12-13, 2021 |
 | [ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | n/a | December 3, 2021 |
-
-
-
-- Insomnihack, leHack, BSides Zurich: cancelled
-- BotConf: postponed to April 2022
 
 
 ## In 2020
