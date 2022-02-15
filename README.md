@@ -6,6 +6,7 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Digital Overdose Conference 2](https://digitaloverdose.tech/conference) | Online | Feb. 28th, 2022 | April 23-24 2022 |
 | [BotConf](https://www.botconf.eu/botconf-2021/call-for-papers-2021/) | Nantes, France | Nov 30 | April 27-29 2022 |
+| [RuhrSec Day 2022](https://www.ruhrsec.de/2022/index.html#cfp) | Bochum, Germany | March 21 | May 5 |
 
 
 ## In 2021
