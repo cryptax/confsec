@@ -20,6 +20,7 @@
 | [Barbhack](https://www.barbhack.fr/2022/en/) | Toulon, France | ? | August 27, 2022 |
 | [RomHack Camp](https://romhack.camp) | Roma, Italy | ? | Sept 23-24 |
 | [SEC-T](https://www.sec-t.org/call-for-papers/) | Stockholm, Sweden | July 1 | September 15-16 |
+| [Hacktivity 2022](https://2022.hacktivity.com/index.php/call-for-papers/) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15 2022 | October 6-7 2022 |
 | [NoHat](https://www.nohat.it) | Bergamo, Italy | August 1 2022 | October 22 2022 |
 | [UYBHYS](https://www.unlockyourbrain.bzh/) | Brest, France | Open | November 4-5, 2022 |
 | [BlackAlps](http://blackalps.ch/ba/index.php) | Yverdon les Bains, Switzerland | ? | November 15-16, 2022 |
