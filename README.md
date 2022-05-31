@@ -17,7 +17,7 @@
 | [Pass The Salt](https://cfp.pass-the-salt.org/) | Lille, France | April 15 | July 4-6 2022 |
 | [Virus Bulletin](https://www.virusbulletin.com/) | Prague, Czech Republic | April 22 2022 | Sept 28-30 2022 |
 | [Hexacon](https://cfp.hexacon.fr/hexacon-2022/cfp) | Paris, France | May 16 2022 | October 14 2022 |
-| [Barbhack](https://www.barbhack.fr/2022/en/) | Toulon, France | ? | August 27, 2022 |
+| [Barbhack](https://www.barbhack.fr/2022/en/) | Toulon, France | June 30, 2022 | August 27, 2022 |
 | [RomHack Camp](https://romhack.camp) | Roma, Italy | ? | Sept 23-24 |
 | [SEC-T](https://www.sec-t.org/call-for-papers/) | Stockholm, Sweden | July 1 | September 15-16 |
 | [Hacktivity 2022](https://2022.hacktivity.com/index.php/call-for-papers/) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15 2022 | October 6-7 2022 |
