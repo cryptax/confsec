@@ -7,6 +7,8 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Suisse | December 1 ? | March 20-24 |
 | [BotConf](https://www.botconf.eu) | Strasbourg, France | December 10 | April 11-14 |
+| [CTI summit](https://www.cti-summit.org)|Luxembourg| July 2023 | October 16-17 |
+| [hack.lu](https://hack.lu) |Luxembourg| July 2023 | October 18-19 |
 
 
 ## Previous conferences
