@@ -7,10 +7,23 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Suisse | December 1 ? | March 20-24 |
 | [BotConf](https://www.botconf.eu) | Strasbourg, France | December 10 | April 11-14 |
+| [THCon](https://thcon.party/) | Toulouse, France | February 5| April 20-21 |
+| [SSTIC](https://www.sstic.org/) | Rennes, France | February 7 | June 7-9 |
 | [troopers](https://troopers.de/) |Heidelberg, Germany| March 17th | June 26-30 |
+| [Pass The Salt](https://cfp.pass-the-salt.org/) | Lille, France | April 14 | July 3-5 |
+| [BruCon](https://www.brucon.org/2023/) | Belgium | ? | September 28-29 | 
+| [Hack in Paris](https://hackinparis.com) | Paris, France | ? | September 25-29 |
+| [Hexacon](https://www.hexacon.fr) | Paris, France | ? | October 13-14 |
 | [CTI summit](https://www.cti-summit.org)|Luxembourg| July 2023 | October 16-17 |
 | [hack.lu](https://hack.lu) |Luxembourg| July 2023 | October 18-19 |
 
+
+Outside Europe
+
+| Name           | Location	| CfP ends |  Conference dates |
+| ---------------- | ------------- | ------------ | -------------------------|
+| [NorthSec](https://nsec.io/cfp/) | Montreal, Canada | March 31 | May 18-19 |
+| [Recon](https://recon.cx/2023/cfp.html) | Montreal, Canada | April 24 | June 9 - 11 |
 
 
 ## Previous conferences
@@ -27,7 +40,6 @@
 | [IsolationCon](https://themanyhats.club/the-many-hats-club-presents-isolationcon/) |  | March 31 | April 24 |
 | [x33fcon](https://x33fcon.com) |  | | May 17-21 |
 | [Le Hack](https://lehack.org/fr) | Paris, France | April 8, 2022 | June 24-25 2022 |
-| [Pass The Salt](https://cfp.pass-the-salt.org/) | Lille, France | April 15 | July 4-6 2022 |
 | [Virus Bulletin](https://www.virusbulletin.com/) | Prague, Czech Republic | April 22 2022 | Sept 28-30 2022 |
 | [BSides Budapest](https://2021.bsidesbud.com/call-for-paper/) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | April 15 | May 27 |
 | [Area 41](http://area41.io/) | Zurich, Switzerland | April 10 2022 | June 16-17 2022 |
