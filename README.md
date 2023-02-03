@@ -7,15 +7,19 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Suisse | December 1 ? | March 20-24 |
 | [BotConf](https://www.botconf.eu) | Strasbourg, France | December 10 | April 11-14 |
+| [Hack In The Box](https://conference.hitb.org/) | Amsterdam, NL | ? | April 17-21 |
 | [THCon](https://thcon.party/) | Toulouse, France | February 5| April 20-21 |
 | [SSTIC](https://www.sstic.org/) | Rennes, France | February 7 | June 7-9 |
-| [troopers](https://troopers.de/) |Heidelberg, Germany| March 17th | June 26-30 |
+| [CORIIN](https://conf.cecyf.fr/event/2/) | Lille, France | Feb 28 | April 5 | 
+| [x33fcon](https://x33fcon.com) |  Gdynia, Poland | March 1 | May 29-30 |
+| [Troopers](https://troopers.de/) | Heidelberg, Germany| March 17th | June 26-30 |
+| [BSides Budapest](https://2023.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | March 25 | May 25 |
 | [Pass The Salt](https://cfp.pass-the-salt.org/) | Lille, France | April 14 | July 3-5 |
 | [BruCon](https://www.brucon.org/2023/) | Belgium | ? | September 28-29 | 
 | [Hack in Paris](https://hackinparis.com) | Paris, France | ? | September 25-29 |
 | [Hexacon](https://www.hexacon.fr) | Paris, France | ? | October 13-14 |
-| [CTI summit](https://www.cti-summit.org)|Luxembourg| July 2023 | October 16-17 |
-| [hack.lu](https://hack.lu) |Luxembourg| July 2023 | October 18-19 |
+| [CTI summit](https://www.cti-summit.org)| Luxembourg | July | October 16-17 |
+| [hack.lu](https://hack.lu) | Luxembourg | July  | October 18-19 |
 
 
 Outside Europe
