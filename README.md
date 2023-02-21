@@ -14,6 +14,7 @@
 | [x33fcon](https://x33fcon.com) |  Gdynia, Poland | March 1 | May 29-30 |
 | [Troopers](https://troopers.de/) | Heidelberg, Germany| March 17th | June 26-30 |
 | [BSides Budapest](https://2023.bsidesbud.com) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | March 25 | May 25 |
+| [Virus Bulletin](https://www.virusbulletin.com/conference/vb2023) | London, UK | April 5 | Oct 4-6 |
 | [Pass The Salt](https://cfp.pass-the-salt.org/) | Lille, France | April 14 | July 3-5 |
 | [BruCon](https://www.brucon.org/2023/) | Belgium | ? | September 28-29 | 
 | [Hack in Paris](https://hackinparis.com) | Paris, France | ? | September 25-29 |
