@@ -10,6 +10,7 @@
 | [Hack In The Box](https://conference.hitb.org/) | Amsterdam, NL | ? | April 17-21 |
 | [THCon](https://thcon.party/) | Toulouse, France | February 5| April 20-21 |
 | [SSTIC](https://www.sstic.org/) | Rennes, France | February 7 | June 7-9 |
+| [PasswordsCon](https://passwordscon.org/) | Bergen, Norway | Feb 26 | May 15-18 |
 | [CORIIN](https://conf.cecyf.fr/event/2/) | Lille, France | Feb 28 | April 5 | 
 | [Ruhrsec](https://www.ruhrsec.de/2023/) | Bochum, Germany | ? | May 11-12 |
 | [x33fcon](https://x33fcon.com) |  Gdynia, Poland | March 1 | May 29-30 |
