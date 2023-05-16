@@ -34,6 +34,7 @@
 | [CTI summit](https://www.cti-summit.org)| Luxembourg | July | October 16-17 |
 | [hack.lu](https://hack.lu) | Luxembourg | July  | October 18-19 |
 | [NoHat](https://www.nohat.it) | Bergamo, Italy | July 15 | October 21 |
+| [GreHack](https://grehack.fr) | Grenoble, France | | November 17-18 |
 | [Hack in Paris](https://hackinparis.com) | Paris, France | ? | September 25-29 |
 
 
