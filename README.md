@@ -47,6 +47,7 @@ Outside Europe
 | ---------------- | ------------- | ------------ | -------------------------|
 | [NorthSec](https://nsec.io/cfp/) | Montreal, Canada | March 31 | May 18-19 |
 | [Recon](https://recon.cx/2023/cfp.html) | Montreal, Canada | April 24 | June 9 - 11 |
+| [BSides CambridgeMA](https://bsidescambridgema.org | Boston | Oct 14 |
 
 
 ## Previous conferences
