@@ -4,9 +4,8 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [hack.lu](https://hack.lu) | Luxembourg | October 22-25 2024 |July 2024
 | [BotConf](https://www.botconf.eu) | Nice, France | December 1 2024 | April 2024 |
-
+| [hack.lu](https://hack.lu) | Luxembourg | July 2024 | October 22-25 2024 |
 
 ## In 2023
 
@@ -55,7 +54,7 @@ Outside Europe
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [AMUSEC](https://www.amusec.fr/) |  | - |  |
+| [AMUSEC](https://amusec.i2m.univ-amu.fr/) | Marseille |  | May 25-26  |
 | [BSides Munich](https://2020.bsidesmunich.org | Munich, Germany | February 12 | August 25  |
 | [Copenhagen CyberCrime conference](https://www.cyberhagen.com) | Copenhagen, Denmark | Feb 29 | Sept 14-16 |
 | [Overdrive](http://overdriveconference.com/) | Girona, Spain |  | April 11-12 |
