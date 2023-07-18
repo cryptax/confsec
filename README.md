@@ -5,6 +5,7 @@
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
 | [BotConf](https://www.botconf.eu) | Nice, France | December 1 2024 | April 2024 |
+| [T2.fi](https://t2.fi) | Helsinki, Finland | ? | April 18-19, 2024 |
 | [hack.lu](https://hack.lu) | Luxembourg | July 2024 | October 22-25 2024 |
 
 ## In 2023
