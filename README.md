@@ -29,6 +29,7 @@
 | [Virus Bulletin](https://www.virusbulletin.com/conference/vb2023) | London, UK | April 5 | Oct 4-6 |
 | [Pass The Salt](https://cfp.pass-the-salt.org/) | Lille, France | April 14 | July 3-5 |
 | [BruCon](https://www.brucon.org/2023/) | Belgium | April 30 | September 28-29 |
+| [FOSS Security Campus](https://foss-security-campus.de/) | Berlin, Germany | May | September 26-29 |
 | [Hexacon](https://www.hexacon.fr) | Paris, France | June 1 | October 13-14 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | June 10 | November 2-3 |
 | [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | June 30 | September 21 |
