@@ -32,14 +32,16 @@
 | [Hexacon](https://www.hexacon.fr) | Paris, France | June 1 | October 13-14 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | June 10 | November 2-3 |
 | [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | June 30 | September 21 |
+| [Hacktivity 2023](https://hacktivity.com) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15 2022 | October 6-7 2022 |
+
 | [CTI summit](https://www.cti-summit.org)| Luxembourg | July | October 16-17 |
 | [hack.lu](https://hack.lu) | Luxembourg | July  | October 18-19 |
 | [NoHat](https://www.nohat.it) | Bergamo, Italy | July 15 | October 21 |
-| [Hacktivity 2023](https://hacktivity.com/call-for-papers/) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 25 | October 5-6 |
+| [Hacktivity 2023](https://hacktivity.com/call-for-papers/) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | | October 5-6 |
 | [BSides Munich](https://2023.bsidesmunich.org/callforpapers/) | Munich, Germany | August 1 | October 14-15 |
+| [UYBHYS](https://www.unlockyourbrain.bzh/) | Brest, France | | Nov 3-4 |
 | [GreHack](https://grehack.fr) | Grenoble, France | | November 17-18 |
 | [Hack in Paris](https://hackinparis.com) | Paris, France | ? | September 25-29 |
-
 
 
 Outside Europe
@@ -68,8 +70,6 @@ Outside Europe
 | [CORIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2021/) | Lille, France | July 1 | Sept 7 |
 | [SEC-T](https://www.sec-t.org/call-for-papers/) | Stockholm, Sweden | July 1 | September 15-16 |
 | [the SAS](https://cfp.thesascon.com/thesascon2021/) | Barcelona, Spain + online | July 18 | September 27-30 |
-| [Hacktivity 2022](https://2022.hacktivity.com/index.php/call-for-papers/) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15 2022 | October 6-7 2022 |
-| [UYBHYS](https://www.unlockyourbrain.bzh/) | Brest, France |  | November 4-5, 2022 |
 | [GreHack](https://grehack.fr) | Grenoble, France | August 15, 2022 | November 18-19, 2022 |
 | [SecSea](https://secsea.org/) | La Ciotat, France | ? | October 15-16 |
 
