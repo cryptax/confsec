@@ -22,8 +22,8 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [UYBHYS](https://www.unlockyourbrain.bzh/) | Brest, France | | Nov 3-4 |
 | [EkoParty](https://ekoparty.org) [@ekoparty](https://twitter.com/ekoparty) | Buenos Aires, Argentina | Sept 10 | November 1-3 |
-| [Elbsides](https://www.elbsides.eu/) [@elbsides](https://twitter.com/elbsides) @elbsides@infosec.exchange | Hamburg, Germany | Sept 23 | November 17 |
-| [BSides Lisbon](https://cfp.bsideslisbon.org) [@Bsideslisbon](https://twitter.com/Bsideslisbon) @bsideslisbon@infosec.exchange | Lisbon, Portugal | Sept 24 |  November 16-17 |
+| [Elbsides](https://www.elbsides.eu/) [@elbsides](https://twitter.com/elbsides) [@elbsides@infosec.exchange](https://infosec.exchange) | Hamburg, Germany | Sept 23 | November 17 |
+| [BSides Lisbon](https://cfp.bsideslisbon.org) [@Bsideslisbon](https://twitter.com/Bsideslisbon) [@bsideslisbon@infosec.exchange](https://infosec.exchange) | Lisbon, Portugal | Sept 24 |  November 16-17 |
 | [BSides London](https://www.securitybsides.org.uk/CFP2023.html) | London, UK | Oct 1 | December 9 |
 | [DefCamp](https://def.camp) [@DefCampRO](https://twitter.com/DefCampRO) | Bucharest, Romania | Oct 30 | November 23-24 |
 
@@ -31,7 +31,7 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [BalCCon](https://balccon.org) [@BalCC0n](https://twitter.com/BalCC0n] | Novi Sad, Serbia | July 1 | Sept 8 - 10 |
+| [BalCCon](https://balccon.org) [@BalCC0n](https://twitter.com/BalCC0n) | Novi Sad, Serbia | July 1 | Sept 8 - 10 |
 | [44Con](https://44con.com) | London, UK | June ? | September 13 |
 | [SEC-T](https://www.sec-t.org/call-for-papers/) | Stockholm, Sweden | July 1 | September 15-16 |
 | [BruCon](https://www.brucon.org/2023/) | Belgium | April 30 | September 28-29 |
