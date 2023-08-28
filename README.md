@@ -25,6 +25,7 @@
 | [Elbsides](https://www.elbsides.eu/) [@elbsides](https://twitter.com/elbsides) @elbsides@infosec.exchange | Hamburg, Germany | Sept 23 | November 17 |
 | [BSides Lisbon](https://cfp.bsideslisbon.org) [@Bsideslisbon](https://twitter.com/Bsideslisbon) @bsideslisbon@infosec.exchange | Lisbon, Portugal | Sept 24 |  November 16-17 |
 | [BSides London](https://www.securitybsides.org.uk/CFP2023.html) | London, UK | Oct 1 | December 9 |
+| [DefCamp](https://def.camp) [@DefCampRO](https://twitter.com/DefCampRO) | Bucharest, Romania | Oct 30 | November 23-24 |
 
 ### Conference in Q4 2023 - *ordered by conference date*
 
@@ -46,8 +47,7 @@
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com/) | Kursaal Bern, Switzerland | | October 24 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | June 10 | November 2-3 |
 | [DeepSec](https://www.deepsec.net/) | Vienna, Austria | July 31 | November 14-17 |
-
-| [GreHack](https://grehack.fr) | Grenoble, France | August 15, 2022 | November 18-19, 2022 |
+| [GreHack](https://grehack.fr) | Grenoble, France | August 15, 2022 | November 17-18 |
 | [BlackHat Europe](https://www.blackhat.com/call-for-papers.html) | London, UK | August 2 | December 6-7 |
 
 
