@@ -4,9 +4,10 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [BotConf](https://www.botconf.eu) | Nice, France | December 1 2024 | April 2024 |
+| [BotConf](https://www.botconf.eu) | Nice, France | December 1 2024 | April ? 2024 |
 | [T2.fi](https://t2.fi) | Helsinki, Finland | ? | April 18-19, 2024 |
 | [hack.lu](https://hack.lu) | Luxembourg | July 2024 | October 22-25 2024 |
+| [RootedCON](https://www.rootedcon.com/) | Panama | | July 5-7 2024 |
 
 ## In 2023
 
@@ -41,7 +42,7 @@
 | [BSides Munich](https://2023.bsidesmunich.org/callforpapers/) | Munich, Germany | August 1 | October 14-15 |
 | [UYBHYS](https://www.unlockyourbrain.bzh/) | Brest, France | | Nov 3-4 |
 | [GreHack](https://grehack.fr) | Grenoble, France | | November 17-18 |
-| [Hack in Paris](https://hackinparis.com) | Paris, France | ? | September 25-29 |
+| [BSides London](https://www.securitybsides.org.uk/CFP2023.html) | London, UK | Oct 1 | December 9 |
 
 
 Outside Europe
@@ -61,6 +62,7 @@ Outside Europe
 | [BSides Munich](https://2020.bsidesmunich.org | Munich, Germany | February 12 | August 25  |
 | [Copenhagen CyberCrime conference](https://www.cyberhagen.com) | Copenhagen, Denmark | Feb 29 | Sept 14-16 |
 | [Overdrive](http://overdriveconference.com/) | Girona, Spain |  | April 11-12 |
+| [Hack in the box](https://conference.hitb.org/) | Amsterdam, Netherlands | ? | April 17-21 |
 | [IsolationCon](https://themanyhats.club/the-many-hats-club-presents-isolationcon/) |  | March 31 | April 24 |
 | [Area 41](http://area41.io/) | Zurich, Switzerland | April 10 2022 | June 16-17 2022 |
 | [BSidesOslo](https://bsidesoslo.no/) | Oslo, Norway | - | May 25 2022 |
@@ -69,7 +71,9 @@ Outside Europe
 | [r2Con](https://con.rada.re/r2con-2020/cfp/)|  | June 30 | Sept 2-5 |
 | [CORIIN](https://www.cecyf.fr/activites/recherche-et-developpement/coriin-2021/) | Lille, France | July 1 | Sept 7 |
 | [SEC-T](https://www.sec-t.org/call-for-papers/) | Stockholm, Sweden | July 1 | September 15-16 |
+| [Hack in Paris](https://hackinparis.com) | Paris, France | ? | September 25-29 |
 | [the SAS](https://cfp.thesascon.com/thesascon2021/) | Barcelona, Spain + online | July 18 | September 27-30 |
+| [BlackHat Europe](https://www.blackhat.com/call-for-papers.html) | London, UK | August 2 | December 6-7 |
 | [GreHack](https://grehack.fr) | Grenoble, France | August 15, 2022 | November 18-19, 2022 |
 | [SecSea](https://secsea.org/) | La Ciotat, France | ? | October 15-16 |
 
@@ -88,12 +92,8 @@ Outside Europe:
 
 - [Wikicfp](http://wikicfp.com)
 - [CFPtime](http://cfptime.org)
-- [@pello's list](https://twitter.com/pello/lists/conferences/members)
 - [@niamtokik list](https://twitter.com/niamtokik/lists/events)
-- [Conference list 2019/2020](https://docs.google.com/spreadsheets/d/1SdJwWAwutrIKfh4o3c209hH81zB1e3gNS2StoBoqApU/edit#gid=0)
-- [Cyber Security Conferences in 2017](https://www.concise-courses.com/security/conferences-of-2017/)
-- [Virus Bulletin Calendar](https://www.virusbulletin.com/resources/calendar/)
-- [Past conference videos and talks](https://github.com/PaulSec/awesome-sec-talks)
+- [Conference index](https://conferenceindex.org/conferences/security) - mostly academic conferences
 
 
 ## Ratings
