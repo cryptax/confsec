@@ -22,6 +22,7 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [UYBHYS](https://www.unlockyourbrain.bzh/) | Brest, France | | Nov 3-4 |
 | [EkoParty](https://ekoparty.org) [@ekoparty](https://twitter.com/ekoparty) | Buenos Aires, Argentina | Sept 10 | November 1-3 |
+| [M0lecon](https://m0lecon.it/) | Torino, Italy | Sept 15 | Dec 2 | 
 | [Elbsides](https://www.elbsides.eu/) [@elbsides](https://twitter.com/elbsides) [@elbsides@infosec.exchange](https://infosec.exchange) | Hamburg, Germany | Sept 23 | November 17 |
 | [BSides Lisbon](https://cfp.bsideslisbon.org) [@Bsideslisbon](https://twitter.com/Bsideslisbon) [@bsideslisbon@infosec.exchange](https://infosec.exchange) | Lisbon, Portugal | Sept 24 |  November 16-17 |
 | [BSides London](https://www.securitybsides.org.uk/CFP2023.html) | London, UK | Oct 1 | December 9 |
