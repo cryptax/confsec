@@ -4,6 +4,7 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [ShmooCon](https://shmoocon.org) | Washington, DC, USA | November 28, 2023 | January 12-14 2024 |
 | [BotConf](https://www.botconf.eu) | Nice, France | December 1 2024 | April 23-26 2024 |
 | [T2.fi](https://t2.fi) | Helsinki, Finland | ? | April 18-19, 2024 |
 | [hack.lu](https://hack.lu) | Luxembourg | July 2024 | October 22-25 2024 |
@@ -14,6 +15,8 @@
 | [DEF CON](https://defcon.org) | Las Vegas, USA | | August 8-11 2024 |
 
 
+
+
 ## In 2023
 
 ### CFP still open  - ordered by *CFP date*
@@ -22,7 +25,6 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [UYBHYS](https://www.unlockyourbrain.bzh/) | Brest, France | | Nov 3-4 |
 | [M0lecon](https://m0lecon.it/) | Torino, Italy | Oct 15 | Dec 2 | 
-| [Elbsides](https://www.elbsides.eu/) [@elbsides](https://twitter.com/elbsides) [@elbsides@infosec.exchange](https://infosec.exchange) | Hamburg, Germany | Sept 23 | November 17 |
 | [BSides Lisbon](https://cfp.bsideslisbon.org) [@Bsideslisbon](https://twitter.com/Bsideslisbon) [@bsideslisbon@infosec.exchange](https://infosec.exchange) | Lisbon, Portugal | Sept 24 |  November 16-17 |
 | [BSides London](https://www.securitybsides.org.uk/CFP2023.html) | London, UK | Oct 1 | December 9 |
 | [DefCamp](https://def.camp) [@DefCampRO](https://twitter.com/DefCampRO) | Bucharest, Romania | Oct 30 | November 23-24 |
@@ -48,6 +50,7 @@
 | [EkoParty](https://ekoparty.org) [@ekoparty](https://twitter.com/ekoparty) | Buenos Aires, Argentina | Sept 10 | November 1-3 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | June 10 | November 2-3 |
 | [DeepSec](https://www.deepsec.net/) | Vienna, Austria | July 31 | November 14-17 |
+| [Elbsides](https://www.elbsides.eu/) [@elbsides](https://twitter.com/elbsides) [@elbsides@infosec.exchange](https://infosec.exchange) | Hamburg, Germany | Sept 23 | November 17 |
 | [GreHack](https://grehack.fr) | Grenoble, France | August 15, 2022 | November 17-18 |
 | [BlackHat Europe](https://www.blackhat.com/call-for-papers.html) | London, UK | August 2 | December 6-7 |
 
