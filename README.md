@@ -6,7 +6,7 @@
 | ---------------- | ------------- | ------------ | -------------------------|
 | [ShmooCon](https://shmoocon.org) | Washington, DC, USA | November 28, 2023 | January 12-14 2024 |
 | [BSidesLancashire](https://www.bsideslancashire.org) | Lancashire, UK | ? | March 27 |
-| [BotConf](https://www.botconf.eu) | Nice, France | December 1 2024 | April 23-26 2024 |
+| [BotConf](https://www.botconf.eu) | Nice, France | December 1 2023 | April 23-26 2024 |
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | | April 22-26, 2024 |
 | [T2.fi](https://t2.fi) | Helsinki, Finland | ? | April 18-19, 2024 |
 | [Security Fest](https://securityfest.com) | Gothenburg, Sweden | March 31 | May 30 |
