@@ -7,15 +7,20 @@
 | [ShmooCon](https://shmoocon.org) | Washington, DC, USA | November 28, 2023 | January 12-14 2024 |
 | [BSidesLancashire](https://www.bsideslancashire.org) | Lancashire, UK | ? | March 27 |
 | [BotConf](https://www.botconf.eu) | Nice, France | December 1 2024 | April 23-26 2024 |
-| [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | | April 22-26, 2024 |
-| [T2.fi](https://t2.fi) | Helsinki, Finland | ? | April 18-19, 2024 |
+| [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | January 21 | April 22-26, 2024 |
+| [T2.fi](https://t2.fi) | Helsinki, Finland | February 2, 2024 | April 18-19, 2024 |
 | [Security Fest](https://securityfest.com) | Gothenburg, Sweden | March 31 | May 30 |
-| [SSTIC](https://www.sstic.org) | Rennes, France | ? | June |
+| [SSTIC](https://www.sstic.org) | Rennes, France | February 5, 2024 | June 5-7, 2024 |
+| [Area 41](https://area41.io) | Zurich, Switzerland | | June 6-7, 2024 |
 | [Hack.lu](https://hack.lu) | Luxembourg | July 2024 | October 22-25 2024 |
-| [RootedCON](https://www.rootedcon.com/) | Panama | | July 5-7 2024 |
-| [RSA Conference USA](https://www.rsaconferences.com/usa) | San Francisco, USA | | May 6-0 2024 |
 | [BSides Leeds](https://twitter.com/BSidesLeeds) | Leeds, UK | | June 15, 2024 |
 | [BSides Athens](https://www.bsidesath.gr/cfp.php) | Athens, Greece | | June 22 2024 |
+
+### Outside Europe
+
+| Name           | Location	| CfP ends |  Conference dates |
+| ---------------- | ------------- | ------------ | -------------------------|
+| [RSA Conference USA](https://www.rsaconferences.com/usa) | San Francisco, USA | | May 6-0 2024 |
 | [DEF CON](https://defcon.org) | Las Vegas, USA | | August 8-11 2024 |
 
 
