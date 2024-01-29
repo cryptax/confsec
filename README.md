@@ -21,6 +21,7 @@
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
 | [RSA Conference USA](https://www.rsaconferences.com/usa) | San Francisco, USA | | May 6-0 2024 |
+| [RECON](https://recon.cx/2024/cfp.html) | Montreal, Canada | April 26, 2024 | June 28-30, 2024 |
 | [DEF CON](https://defcon.org) | Las Vegas, USA | | August 8-11 2024 |
 
 
