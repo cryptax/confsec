@@ -11,10 +11,12 @@
 | [T2.fi](https://t2.fi) | Helsinki, Finland | February 2, 2024 | April 18-19, 2024 |
 | [Security Fest](https://securityfest.com) | Gothenburg, Sweden | March 31 | May 30 |
 | [SSTIC](https://www.sstic.org) | Rennes, France | February 5, 2024 | June 5-7, 2024 |
+| [BSides Budapest](https://2024.bsidesbud.com/call-for-paper/) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | March 25, 2024 | May 23, 2024 |
 | [Area 41](https://area41.io) | Zurich, Switzerland | | June 6-7, 2024 |
 | [Hack.lu](https://hack.lu) | Luxembourg | July 2024 | October 22-25 2024 |
 | [BSides Leeds](https://twitter.com/BSidesLeeds) | Leeds, UK | | June 15, 2024 |
 | [BSides Athens](https://www.bsidesath.gr/cfp.php) | Athens, Greece | | June 22 2024 |
+| [Hacktivity 2024](https://hacktivity.com/call-for-papers/) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15, 2024 | October 17-18, 2024 |
 
 ### Outside Europe
 
