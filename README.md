@@ -15,6 +15,7 @@
 | [Hack.lu](https://hack.lu) | Luxembourg | July 2024 | October 22-25 2024 |
 | [BSides Leeds](https://twitter.com/BSidesLeeds) | Leeds, UK | | June 15, 2024 |
 | [BSides Athens](https://www.bsidesath.gr/cfp.php) | Athens, Greece | | June 22 2024 |
+| [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | September 28, 2024 |
 
 ### Outside Europe
 
