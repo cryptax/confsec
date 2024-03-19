@@ -9,12 +9,14 @@
 | [BotConf](https://www.botconf.eu) | Nice, France | December 1 2024 | April 23-26 2024 |
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | January 21 | April 22-26, 2024 |
 | [T2.fi](https://t2.fi) | Helsinki, Finland | February 2, 2024 | April 18-19, 2024 |
-| [Security Fest](https://securityfest.com) | Gothenburg, Sweden | March 31 | May 30 |
+| [Security Fest](https://securityfest.com) | Gothenburg, Sweden | Feb 20 | May 30 |
 | [SSTIC](https://www.sstic.org) | Rennes, France | February 5, 2024 | June 5-7, 2024 |
-| [Area 41](https://area41.io) | Zurich, Switzerland | | June 6-7, 2024 |
-| [Hack.lu](https://hack.lu) | Luxembourg | July 2024 | October 22-25 2024 |
+| [Area 41](https://area41.io) | Zurich, Switzerland | April 24 | June 6-7, 2024 |
+| [Bucharest Tech Week](https://www.techweek.ro/) | Bucharest, Romania | ? | June 11, 2024 |
 | [BSides Leeds](https://twitter.com/BSidesLeeds) | Leeds, UK | | June 15, 2024 |
 | [BSides Athens](https://www.bsidesath.gr/cfp.php) | Athens, Greece | | June 22 2024 |
+| [SEC-T](https://cfp.sec-t.org/sec-t-2024/cfp) | Stockholm, Sweden | July 1 | September 10-13 |
+| [Hack.lu](https://hack.lu) | Luxembourg | July 2024 | October 22-25 2024 |
 | [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | September 28, 2024 |
 
 ### Outside Europe
