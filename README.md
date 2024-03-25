@@ -4,17 +4,18 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [ShmooCon](https://shmoocon.org) | Washington, DC, USA | November 28, 2023 | January 12-14 2024 |
 | [BSidesLancashire](https://www.bsideslancashire.org) | Lancashire, UK | ? | March 27 |
 | [BotConf](https://www.botconf.eu) | Nice, France | December 1 2024 | April 23-26 2024 |
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | January 21 | April 22-26, 2024 |
 | [T2.fi](https://t2.fi) | Helsinki, Finland | February 2, 2024 | April 18-19, 2024 |
 | [Security Fest](https://securityfest.com) | Gothenburg, Sweden | Feb 20 | May 30 |
 | [SSTIC](https://www.sstic.org) | Rennes, France | February 5, 2024 | June 5-7, 2024 |
+| [OffensiveCon](https://cfp.offensivecon.org) | Berlin, Germany | April 2 | May 10-11, 2024 |
 | [Area 41](https://area41.io) | Zurich, Switzerland | April 24 | June 6-7, 2024 |
 | [Bucharest Tech Week](https://www.techweek.ro/) | Bucharest, Romania | ? | June 11, 2024 |
 | [BSides Leeds](https://twitter.com/BSidesLeeds) | Leeds, UK | | June 15, 2024 |
 | [BSides Athens](https://www.bsidesath.gr/cfp.php) | Athens, Greece | | June 22 2024 |
+| [Barbhack](https://barbhack.fr) | | | August 31, 2024 |
 | [SEC-T](https://cfp.sec-t.org/sec-t-2024/cfp) | Stockholm, Sweden | July 1 | September 10-13 |
 | [Hack.lu](https://hack.lu) | Luxembourg | July 2024 | October 22-25 2024 |
 | [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | September 28, 2024 |
@@ -23,20 +24,13 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [ShmooCon](https://shmoocon.org) | Washington, DC, USA | November 28, 2023 | January 12-14 2024 |
 | [RSA Conference USA](https://www.rsaconferences.com/usa) | San Francisco, USA | | May 6-0 2024 |
 | [RECON](https://recon.cx/2024/cfp.html) | Montreal, Canada | April 26, 2024 | June 28-30, 2024 |
 | [DEF CON](https://defcon.org) | Las Vegas, USA | | August 8-11 2024 |
 
 
 ## In 2023
-
-### CFP still open  - ordered by *CFP date*
-
-| Name           | Location	| CfP ends |  Conference dates |
-| ---------------- | ------------- | ------------ | -------------------------|
-| [DefCamp](https://def.camp) [@DefCampRO](https://twitter.com/DefCampRO) | Bucharest, Romania | Oct 30 | November 23-24 |
-
-### Conference in Q4 2023 - *ordered by conference date*
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
@@ -62,6 +56,7 @@
 | [Elbsides](https://www.elbsides.eu/) [@elbsides](https://twitter.com/elbsides) [@elbsides@infosec.exchange](https://infosec.exchange) | Hamburg, Germany | Sept 23 | November 17 |
 | [GreHack](https://grehack.fr) | Grenoble, France | August 15, 2022 | November 17-18 |
 | [M0lecon](https://m0lecon.it/) | Torino, Italy | Oct 15 | Dec 2 | 
+| [DefCamp](https://def.camp) [@DefCampRO](https://twitter.com/DefCampRO) | Bucharest, Romania | Oct 30 | November 23-24 |
 | [BlackHat Europe](https://www.blackhat.com/call-for-papers.html) | London, UK | August 2 | December 6-7 |
 | [BSides London](https://www.securitybsides.org.uk/CFP2023.html) | London, UK | Oct 1 | December 9 |
 
