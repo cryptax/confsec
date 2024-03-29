@@ -10,24 +10,35 @@
 | [T2.fi](https://t2.fi) | Helsinki, Finland | February 2, 2024 | April 18-19, 2024 |
 | [Security Fest](https://securityfest.com) | Gothenburg, Sweden | Feb 20 | May 30 |
 | [SSTIC](https://www.sstic.org) | Rennes, France | February 5, 2024 | June 5-7, 2024 |
+| [Pass The Salt](https://pass-the-salt.org/) | Lille, France | March 31, 2024 | July 3-5, 2024 |
+| [Sthack](https://sthack.fr/) | Bordeaux, France | | May 24, 2024 |
 | [OffensiveCon](https://cfp.offensivecon.org) | Berlin, Germany | April 2 | May 10-11, 2024 |
 | [Area 41](https://area41.io) | Zurich, Switzerland | April 24 | June 6-7, 2024 |
 | [Bucharest Tech Week](https://www.techweek.ro/) | Bucharest, Romania | ? | June 11, 2024 |
 | [BSides Leeds](https://twitter.com/BSidesLeeds) | Leeds, UK | | June 15, 2024 |
-| [BSides Athens](https://www.bsidesath.gr/cfp.php) | Athens, Greece | | June 22 2024 |
+| [BSides Athens](https://www.bsidesath.gr/cfp.php) | Athens, Greece | April 8, 2024 | June 29 2024 |
+| [Le Hack](https://lehack.org/cfp-apply-for-a-talk/) | Paris, France | April 7, 2024 | July 5-7, 2024 |
 | [Barbhack](https://barbhack.fr) | | | August 31, 2024 |
 | [SEC-T](https://cfp.sec-t.org/sec-t-2024/cfp) | Stockholm, Sweden | July 1 | September 10-13 |
+| [Volcamp](https://www.volcamp.io/) [@VolcampIO](https://twitter.com/VolcampIO) | Clermont-Ferrand, France | May 17, 2023 | October 10-11 |
 | [Hack.lu](https://hack.lu) | Luxembourg | July 2024 | October 22-25 2024 |
 | [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | September 28, 2024 |
+| [NoHat](https://www.nohat.it/) | Bergamo, Italy | | October 19, 2024 |
+| [UYBHYS](https://www.unlockyourbrain.bzh/en/unlock-your-brain-2/) | Brest, France | | November 8-9, 2024 |
+| [GreHack](https://grehack.fr) | Grenoble, France | | November 15, 2024 |
+| [DeepSec](https://www.deepsec.net/cfp.html) | Vienna, Austria | July 31 2024 | November 19-22 2024 |
+| [Defcamp](https://def.camp/call-for-papers/) | Bucharest, Romania | Oct 30, 2024 | November 23-24 2024 |
 
 ### Outside Europe
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
 | [ShmooCon](https://shmoocon.org) | Washington, DC, USA | November 28, 2023 | January 12-14 2024 |
-| [RSA Conference USA](https://www.rsaconferences.com/usa) | San Francisco, USA | | May 6-0 2024 |
+| [CARO](https://www.caro2024.org/) | Washington DC, USA | | May 1-3, 2024 |
+| [RSA Conference USA](https://www.rsaconferences.com/usa) | San Francisco, USA | | May 6-10 2024 |
 | [RECON](https://recon.cx/2024/cfp.html) | Montreal, Canada | April 26, 2024 | June 28-30, 2024 |
 | [DEF CON](https://defcon.org) | Las Vegas, USA | | August 8-11 2024 |
+| [AVAR](https://aavar.org/cybersecurity-conference/) | Chennai, India | | December 4-6, 2024 |
 
 
 ## In 2023
@@ -103,7 +114,7 @@
 | [Troopers](https://troopers.de/) | Heidelberg, Germany | March 17th | June 26-30 |
 | [Securi-Tay](https://securi-tay.co.uk/) | Dundee, Scotland | | March 3 |
 | [SSTIC](https://www.sstic.org/) | Rennes, France | February 7 | June 7-9 |
-| [Sthack](https://sthack.fr) | Toulouse, France | ? | May 12 |
+| [Sthack](https://sthack.fr) | Bordeaux, France | ? | May 12 |
 | [x33fcon](https://x33fcon.com) |  Gdynia, Poland | March 1 | May 29-30 |
 | [ZeroDayCon](https://www.zerodaycon.com) | Dublin, Ireland | ? | March 9 |
 
