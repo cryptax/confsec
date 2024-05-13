@@ -13,17 +13,21 @@
 | [Pass The Salt](https://pass-the-salt.org/) | Lille, France | March 31, 2024 | July 3-5, 2024 |
 | [Sthack](https://sthack.fr/) | Bordeaux, France | | May 24, 2024 |
 | [OffensiveCon](https://cfp.offensivecon.org) | Berlin, Germany | April 2 | May 10-11, 2024 |
+| [PivotCon](https://twitter.com/pivot_con) | Malaga, Spain | ? | May 2024 |
 | [Area 41](https://area41.io) | Zurich, Switzerland | April 24 | June 6-7, 2024 |
 | [Bucharest Tech Week](https://www.techweek.ro/) | Bucharest, Romania | ? | June 11, 2024 |
 | [BSides Leeds](https://twitter.com/BSidesLeeds) | Leeds, UK | | June 15, 2024 |
 | [BSides Athens](https://www.bsidesath.gr/cfp.php) | Athens, Greece | April 8, 2024 | June 29 2024 |
 | [Le Hack](https://lehack.org/cfp-apply-for-a-talk/) | Paris, France | April 7, 2024 | July 5-7, 2024 |
 | [Barbhack](https://barbhack.fr) | | | August 31, 2024 |
+| [OrangeCon](https://orangecon.nl) | Amsterdam, NL | ? | September 5 |
 | [SEC-T](https://cfp.sec-t.org/sec-t-2024/cfp) | Stockholm, Sweden | July 1 | September 10-13 |
 | [Volcamp](https://www.volcamp.io/) [@VolcampIO](https://twitter.com/VolcampIO) | Clermont-Ferrand, France | May 17, 2023 | October 10-11 |
+| [CERT-EU](https://cert.europa.eu/conference/tales-from-the-real-world) | Brussels, Belgium | May 31 | October 10-11 |
+| [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | September 28, 2024 
 | [Hack.lu](https://hack.lu) | Luxembourg | July 2024 | October 22-25 2024 |
-| [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | September 28, 2024 |
 | [NoHat](https://www.nohat.it/) | Bergamo, Italy | | October 19, 2024 |
+| [BSides Munich](https://2024.bsidesmunich.org/callforpapers/) | Munich, Germany | July 15 | November 10-11 |
 | [UYBHYS](https://www.unlockyourbrain.bzh/en/unlock-your-brain-2/) | Brest, France | | November 8-9, 2024 |
 | [GreHack](https://grehack.fr) | Grenoble, France | | November 15, 2024 |
 | [DeepSec](https://www.deepsec.net/cfp.html) | Vienna, Austria | July 31 2024 | November 19-22 2024 |
