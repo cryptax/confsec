@@ -28,10 +28,12 @@
 | [Hack.lu](https://hack.lu) | Luxembourg | July 2024 | October 22-25 2024 |
 | [NoHat](https://www.nohat.it/) | Bergamo, Italy | | October 19, 2024 |
 | [BSides Munich](https://2024.bsidesmunich.org/callforpapers/) | Munich, Germany | July 15 | November 10-11 |
+| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | | November 6-7, 2024 |
 | [UYBHYS](https://www.unlockyourbrain.bzh/en/unlock-your-brain-2/) | Brest, France | | November 8-9, 2024 |
 | [GreHack](https://grehack.fr) | Grenoble, France | | November 15, 2024 |
 | [DeepSec](https://www.deepsec.net/cfp.html) | Vienna, Austria | July 31 2024 | November 19-22 2024 |
 | [Defcamp](https://def.camp/call-for-papers/) | Bucharest, Romania | Oct 30, 2024 | November 23-24 2024 |
+| [BSidesLondon](https://www.securitybsides.org.uk/) | London, UK | | December 14, 2024 |
 
 ### Outside Europe
 
