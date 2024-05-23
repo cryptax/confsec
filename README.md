@@ -61,9 +61,8 @@
 | [Hexacon](https://www.hexacon.fr) | Paris, France | June 1 | October 13-14 |
 | [BSides Munich](https://2023.bsidesmunich.org/callforpapers/) | Munich, Germany | August 1 | October 14-15 |
 | [SecSea](https://secsea.org/) | La Ciotat, France | ? | October 15-16 |
-| [CTI summit](https://www.cti-summit.org)| Luxembourg | July | October 16-17 |
-| [hack.lu](https://hack.lu) | Luxembourg | July  | October 18-19 |
 | [NoHat](https://www.nohat.it) | Bergamo, Italy | July 15 | October 21 |
+| [hack.lu](https://hack.lu) | Luxembourg | August 1  | October 22-25 |
 | [Swiss Cyber Storm](https://www.swisscyberstorm.com/) | Kursaal Bern, Switzerland | | October 24 |
 | [EkoParty](https://ekoparty.org) [@ekoparty](https://twitter.com/ekoparty) | Buenos Aires, Argentina | Sept 10 | November 1-3 |
 | [BlackAlps](https://www.blackalps.ch) | Yverdon les Bains, Switzerland | June 10 | November 2-3 |
