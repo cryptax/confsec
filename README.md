@@ -20,7 +20,7 @@
 | [BSides Athens](https://www.bsidesath.gr/cfp.php) | Athens, Greece | April 8, 2024 | June 29 2024 |
 | [Le Hack](https://lehack.org/cfp-apply-for-a-talk/) | Paris, France | April 7, 2024 | July 5-7, 2024 |
 | [Barbhack](https://barbhack.fr) | | | August 31, 2024 |
-| [OrangeCon](https://orangecon.nl) | Amsterdam, NL | ? | September 5 |
+| [OrangeCon](https://orangecon.nl) | Amsterdam, NL | July 31 | September 5 |
 | [SEC-T](https://cfp.sec-t.org/sec-t-2024/cfp) | Stockholm, Sweden | July 1 | September 10-13 |
 | [Volcamp](https://www.volcamp.io/) [@VolcampIO](https://twitter.com/VolcampIO) | Clermont-Ferrand, France | May 17, 2023 | October 10-11 |
 | [CERT-EU](https://cert.europa.eu/conference/tales-from-the-real-world) | Brussels, Belgium | May 31 | October 10-11 |
