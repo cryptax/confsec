@@ -24,7 +24,8 @@
 | [SEC-T](https://cfp.sec-t.org/sec-t-2024/cfp) | Stockholm, Sweden | July 1 | September 10-13 |
 | [Volcamp](https://www.volcamp.io/) [@VolcampIO](https://twitter.com/VolcampIO) | Clermont-Ferrand, France | May 17, 2023 | October 10-11 |
 | [CERT-EU](https://cert.europa.eu/conference/tales-from-the-real-world) | Brussels, Belgium | May 31 | October 10-11 |
-| [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | September 28, 2024 
+| [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | September 28, 2024 |
+| [Hacktivity 2024](https://hacktivity.com) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15, 2024 | October 17-18, 2024 |
 | [NoHat](https://www.nohat.it/) | Bergamo, Italy | July 15 | October 19, 2024 |
 | [Hack.lu](https://hack.lu) | Luxembourg | August 1 2024 | October 22-25 2024 |
 | [BSides Munich](https://2024.bsidesmunich.org/callforpapers/) | Munich, Germany | July 15 | November 10-11 |
