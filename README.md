@@ -19,19 +19,20 @@
 | [BSides Leeds](https://twitter.com/BSidesLeeds) | Leeds, UK | | June 15, 2024 |
 | [BSides Athens](https://www.bsidesath.gr/cfp.php) | Athens, Greece | April 8, 2024 | June 29 2024 |
 | [Le Hack](https://lehack.org/cfp-apply-for-a-talk/) | Paris, France | April 7, 2024 | July 5-7, 2024 |
-| [Barbhack](https://barbhack.fr) | | | August 31, 2024 |
-| [OrangeCon](https://orangecon.nl) | Amsterdam, NL | July 31 | September 5 |
-| [SEC-T](https://cfp.sec-t.org/sec-t-2024/cfp) | Stockholm, Sweden | July 1 | September 10-13 |
-| [Volcamp](https://www.volcamp.io/) [@VolcampIO](https://twitter.com/VolcampIO) | Clermont-Ferrand, France | May 17, 2023 | October 10-11 |
 | [CERT-EU](https://cert.europa.eu/conference/tales-from-the-real-world) | Brussels, Belgium | May 31 | October 10-11 |
 | [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | September 28, 2024 |
+| [Barbhack](https://barbhack.fr) | Toulon, France | June 15 | August 31, 2024 |
+| [OrangeCon](https://orangecon.nl) | Amsterdam, NL | July 31 | September 5 |
+| [SEC-T](https://cfp.sec-t.org/sec-t-2024/cfp) | Stockholm, Sweden | July 1 | September 10-13 |
+| [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US | June 21 | September 18-21 |
+| [Volcamp](https://www.volcamp.io/) [@VolcampIO](https://twitter.com/VolcampIO) | Clermont-Ferrand, France | May 17, 2023 | October 10-11 |
 | [Hacktivity 2024](https://hacktivity.com) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15, 2024 | October 17-18, 2024 |
 | [NoHat](https://www.nohat.it/) | Bergamo, Italy | July 15 | October 19, 2024 |
 | [Hack.lu](https://hack.lu) | Luxembourg | August 1 2024 | October 22-25 2024 |
 | [BSides Munich](https://2024.bsidesmunich.org/callforpapers/) | Munich, Germany | July 15 | November 10-11 |
 | [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | | November 6-7, 2024 |
 | [UYBHYS](https://www.unlockyourbrain.bzh/en/unlock-your-brain-2/) | Brest, France | | November 8-9, 2024 |
-| [GreHack](https://grehack.fr) | Grenoble, France | | November 15, 2024 |
+| [GreHack](https://grehack.fr) | Grenoble, France | July 7 | November 15, 2024 |
 | [DeepSec](https://www.deepsec.net/cfp.html) | Vienna, Austria | July 31 2024 | November 19-22 2024 |
 | [Defcamp](https://def.camp/call-for-papers/) | Bucharest, Romania | Oct 30, 2024 | November 23-24 2024 |
 | [BSidesLondon](https://www.securitybsides.org.uk/) | London, UK | | December 14, 2024 |
