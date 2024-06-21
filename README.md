@@ -22,6 +22,7 @@
 | [CERT-EU](https://cert.europa.eu/conference/tales-from-the-real-world) | Brussels, Belgium | May 31 | October 10-11 |
 | [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | September 28, 2024 |
 | [Barbhack](https://barbhack.fr) | Toulon, France | June 15 | August 31, 2024 |
+| [BSides Bern](https://bern.bsides.ch/) | Bern, Switzerland | July 14 | October 1 |
 | [OrangeCon](https://orangecon.nl) | Amsterdam, NL | July 31 | September 5 |
 | [SEC-T](https://cfp.sec-t.org/sec-t-2024/cfp) | Stockholm, Sweden | July 1 | September 10-13 |
 | [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US | June 21 | September 18-21 |
