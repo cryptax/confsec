@@ -31,6 +31,7 @@
 | [NoHat](https://www.nohat.it/) | Bergamo, Italy | July 15 | October 19, 2024 |
 | [BSides Oslo](https://docs.google.com/forms/d/1K3HxJKaBIha0v5pzoQf-yzhEifV4TLuSqBn1nmXAu_s/) | Oslo, Norway | August 11 | October 14 |
 | [Hack.lu](https://hack.lu) | Luxembourg | August 1 2024 | October 22-25 2024 |
+| [BSides Berlin](https://cfp.bsides.berlin/bsides-berlin-2024/cfp) | Berlin, Germany | August 17 | October 26 |
 | [BSides Munich](https://2024.bsidesmunich.org/callforpapers/) | Munich, Germany | July 15 | November 10-11 |
 | [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | | November 6-7, 2024 |
 | [UYBHYS](https://www.unlockyourbrain.bzh/en/unlock-your-brain-2/) | Brest, France | | November 8-9, 2024 |
