@@ -37,6 +37,7 @@
 | [UYBHYS](https://www.unlockyourbrain.bzh/en/unlock-your-brain-2/) | Brest, France | | November 8-9, 2024 |
 | [GreHack](https://grehack.fr) | Grenoble, France | July 7 | November 15, 2024 |
 | [DeepSec](https://www.deepsec.net/cfp.html) | Vienna, Austria | July 31 2024 | November 19-22 2024 |
+| [Hackvens](https://hackvens.fr) | Lille, France | | November 22 |
 | [Defcamp](https://def.camp/call-for-papers/) | Bucharest, Romania | Oct 30, 2024 | November 23-24 2024 |
 | [BSidesLondon](https://www.securitybsides.org.uk/) | London, UK | | December 14, 2024 |
 
