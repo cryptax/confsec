@@ -27,6 +27,7 @@
 | [SEC-T](https://cfp.sec-t.org/sec-t-2024/cfp) | Stockholm, Sweden | July 1 | September 10-13 |
 | [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US | June 21 | September 18-21 |
 | [Volcamp](https://www.volcamp.io/) [@VolcampIO](https://twitter.com/VolcampIO) | Clermont-Ferrand, France | May 17, 2023 | October 10-11 |
+| [SecSea](https://secsea.org/) - cfp@secsea.org | La Ciotat, France | Sept 15 | October 11-12, 2024 |
 | [Hacktivity 2024](https://hacktivity.com) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15, 2024 | October 17-18, 2024 |
 | [NoHat](https://www.nohat.it/) | Bergamo, Italy | July 15 | October 19, 2024 |
 | [BSides Oslo](https://docs.google.com/forms/d/1K3HxJKaBIha0v5pzoQf-yzhEifV4TLuSqBn1nmXAu_s/) | Oslo, Norway | August 11 | October 14 |
