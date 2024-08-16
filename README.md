@@ -11,7 +11,7 @@
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
 | [BSidesLancashire](https://www.bsideslancashire.org) | Lancashire, UK | ? | March 27 |
-| [BotConf](https://www.botconf.eu) | Nice, France | December 1 2024 | April 23-26 2024 |
+| [BotConf](https://www.botconf.eu) | Nice, France | December 1 2023 | April 23-26 2024 |
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | January 21 | April 22-26, 2024 |
 | [T2.fi](https://t2.fi) | Helsinki, Finland | February 2, 2024 | April 18-19, 2024 |
 | [Security Fest](https://securityfest.com) | Gothenburg, Sweden | Feb 20 | May 30 |
