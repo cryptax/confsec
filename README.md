@@ -1,5 +1,11 @@
 # Security conferences
 
+## In 2025
+
+| Name           | Location	| CfP ends |  Conference dates |
+| ---------------- | ------------- | ------------ | -------------------------|
+| [RuhrSec 2025](https://www.ruhrsec.de/2025/) | Bochum, Germany | November 10, 2024 | February 20-21, 2025 |
+
 ## In 2024
 
 | Name           | Location	| CfP ends |  Conference dates |
