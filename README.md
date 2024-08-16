@@ -71,6 +71,7 @@
 | [44Con](https://44con.com) | London, UK | June ? | September 13 |
 | [SEC-T](https://www.sec-t.org/call-for-papers/) | Stockholm, Sweden | July 1 | September 15-16 |
 | [BruCon](https://www.brucon.org/2023/) | Belgium | April 30 | September 28-29 |
+| [FOSS Security Campus](https://foss-security-campus.de/) | Berlin, Germany | May | September 26-29 |
 | [Virus Bulletin](https://www.virusbulletin.com/conference/vb2023) | London, UK | April 5 | Oct 4-6 |
 | [Hacktivity 2023](https://hacktivity.com) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July ? | October 5-6 |
 | [Volcamp](https://www.volcamp.io/) [@VolcampIO](https://twitter.com/VolcampIO) | Clermont-Ferrand, France | | October 12-13 |
