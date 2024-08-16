@@ -16,6 +16,8 @@
 | [T2.fi](https://t2.fi) | Helsinki, Finland | February 2, 2024 | April 18-19, 2024 |
 | [Security Fest](https://securityfest.com) | Gothenburg, Sweden | Feb 20 | May 30 |
 | [SSTIC](https://www.sstic.org) | Rennes, France | February 5, 2024 | June 5-7, 2024 |
+| [BSides Budapest](https://2024.bsidesbud.com/call-for-paper/) [@BSidesBud](https://twitter.com/BSidesBud) | Budapest, Hungary | March 25, 2024 | May 23, 2024 |
+| [Hacktivity 2024](https://hacktivity.com/call-for-papers/) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15, 2024 | October 17-18, 2024 |
 | [Pass The Salt](https://pass-the-salt.org/) | Lille, France | March 31, 2024 | July 3-5, 2024 |
 | [Sthack](https://sthack.fr/) | Bordeaux, France | | May 24, 2024 |
 | [OffensiveCon](https://cfp.offensivecon.org) | Berlin, Germany | April 2 | May 10-11, 2024 |
