@@ -18,6 +18,7 @@
 | [PivotCon](https://pivotcon.org) [@pivot_con](https://twitter.com/pivot_con) | Malaga, Spain | Feb 7 | May 7-9 |
 | [CONFIDENCE](https://confidence-conference.org/) | Krakow, Poland | March 7 | June 2-3 |
 | [Troopers](https://troopers.de/) | Heidelberg, Germany | March 16 | June 23-27 |
+| [Why2025](https://why2025.org) | Alkmaar, Netherlands | May 25 | August 8-12 |
 | [Area 41](https://area41.io) | Zurich, Switzerland | ? | June 18-19 |
 | [Pass The Salt](https://pass-the-salt.org/) | Lille, France | ? | July 1-3 |
 | [OrangeCon](https://orangecon.nl) | Amsterdam, NL | ? | September 5 |
