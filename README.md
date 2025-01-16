@@ -16,6 +16,7 @@
 | [M0lecon](https://m0lecon.it/) | Torino, Italy | Jan 31 | March 22 | 
 | [x33fcon](https://x33fcon.com) |  Gdynia, Poland | Feb 2 | June 12-13 |
 | [PivotCon](https://pivotcon.org) [@pivot_con](https://twitter.com/pivot_con) | Malaga, Spain | Feb 7 | May 7-9 |
+| [Sthack](https://sthack.fr) | Bordeaux, France | ? | May 23 |
 | [CONFIDENCE](https://confidence-conference.org/) | Krakow, Poland | March 7 | June 2-3 |
 | [Troopers](https://troopers.de/) | Heidelberg, Germany | March 16 | June 23-27 |
 | [Why2025](https://why2025.org) | Alkmaar, Netherlands | May 25 | August 8-12 |
