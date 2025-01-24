@@ -18,12 +18,16 @@
 | [PivotCon](https://pivotcon.org) [@pivot_con](https://twitter.com/pivot_con) | Malaga, Spain | Feb 7 | May 7-9 |
 | [Sthack](https://sthack.fr) | Bordeaux, France | End of March? | May 23 |
 | [CONFIDENCE](https://confidence-conference.org/) | Krakow, Poland | March 7 | June 2-3 |
+| [BSides Ume](https://indico.neic.no/event/273/abstracts/) | Ume, Sweden | March 14 | June 10-11 |
+| [BSides Kristiansand](https://bsideskrs.no) | Kristiansand, Norway | March 16 | June 6 |
 | [Troopers](https://troopers.de/) | Heidelberg, Germany | March 16 | June 23-27 |
 | [Why2025](https://why2025.org) | Alkmaar, Netherlands | May 25 | August 8-12 |
 | [Area 41](https://area41.io) | Zurich, Switzerland | ? | June 18-19 |
 | [Pass The Salt](https://pass-the-salt.org/) | Lille, France | ? | July 1-3 |
 | [OrangeCon](https://orangecon.nl) | Amsterdam, NL | ? | September 5 |
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | August 1 | September 8-12 |
+| [NoHat](https://www.nohat.it/) | Bergamo, Italy | ? | October 18 |
+| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | | November 20-21 |
 
 ### Outside Europe
 
@@ -37,7 +41,6 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [Sthack](https://sthack.fr/) | Bordeaux, France | | May 24, 2024 |
 | [Le Hack](https://lehack.org/cfp-apply-for-a-talk/) | Paris, France | April 7, 2024 | July 5-7, 2024 |
 | [CERT-EU](https://cert.europa.eu/conference/tales-from-the-real-world) | Brussels, Belgium | May 31 | October 10-11 |
 | [44Con](https://44con.com) | London, UK | June ? | September 13 |
@@ -46,12 +49,10 @@
 | [BSides Bern](https://bern.bsides.ch/) | Bern, Switzerland | July 14 | October 1 |
 | [SecSea](https://secsea.org/) - cfp@secsea.org | La Ciotat, France | Sept 15 | October 11-12, 2024 |
 | [Hacktivity 2024](https://hacktivity.com) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15, 2024 | October 17-18, 2024 |
-| [NoHat](https://www.nohat.it/) | Bergamo, Italy | July 15 | October 19, 2024 |
-| [BSides Oslo](https://docs.google.com/forms/d/1K3HxJKaBIha0v5pzoQf-yzhEifV4TLuSqBn1nmXAu_s/) | Oslo, Norway | August 11 | October 14 |
+| [BSides Oslo](https://infosec.exchange/@bsidesoslo) | Oslo, Norway | August 11 | October 14 |
 | [Hack.lu](https://hack.lu) | Luxembourg | August 1 2024 | October 22-25 2024 |
 | [BSides Berlin](https://cfp.bsides.berlin/bsides-berlin-2024/cfp) | Berlin, Germany | August 17 | October 26 |
 | [BSides Munich](https://2024.bsidesmunich.org/callforpapers/) | Munich, Germany | July 15 | November 10-11 |
-| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | | November 6-7, 2024 |
 | [UYBHYS](https://www.unlockyourbrain.bzh/en/unlock-your-brain-2/) | Brest, France | | November 8-9, 2024 |
 | [GreHack](https://grehack.fr) | Grenoble, France | July 7 | November 15, 2024 |
 | [DeepSec](https://www.deepsec.net/cfp.html) | Vienna, Austria | July 31 2024 | November 19-22 2024 |
