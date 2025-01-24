@@ -22,7 +22,6 @@
 | [BSides Kristiansand](https://bsideskrs.no) | Kristiansand, Norway | March 16 | June 6 |
 | [Troopers](https://troopers.de/) | Heidelberg, Germany | March 16 | June 23-27 |
 | [Why2025](https://why2025.org) | Alkmaar, Netherlands | May 25 | August 8-12 |
-| [Area 41](https://area41.io) | Zurich, Switzerland | ? | June 18-19 |
 | [Pass The Salt](https://pass-the-salt.org/) | Lille, France | ? | July 1-3 |
 | [OrangeCon](https://orangecon.nl) | Amsterdam, NL | ? | September 5 |
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | August 1 | September 8-12 |
@@ -64,6 +63,7 @@
 
 - [AlligatorCon](https://alligatorcon.eu) [@AlligatorConEU](https://twitter.com/AlligatorConEU)
 - [AMUSEC](https://amusec.i2m.univ-amu.fr/)
+- [Area 41](https://area41.io) next in 2026.
 - [AVAR](https://aavar.org/cybersecurity-conference/)
 - [BalCCon](https://balccon.org) [@BalCC0n](https://twitter.com/BalCC0n)
 - [BruCon](https://www.brucon.org/2023/)
