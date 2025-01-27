@@ -27,6 +27,7 @@
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | August 1 | September 8-12 |
 | [NoHat](https://www.nohat.it/) | Bergamo, Italy | ? | October 18 |
 | [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | | November 20-21 |
+| [Hack.lu](https://hack.lu) | Luxembourg | April 30 | October 21-24 2025 |
 
 ### Outside Europe
 
