@@ -20,6 +20,7 @@
 | [CONFIDENCE](https://confidence-conference.org/) | Krakow, Poland | March 7 | June 2-3 |
 | [BSides Ume](https://indico.neic.no/event/273/abstracts/) | Ume, Sweden | March 14 | June 10-11 |
 | [BSides Kristiansand](https://bsideskrs.no) | Kristiansand, Norway | March 16 | June 6 |
+| [BSides Luxembourg](https://2025.bsides.lu) | Luxembourg | March 31 | June 19 |
 | [Troopers](https://troopers.de/) | Heidelberg, Germany | March 16 | June 23-27 |
 | [Why2025](https://why2025.org) | Alkmaar, Netherlands | May 25 | August 8-12 |
 | [Pass The Salt](https://pass-the-salt.org/) | Lille, France | ? | July 1-3 |
