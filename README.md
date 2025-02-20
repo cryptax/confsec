@@ -26,6 +26,7 @@
 | [Pass The Salt](https://pass-the-salt.org/) | Lille, France | ? | July 1-3 |
 | [OrangeCon](https://orangecon.nl) | Amsterdam, NL | ? | September 5 |
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | August 1 | September 8-12 |
+| [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | September 28, 2024 |
 | [NoHat](https://www.nohat.it/) | Bergamo, Italy | ? | October 18 |
 | [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | | November 20-21 |
 | [Hack.lu](https://hack.lu) | Luxembourg | April 30 | October 21-24 2025 |
