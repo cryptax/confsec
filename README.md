@@ -4,40 +4,40 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [RuhrSec 2025](https://www.ruhrsec.de/2025/) | Bochum, Germany | November 10, 2024 | February 20-21, 2025 |
-| [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | December 2024 | March 10-15, 2025 |
-| [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | ? | March 6-8 |
-| [BotConf](https://www.botconf.eu) | Angers, France | December 20, 2024 | May 21-23 |
-| [THCon](https://thcon.party/) | Toulouse, France | December 20, 2024 | April 10-11 |
-| [Securi-Tay](https://securi-tay.co.uk/) | Dundee, Scotland | January 5 | February 28 |
-| [CARO](https://www.caro2025.org/event/c42cfc49-86ec-43e7-adf8-8de5ddb6d3cb/home) Workshop | Copenhagen, Denmark | January 13 | May 7-9 |
-| [Security Fest](https://securityfest.com) | Gothenburg, Sweden | Jan 18 | June 4-5 |
-| [SSTIC](https://www.sstic.org) | Rennes, France | January 19 | June 4-6 |
-| [M0lecon](https://m0lecon.it/) | Torino, Italy | Jan 31 | March 22 | 
-| [x33fcon](https://x33fcon.com) |  Gdynia, Poland | Feb 2 | June 12-13 |
-| [PivotCon](https://pivotcon.org) [@pivot_con](https://twitter.com/pivot_con) | Malaga, Spain | Feb 7 | May 7-9 |
-| [Sthack](https://sthack.fr) | Bordeaux, France | End of March? | May 23 |
-| [CONFIDENCE](https://confidence-conference.org/) | Krakow, Poland | March 7 | June 2-3 |
-| [BSides Ume](https://indico.neic.no/event/273/abstracts/) | Ume, Sweden | March 14 | June 10-11 |
-| [BSides Kristiansand](https://bsideskrs.no) | Kristiansand, Norway | March 16 | June 6 |
-| [BSides Luxembourg](https://2025.bsides.lu) | Luxembourg | March 31 | June 19 |
-| [Troopers](https://troopers.de/) | Heidelberg, Germany | March 16 | June 23-27 |
-| [Why2025](https://why2025.org) | Alkmaar, Netherlands | May 25 | August 8-12 |
-| [Pass The Salt](https://pass-the-salt.org/) | Lille, France | ? | July 1-3 |
-| [OrangeCon](https://orangecon.nl) | Amsterdam, NL | ? | September 5 |
-| [SEC-T](https://sec-t.org) | Stockholm, Sweden | August 1 | September 8-12 |
-| [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | September 28, 2024 |
-| [NoHat](https://www.nohat.it/) | Bergamo, Italy | ? | October 18 |
-| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | | November 20-21 |
-| [Hack.lu](https://hack.lu) | Luxembourg | April 30 | October 21-24 2025 |
+| [RuhrSec 2025](https://www.ruhrsec.de/2025/) | Bochum, Germany | Nov 10, 2024 | Feb 20-21, 2025 |
+| [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | Dec 2024 | Mar 10-15, 2025 |
+| [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | ? | Mar 6-8, 2025 |
+| [BotConf](https://www.botconf.eu) | Angers, France | Dec 20, 2024 | May 21-23, 2025 |
+| [THCon](https://thcon.party/) | Toulouse, France | Dec 20, 2024 | Apr 10-11, 2025 |
+| [Securi-Tay](https://securi-tay.co.uk/) | Dundee, Scotland | Jan 5, 2025 | Feb 28, 2025 |
+| [CARO](https://www.caro2025.org/event/c42cfc49-86ec-43e7-adf8-8de5ddb6d3cb/home) Workshop | Copenhagen, Denmark | Jan 13, 2025 | May 7-9, 2025 |
+| [Security Fest](https://securityfest.com) | Gothenburg, Sweden | Jan 18, 2025 | Jun 4-5, 2025 |
+| [SSTIC](https://www.sstic.org) | Rennes, France | Jan 19, 2025 | Jun 4-6, 2025 |
+| [M0lecon](https://m0lecon.it/) | Torino, Italy | Jan 31, 2025 | Mar 22, 2025 | 
+| [x33fcon](https://x33fcon.com) |  Gdynia, Poland | Feb 2, 2025 | Jun 12-13, 2025 |
+| [PivotCon](https://pivotcon.org) [@pivot_con](https://twitter.com/pivot_con) | Malaga, Spain | Feb 7, 2025 | May 7-9, 2025 |
+| [Sthack](https://sthack.fr) | Bordeaux, France | End of March? | May 23, 2025 |
+| [CONFIDENCE](https://confidence-conference.org/) | Krakow, Poland | Mar 7, 2025 | Jun 2-3, 2025 |
+| [BSides Ume](https://indico.neic.no/event/273/abstracts/) | Ume, Sweden | Mar 14, 2025 | Jun 10-11, 2025 |
+| [BSides Kristiansand](https://bsideskrs.no) | Kristiansand, Norway | Mar 16, 2025 | Jun 6, 2025 |
+| [BSides Luxembourg](https://2025.bsides.lu) | Luxembourg | Mar 31, 2025 | Jun 19, 2025 |
+| [Troopers](https://troopers.de/) | Heidelberg, Germany | Mar 16, 2025 | Jun 23-27, 2025 |
+| [Why2025](https://why2025.org) | Alkmaar, Netherlands | May 25 | Aug 8-12, 2025 |
+| [Pass The Salt](https://pass-the-salt.org/) | Lille, France | ? | Jul 1-3, 2025 |
+| [OrangeCon](https://orangecon.nl) | Amsterdam, NL | ? | Sep 5, 2025 |
+| [SEC-T](https://sec-t.org) | Stockholm, Sweden | Aug 1, 2025 | Sep 8-12, 2025 |
+| [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | Sep 28, 2024 |
+| [NoHat](https://www.nohat.it/) | Bergamo, Italy | ? | Oct 18, 2025 |
+| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | | Nov 20-21, 2025 |
+| [Hack.lu](https://hack.lu) | Luxembourg | Apr 30, 2025 | Oct 21-24, 2025 |
 
 ### Outside Europe
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [Nullcon](https://nullcon.net) | Goa, India | - | March 1-2 |
-| [NorthSec](https://nsec.io/cfp/) | Montreal, Canada | March 15 | May 15-16 |
-| [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US | June ? | September 17-20 |
+| [Nullcon](https://nullcon.net) | Goa, India | - | Mar 1-2, 2025 |
+| [NorthSec](https://nsec.io/cfp/) | Montreal, Canada | Mar 15, 2025 | May 15-16, 2025 |
+| [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US | Jun ? | Sep 17-20, 2025 |
 
 ## Archive: 2024
 
