@@ -14,6 +14,7 @@
 | [Security Fest](https://securityfest.com) | Gothenburg, Sweden | Jan 18, 2025 | Jun 4-5, 2025 |
 | [SSTIC](https://www.sstic.org) | Rennes, France | Jan 19, 2025 | Jun 4-6, 2025 |
 | [M0lecon](https://m0lecon.it/) | Torino, Italy | Jan 31, 2025 | Mar 22, 2025 | 
+| [OWASP Global Appsec EU](https://owasp.glueup.com/event/owasp-global-appsec-eu-2025-123983/) | Barcelona, Spain | Jan 31, 2025 | May 26-30, 2025|
 | [x33fcon](https://x33fcon.com) |  Gdynia, Poland | Feb 2, 2025 | Jun 12-13, 2025 |
 | [PivotCon](https://pivotcon.org) [@pivot_con](https://twitter.com/pivot_con) | Malaga, Spain | Feb 7, 2025 | May 7-9, 2025 |
 | [Sthack](https://sthack.fr) | Bordeaux, France | End of March? | May 23, 2025 |
@@ -26,7 +27,7 @@
 | [Pass The Salt](https://pass-the-salt.org/) | Lille, France | ? | Jul 1-3, 2025 |
 | [OrangeCon](https://orangecon.nl) | Amsterdam, NL | ? | Sep 5, 2025 |
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | Aug 1, 2025 | Sep 8-12, 2025 |
-| [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | Sep 28, 2024 |
+| [RomHack](https://romhack.io/cfp) | Rome, Italy | June, 2025 | Sep 27, 2025 |
 | [NoHat](https://www.nohat.it/) | Bergamo, Italy | ? | Oct 18, 2025 |
 | [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | | Nov 20-21, 2025 |
 | [Hack.lu](https://hack.lu) | Luxembourg | Apr 30, 2025 | Oct 21-24, 2025 |
@@ -38,6 +39,7 @@
 | [Nullcon](https://nullcon.net) | Goa, India | - | Mar 1-2, 2025 |
 | [NorthSec](https://nsec.io/cfp/) | Montreal, Canada | Mar 15, 2025 | May 15-16, 2025 |
 | [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US | Jun ? | Sep 17-20, 2025 |
+| [OWASP Global Appsec USA](https://owasp.glueup.com/event/owasp-2025-global-appsec-usa-washington-dc-131624/) | Washington DC, USA | Mar 16, 2025 | Nov 3-7, 2025|
 
 ## Archive: 2024
 
