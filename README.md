@@ -23,7 +23,10 @@
 | [BSides Kristiansand](https://bsideskrs.no) | Kristiansand, Norway | Mar 16, 2025 | Jun 6, 2025 |
 | [BSides Luxembourg](https://2025.bsides.lu) | Luxembourg | Mar 31, 2025 | Jun 19, 2025 |
 | [Troopers](https://troopers.de/) | Heidelberg, Germany | Mar 16, 2025 | Jun 23-27, 2025 |
-| [Why2025](https://why2025.org) | Alkmaar, Netherlands | May 25 | Aug 8-12, 2025 |
+| [Le Hack](https://lehack.org/cfp-apply-for-a-talk/) | Paris, France | April 6, 2025 | June 27, 2025 |
+| [ElbSides](https://www.elbsides.eu/) | Hamburg, Germany | April 11, 2025 | June 13, 2025 |
+| [Why2025](https://why2025.org) | Alkmaar, Netherlands | May 25, 2025 | Aug 8-12, 2025 |
+| [44Con](https://44con.com) | London, UK | May 31 | September 17-19 |
 | [Pass The Salt](https://pass-the-salt.org/) | Lille, France | ? | Jul 1-3, 2025 |
 | [OrangeCon](https://orangecon.nl) | Amsterdam, NL | ? | Sep 5, 2025 |
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | Aug 1, 2025 | Sep 8-12, 2025 |
@@ -32,23 +35,25 @@
 | [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | | Nov 20-21, 2025 |
 | [Hack.lu](https://hack.lu) | Luxembourg | Apr 30, 2025 | Oct 21-24, 2025 |
 
+
 ### Outside Europe
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Nullcon](https://nullcon.net) | Goa, India | - | Mar 1-2, 2025 |
 | [NorthSec](https://nsec.io/cfp/) | Montreal, Canada | Mar 15, 2025 | May 15-16, 2025 |
+| [BSides Tokyo](https://bsides.tokyo/en/) | Tokyo, Japan | Apr 13, 2025 (round 3) | May 17, 2025 |
+| [ReCON](https://recon.cx/2025/cfp.html) | Montreal, Canada | April 25 (round 2) | June 27-29, 2025 |
 | [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US | Jun ? | Sep 17-20, 2025 |
 | [OWASP Global Appsec USA](https://owasp.glueup.com/event/owasp-2025-global-appsec-usa-washington-dc-131624/) | Washington DC, USA | Mar 16, 2025 | Nov 3-7, 2025|
+
+
 
 ## Archive: 2024
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [Le Hack](https://lehack.org/cfp-apply-for-a-talk/) | Paris, France | April 7, 2024 | July 5-7, 2024 |
 | [CERT-EU](https://cert.europa.eu/conference/tales-from-the-real-world) | Brussels, Belgium | May 31 | October 10-11 |
-| [44Con](https://44con.com) | London, UK | June ? | September 13 |
-| [RomHack](https://romhack.io/cfp) | Rome, Italy | May 31, 2024 | September 28, 2024 |
 | [Barbhack](https://barbhack.fr) | Toulon, France | June 15 | August 31, 2024 |
 | [BSides Bern](https://bern.bsides.ch/) | Bern, Switzerland | July 14 | October 1 |
 | [SecSea](https://secsea.org/) - cfp@secsea.org | La Ciotat, France | Sept 15 | October 11-12, 2024 |
