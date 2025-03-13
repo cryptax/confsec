@@ -45,6 +45,7 @@
 | [BSides Tokyo](https://bsides.tokyo/en/) | Tokyo, Japan | Apr 13, 2025 (round 3) | May 17, 2025 |
 | [ReCON](https://recon.cx/2025/cfp.html) | Montreal, Canada | April 25 (round 2) | June 27-29, 2025 |
 | [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US | Jun ? | Sep 17-20, 2025 |
+| [ROOTCON 19][(https://rootcon.org/) | Clark, Pampanga, Philippines | July ? 2025 | Sep 24-26, 2025|
 | [OWASP Global Appsec USA](https://owasp.glueup.com/event/owasp-2025-global-appsec-usa-washington-dc-131624/) | Washington DC, USA | Mar 16, 2025 | Nov 3-7, 2025|
 
 
