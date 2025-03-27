@@ -25,15 +25,16 @@
 | [Troopers](https://troopers.de/) | Heidelberg, Germany | Mar 16, 2025 | Jun 23-27, 2025 |
 | [Le Hack](https://lehack.org/cfp-apply-for-a-talk/) | Paris, France | April 6, 2025 | June 27, 2025 |
 | [ElbSides](https://www.elbsides.eu/) | Hamburg, Germany | April 11, 2025 | June 13, 2025 |
+| [Hack.lu](https://hack.lu) | Luxembourg | Apr 30, 2025 | Oct 21-24, 2025 |
+| [RomHack](https://romhack.io/cfp) | Rome, Italy | May 18, 2025 | Sep 27, 2025 |
 | [Why2025](https://why2025.org) | Alkmaar, Netherlands | May 25, 2025 | Aug 8-12, 2025 |
 | [44Con](https://44con.com) | London, UK | May 31 | September 17-19 |
 | [Pass The Salt](https://pass-the-salt.org/) | Lille, France | ? | Jul 1-3, 2025 |
 | [OrangeCon](https://orangecon.nl) | Amsterdam, NL | ? | Sep 5, 2025 |
+| [NoHat](https://www.nohat.it/) | Bergamo, Italy | July 15, 2025 | Oct 18, 2025 |
+| [DeepSec](https://deepsec.net/) | Vienna | July 31, 2025 | Nov 19-22, 2025 |
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | Aug 1, 2025 | Sep 8-12, 2025 |
-| [RomHack](https://romhack.io/cfp) | Rome, Italy | June, 2025 | Sep 27, 2025 |
-| [NoHat](https://www.nohat.it/) | Bergamo, Italy | ? | Oct 18, 2025 |
-| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | | Nov 20-21, 2025 |
-| [Hack.lu](https://hack.lu) | Luxembourg | Apr 30, 2025 | Oct 21-24, 2025 |
+| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | ? | Nov 20-21, 2025 |
 
 
 ### Outside Europe
@@ -93,6 +94,7 @@
 - [Hack in Paris](https://hackinparis.com)
 - [Hardwear.io](https://hardwear.io)
 - [Hexacon](https://www.hexacon.fr)
+- [M0lecon](https://m0lecon.it/)
 - [No cON Name Congress](https://www.noconname.org/) 
 - [OffensiveCon](https://cfp.offensivecon.org)
 - [Open Security Conference](https://opensecurityconference.org/)
