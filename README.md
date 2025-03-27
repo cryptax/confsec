@@ -48,6 +48,7 @@
 | [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US | Jun ? | Sep 17-20, 2025 |
 | [ROOTCON 19](https://rootcon.org/) | Clark, Pampanga, Philippines | July ? 2025 | Sep 24-26, 2025|
 | [OWASP Global Appsec USA](https://owasp.glueup.com/event/owasp-2025-global-appsec-usa-washington-dc-131624/) | Washington DC, USA | Mar 16, 2025 | Nov 3-7, 2025|
+| AVAR | Malaysia | ? | Dec 3-5, 2025 |
 
 
 
