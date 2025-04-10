@@ -21,15 +21,16 @@
 | [CONFIDENCE](https://confidence-conference.org/) | Krakow, Poland | Mar 7, 2025 | Jun 2-3, 2025 |
 | [BSides Ume](https://indico.neic.no/event/273/abstracts/) | Ume, Sweden | Mar 14, 2025 | Jun 10-11, 2025 |
 | [BSides Kristiansand](https://bsideskrs.no) | Kristiansand, Norway | Mar 16, 2025 | Jun 6, 2025 |
-| [BSides Luxembourg](https://2025.bsides.lu) | Luxembourg | Mar 31, 2025 | Jun 19, 2025 |
 | [Troopers](https://troopers.de/) | Heidelberg, Germany | Mar 16, 2025 | Jun 23-27, 2025 |
+| [BSides Luxembourg](https://2025.bsides.lu) | Luxembourg | Mar 31, 2025 | Jun 19, 2025 |
+| [Pass The Salt](https://pass-the-salt.org/) | Lille, France | - | Jul 1-3, 2025 |
 | [Le Hack](https://lehack.org/cfp-apply-for-a-talk/) | Paris, France | April 6, 2025 | June 27, 2025 |
 | [ElbSides](https://www.elbsides.eu/) | Hamburg, Germany | April 11, 2025 | June 13, 2025 |
 | [Hack.lu](https://hack.lu) | Luxembourg | Apr 30, 2025 | Oct 21-24, 2025 |
 | [RomHack](https://romhack.io/cfp) | Rome, Italy | May 18, 2025 | Sep 27, 2025 |
 | [Why2025](https://why2025.org) | Alkmaar, Netherlands | May 25, 2025 | Aug 8-12, 2025 |
 | [44Con](https://44con.com) | London, UK | May 31 | September 17-19 |
-| [Pass The Salt](https://pass-the-salt.org/) | Lille, France | ? | Jul 1-3, 2025 |
+| [UYBHYS](https://www.unlockyourbrain.bzh/en/unlock-your-brain-2/) [pretalx](https://pretalx.com/unlock-your-brain-harden-your-system-2025/) | Brest, France | June 30, 2025 | November 7-8, 2025 |
 | [OrangeCon](https://orangecon.nl) | Amsterdam, NL | ? | Sep 5, 2025 |
 | [NoHat](https://www.nohat.it/) | Bergamo, Italy | July 15, 2025 | Oct 18, 2025 |
 | [DeepSec](https://deepsec.net/) | Vienna | July 31, 2025 | Nov 19-22, 2025 |
@@ -65,7 +66,7 @@
 | [Hack.lu](https://hack.lu) | Luxembourg | August 1 2024 | October 22-25 2024 |
 | [BSides Berlin](https://cfp.bsides.berlin/bsides-berlin-2024/cfp) | Berlin, Germany | August 17 | October 26 |
 | [BSides Munich](https://2024.bsidesmunich.org/callforpapers/) | Munich, Germany | July 15 | November 10-11 |
-| [UYBHYS](https://www.unlockyourbrain.bzh/en/unlock-your-brain-2/) | Brest, France | | November 8-9, 2024 |
+
 | [GreHack](https://grehack.fr) | Grenoble, France | July 7 | November 15, 2024 |
 | [DeepSec](https://www.deepsec.net/cfp.html) | Vienna, Austria | July 31 2024 | November 19-22 2024 |
 | [Hackvens](https://hackvens.fr) | Lille, France | | November 22 |
