@@ -32,6 +32,7 @@
 | [Why2025](https://why2025.org) | Alkmaar, Netherlands | May 25, 2025 | Aug 8-12, 2025 |
 | [44Con](https://44con.com) | London, UK | May 31 | September 17-19 |
 | [Nullcon Berlin](https://nullcon.net) | Berlin, Germany | June, 10 | September 4-5, 2025 |
+| [BarbHack](https://submit.barbhack.fr/) | Toulon, France | June 15 | August 30, 2025 |
 | [UYBHYS](https://www.unlockyourbrain.bzh/en/unlock-your-brain-2/) [pretalx](https://pretalx.com/unlock-your-brain-harden-your-system-2025/) | Brest, France | June 30, 2025 | November 7-8, 2025 |
 | [OrangeCon](https://orangecon.nl) | Amsterdam, NL | ? | Sep 5, 2025 |
 | [NoHat](https://www.nohat.it/) | Bergamo, Italy | July 15, 2025 | Oct 18, 2025 |
