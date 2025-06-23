@@ -7,10 +7,8 @@
 | [RuhrSec 2025](https://www.ruhrsec.de/2025/) | Bochum, Germany | Nov 10, 2024 | Feb 20-21, 2025 |
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | Dec 2024 | Mar 10-15, 2025 |
 | [RootedCon](https://www.rootedcon.com/) | Madrid, Spain | ? | Mar 6-8, 2025 |
-| [BotConf](https://www.botconf.eu) | Angers, France | Dec 20, 2024 | May 21-23, 2025 |
 | [THCon](https://thcon.party/) | Toulouse, France | Dec 20, 2024 | Apr 10-11, 2025 |
 | [Securi-Tay](https://securi-tay.co.uk/) | Dundee, Scotland | Jan 5, 2025 | Feb 28, 2025 |
-| [CARO](https://www.caro2025.org/event/c42cfc49-86ec-43e7-adf8-8de5ddb6d3cb/home) Workshop | Copenhagen, Denmark | Jan 13, 2025 | May 7-9, 2025 |
 | [Security Fest](https://securityfest.com) | Gothenburg, Sweden | Jan 18, 2025 | Jun 4-5, 2025 |
 | [SSTIC](https://www.sstic.org) | Rennes, France | Jan 19, 2025 | Jun 4-6, 2025 |
 | [M0lecon](https://m0lecon.it/) | Torino, Italy | Jan 31, 2025 | Mar 22, 2025 | 
@@ -41,6 +39,12 @@
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | Aug 1, 2025 | Sep 8-12, 2025 |
 | [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | ? | Nov 20-21, 2025 |
 
+## In 2026
+
+| Name           | Location	| CfP ends |  Conference dates |
+| ---------------- | ------------- | ------------ | -------------------------|
+| [BotConf](https://www.botconf.eu) | Reims, France | Dec ?, 2025 | Spring 2026 |
+| Area 41 | | | June 18-19, 2026 |
 
 ### Outside Europe
 
@@ -61,17 +65,11 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [CERT-EU](https://cert.europa.eu/conference/tales-from-the-real-world) | Brussels, Belgium | May 31 | October 10-11 |
-| [Barbhack](https://barbhack.fr) | Toulon, France | June 15 | August 31, 2024 |
-| [BSides Bern](https://bern.bsides.ch/) | Bern, Switzerland | July 14 | October 1 |
-| [SecSea](https://secsea.org/) - cfp@secsea.org | La Ciotat, France | Sept 15 | October 11-12, 2024 |
-| [Hacktivity 2024](https://hacktivity.com) [@hacktivityconf](https://twitter.com/hacktivityconf) | Budapest, Hungary | July 15, 2024 | October 17-18, 2024 |
+| | Bern, Switzerland | July 14 | October 1 |
 | [BSides Oslo](https://infosec.exchange/@bsidesoslo) | Oslo, Norway | August 11 | October 14 |
 | [Hack.lu](https://hack.lu) | Luxembourg | August 1 2024 | October 22-25 2024 |
 | [BSides Berlin](https://cfp.bsides.berlin/bsides-berlin-2024/cfp) | Berlin, Germany | August 17 | October 26 |
 | [BSides Munich](https://2024.bsidesmunich.org/callforpapers/) | Munich, Germany | July 15 | November 10-11 |
-
-| [GreHack](https://grehack.fr) | Grenoble, France | July 7 | November 15, 2024 |
 | [DeepSec](https://www.deepsec.net/cfp.html) | Vienna, Austria | July 31 2024 | November 19-22 2024 |
 | [Hackvens](https://hackvens.fr) | Lille, France | | November 22 |
 | [Defcamp](https://def.camp/call-for-papers/) | Bucharest, Romania | Oct 30, 2024 | November 23-24 2024 |
@@ -84,8 +82,9 @@
 - [Area 41](https://area41.io) next in 2026.
 - [AVAR](https://aavar.org/cybersecurity-conference/)
 - [BalCCon](https://balccon.org) [@BalCC0n](https://twitter.com/BalCC0n)
-- [BruCon](https://www.brucon.org/2023/)
+- [BruCon](https://www.brucon.org/)
 - [BSides Athens](https://www.bsidesath.gr/cfp.php)
+- [BSides Bern](https://bern.bsides.ch/) 
 - [BSides Budapest](https://2024.bsidesbud.com/call-for-paper/)
 - [BSides Lancashire](https://www.bsideslancashire.org)
 - [BSides Leeds](https://twitter.com/BSidesLeeds)
@@ -107,6 +106,7 @@
 - [PancakesCon](https://pancakescon.com)
 - [RECON](https://recon.cx/)
 - [r2con](https://rada.re/con/2024/)
+- [SecSea](https://secsea.org/) 
 - [ShmooCon](https://shmoocon.org)
 - [Swiss Cyber Storm](https://www.swisscyberstorm.com/)
 - [T2.fi](https://t2.fi)
