@@ -26,6 +26,7 @@
 | [Pass The Salt](https://pass-the-salt.org/) | Lille, France | - | Jul 1-3, 2025 |
 | [Le Hack](https://lehack.org/cfp-apply-for-a-talk/) | Paris, France | April 6, 2025 | June 27, 2025 |
 | [ElbSides](https://www.elbsides.eu/) | Hamburg, Germany | April 11, 2025 | June 13, 2025 |
+| [CERT-EU](https://cert.europa.eu/conference/never-gonna-breach-you-up/announcement) | April 28, 2025 | Oct 2-3, 2025 |
 | [BruCon](https://sessionize.com/brucon-0x11-cfp) | Mechelen, Belgium | April 30, 2025 | Sept 22-26, 2025 |
 | [Hack.lu](https://hack.lu) | Luxembourg | Apr 30, 2025 | Oct 21-24, 2025 |
 | [RomHack](https://romhack.io/cfp) | Rome, Italy | May 18, 2025 | Sep 27, 2025 |
