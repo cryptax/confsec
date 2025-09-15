@@ -43,7 +43,7 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [BotConf](https://www.botconf.eu) | Reims, France | Dec ?, 2025 | Spring 2026 |
+| [BotConf](https://www.botconf.eu) | Reims, France | January 2, 2026 | Spring 2026 |
 | Area 41 | | | June 18-19, 2026 |
 
 ### Outside Europe
