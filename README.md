@@ -125,3 +125,4 @@
 - [CFPtime](http://cfptime.org)
 - [@niamtokik list](https://twitter.com/niamtokik/lists/events)
 - [Conference index](https://conferenceindex.org/conferences/security) - mostly academic conferences
+- [Confslist](https://confslist.com)
