@@ -5,7 +5,7 @@
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | - | March 13-14, 2026 |
-| [BreizhCTF](https://www.breizhctf.com/) | Rennes, France | - | March 14-15, 2026 |
+| [BreizhCTF](https://www.breizhctf.com/) | Rennes, France | - |  2026 |
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | Dec 2025 | Mar 16-20, 2026 |
 | [BotConf](https://www.botconf.eu) | Reims, France | January 2, 2026 | Spring 2026 |
 | [THCon](https://thcon.party/) | Toulouse, France | Jan 12, 2026 | May 5-6, 2026 |
