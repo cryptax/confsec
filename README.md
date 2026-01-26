@@ -44,6 +44,7 @@
 - [BSides Leeds](https://twitter.com/BSidesLeeds)
 - [BSides Lisbon](https://cfp.bsideslisbon.org) [@Bsideslisbon](https://twitter.com/Bsideslisbon) [@bsideslisbon@infosec.exchange](https://infosec.exchange)
 - [BSidesLondon](https://www.securitybsides.org.uk/)
+- [BSides Luxembourg](https://bsides.lu) [@BSidesLuxembourg@infosec.exchange](https://infosec.exchange/@BSidesLuxembourg)
 - [BSides Munich](https://2023.bsidesmunich.org/callforpapers/)
 - [Copenhagen CyberCrime conference](https://www.cyberhagen.com)
 - [Defcamp](https://def.camp/call-for-papers/)
