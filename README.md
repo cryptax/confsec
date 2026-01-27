@@ -9,13 +9,14 @@
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | Dec 2025 | Mar 16-20, 2026 |
 | [BotConf](https://www.botconf.eu) | Reims, France | January 2, 2026 | Spring 2026 |
 | [THCon](https://thcon.party/) | Toulouse, France | Jan 12, 2026 | May 5-6, 2026 |
+| [BSides Luxembourg](https://bsides.lu/) | Belval, Luxembourg | Mar 1, 2026 | May 6-8, 2026 |
 | [Security Fest](https://securityfest.com) | Gothenburg, Sweden | | May 28-29, 2026 |
 | [Auvergn'Hack](https://www.auvergnhack.fr/) | Clermont Ferrand, France | | May 2026 |
 | [SSTIC](https://www.sstic.org) | Rennes, France |  | Jun 3-5, 2026 |
 | [OrangeCon](https://orangecon.nl/) | Amsterdam, The Netherlands | | June 4 2026 |
 | [Area 41](https://area41.io/) | Zurich, Switzerland | | June 18-19, 2026 |
 | [Virus Bulletin](https://www.virusbulletin.com/conference/vb2026/) | Seville, Spain | | Oct 14-16, 2026 |
-| [hack.lu](https://hack.lu) | Luxembourg, Luxembourg | Oct 20-23, 2026 | 
+| [hack.lu](https://hack.lu) | Luxembourg, Luxembourg | TBA | Oct 20-23, 2026 |
 
 
 ### Outside Europe
