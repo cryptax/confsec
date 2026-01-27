@@ -15,7 +15,7 @@
 | [OrangeCon](https://orangecon.nl/) | Amsterdam, The Netherlands | | June 4 2026 |
 | [Area 41](https://area41.io/) | Zurich, Switzerland | | June 18-19, 2026 |
 | [Virus Bulletin](https://www.virusbulletin.com/conference/vb2026/) | Seville, Spain | | Oct 14-16, 2026 |
-| [hack.lu](https://hack.lu) | Luxembourg, Luxembourg | Oct 20-23, 2026 | 
+| [hack.lu](https://hack.lu) | Luxembourg, Luxembourg | TBA | Oct 20-23, 2026 |
 
 
 ### Outside Europe
