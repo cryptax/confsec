@@ -17,7 +17,13 @@
 | [SSTIC](https://www.sstic.org) | Rennes, France |  | Jun 3-5, 2026 |
 | [OrangeCon](https://orangecon.nl/) | Amsterdam, The Netherlands | | June 4 2026 |
 | [Area 41](https://area41.io/) | Zurich, Switzerland | | June 18-19, 2026 |
-| [hack.lu](https://hack.lu) | Luxembourg, Luxembourg | TBA | Oct 20-23, 2026 |
+| [44con](https://44con.com/) | London, UK | May 30, 2026 | Sept 17-18, 2026 |
+| [hack.lu](https://hack.lu) | Luxembourg, Luxembourg | May 30, 2026 | Oct 20-23, 2026 |
+| [No Hat](https://nohat.it) | Bergamo, Italy | July 15 | Oct 10, 2026 |
+| [SEC-T](https://sec-t.org) | Stockholm, Sweden | May 24 + July 26 | Sept 9, 2026 |
+| [DeepSec](https://www.deepsec.net) | Vienna, Austria | July 31 | Nov 17-20, 2026 |
+| [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | Aug 10 | Oct 29, 2026 |
+| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | ? | Nov 5-6, 2026 |
 
 
 
@@ -30,6 +36,7 @@
 | [NorthSec](https://nsec.io/cfp/) | Montreal, Canada | Mar 2, 2026 | May 11-17, 2026 |
 | [ReCON](https://recon.cx/) | Montreal, Canada |  | June 19-21, 2026 |
 | [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US |  | Sep 16-19, 2026 |
+| [AVAR](https://aavar.org/conferences) | Hyderabad, India | ? | Dec 2-4, 2026 |
 
 
 ## Conference websites 
