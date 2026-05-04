@@ -1,5 +1,11 @@
 # Security conferences
 
+## In 2027
+
+| Name           | Location	| CfP ends |  Conference dates |
+| ---------------- | ------------- | ------------ | -------------------------|
+| [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | Aug 23 | Feb 1-5, 2027 |
+
 ## In 2026
 
 | Name           | Location	| CfP ends |  Conference dates |
@@ -19,6 +25,7 @@
 | [Area 41](https://area41.io/) | Zurich, Switzerland | | June 18-19, 2026 |
 | [44con](https://44con.com/) | London, UK | May 30, 2026 | Sept 17-18, 2026 |
 | [hack.lu](https://hack.lu) | Luxembourg, Luxembourg | May 30, 2026 | Oct 20-23, 2026 |
+| [Barb'hack](https://barbhack.fr) | Toulon, France | June 28 | Aug 29 |
 | [No Hat](https://nohat.it) | Bergamo, Italy | July 15 | Oct 10, 2026 |
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | May 24 + July 26 | Sept 9, 2026 |
 | [DeepSec](https://www.deepsec.net) | Vienna, Austria | July 31 | Nov 17-20, 2026 |
