@@ -13,7 +13,7 @@
 | [Ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | - | March 13-14, 2026 |
 | [BreizhCTF](https://www.breizhctf.com/) | Rennes, France | - |  2026 |
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | Dec 2025 | Mar 16-20, 2026 |
-| [BotConf](https://www.botconf.eu) | Reims, France | January 2, 2026 | Spring 2026 |
+| [BotConf](https://www.botconf.eu) | Reims, France | January 2, 2026 | April 15-17 2026 |
 | [THCon](https://thcon.party/) | Toulouse, France | Jan 12, 2026 | May 5-6, 2026 |
 | [BSides Luxembourg](https://bsides.lu/) | Belval, Luxembourg | Mar 1, 2026 | May 6-8, 2026 |
 | [Pass The Salt](https://www.pass-the-salt.org/) | Lille, France | March 31 | June 30 - July 2 2026 |
@@ -26,12 +26,12 @@
 | [44con](https://44con.com/) | London, UK | May 30, 2026 | Sept 17-18, 2026 |
 | [hack.lu](https://hack.lu) | Luxembourg, Luxembourg | May 30, 2026 | Oct 20-23, 2026 |
 | [Barb'hack](https://barbhack.fr) | Toulon, France | June 28 | Aug 29 |
+| [NullCon Berlin](https://nullcon.net/event/nullcon-berlin-2026/cfp/) | Berlin, Germany | July 10 | Nov 2-6 2026 |
 | [No Hat](https://nohat.it) | Bergamo, Italy | July 15 | Oct 10, 2026 |
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | May 24 + July 26 | Sept 9, 2026 |
 | [DeepSec](https://www.deepsec.net) | Vienna, Austria | July 31 | Nov 17-20, 2026 |
 | [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | Aug 10 | Oct 29, 2026 |
 | [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | ? | Nov 5-6, 2026 |
-
 
 
 ### Outside Europe
@@ -43,6 +43,8 @@
 | [NorthSec](https://nsec.io/cfp/) | Montreal, Canada | Mar 2, 2026 | May 11-17, 2026 |
 | [ReCON](https://recon.cx/) | Montreal, Canada |  | June 19-21, 2026 |
 | [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US |  | Sep 16-19, 2026 |
+| [CanSecWest](https://www.secwest.net/) | Vancouver, Canada | ? | Sept 30- Oct 1, 2026 |
+| [Code Blue](https://codeblue.jp/) | Tokyo, Japan | July 31 | November 17-18, 2026 |
 | [AVAR](https://aavar.org/conferences) | Hyderabad, India | ? | Dec 2-4, 2026 |
 
 
