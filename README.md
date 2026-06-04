@@ -28,6 +28,7 @@
 | [Barb'hack](https://barbhack.fr) | Toulon, France | June 28 | Aug 29 |
 | [NullCon Berlin](https://nullcon.net/event/nullcon-berlin-2026/cfp/) | Berlin, Germany | July 10 | Nov 2-6 2026 |
 | [No Hat](https://nohat.it) | Bergamo, Italy | July 15 | Oct 10, 2026 |
+| [Hexacon](https://hexacon.fr) | Paris, France | - | Oct 16-17 |
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | May 24 + July 26 | Sept 9, 2026 |
 | [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | ? | Nov 5-6, 2026 |
 | [GreHack](https://grehack.fr) | Grenoble, France | ? | Nov 13, 2026 |
