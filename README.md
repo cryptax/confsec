@@ -20,8 +20,8 @@
 | [Virus Bulletin](https://www.virusbulletin.com/conference/vb2026/) | Seville, Spain | April 9, 2026 | Oct 14-16, 2026 |
 | [Security Fest](https://securityfest.com) | Gothenburg, Sweden | | May 28-29, 2026 |
 | [Auvergn'Hack](https://www.auvergnhack.fr/) | Clermont Ferrand, France | February 15 | May 29-30 2026 |
-| [SSTIC](https://www.sstic.org) | Rennes, France |  | Jun 3-5, 2026 |
-| [OrangeCon](https://orangecon.nl/) | Amsterdam, The Netherlands | | June 4 2026 |
+| [SSTIC](https://www.sstic.org) | Rennes, France | - | Jun 3-5, 2026 |
+| [OrangeCon](https://orangecon.nl/) | Amsterdam, The Netherlands | - | June 4 2026 |
 | [Area 41](https://area41.io/) | Zurich, Switzerland | | June 18-19, 2026 |
 | [44con](https://44con.com/) | London, UK | May 30, 2026 | Sept 17-18, 2026 |
 | [hack.lu](https://hack.lu) | Luxembourg, Luxembourg | May 30, 2026 | Oct 20-23, 2026 |
@@ -29,9 +29,11 @@
 | [NullCon Berlin](https://nullcon.net/event/nullcon-berlin-2026/cfp/) | Berlin, Germany | July 10 | Nov 2-6 2026 |
 | [No Hat](https://nohat.it) | Bergamo, Italy | July 15 | Oct 10, 2026 |
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | May 24 + July 26 | Sept 9, 2026 |
+| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | ? | Nov 5-6, 2026 |
+| [GreHack](https://grehack.fr) | Grenoble, France | ? | Nov 13, 2026 |
+| [UYBHYS](https://pretalx.com/uybhys26/cfp) | Brest, France | July 6 | Nov 6-7 |
 | [DeepSec](https://www.deepsec.net) | Vienna, Austria | July 31 | Nov 17-20, 2026 |
 | [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | Aug 10 | Oct 29, 2026 |
-| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | ? | Nov 5-6, 2026 |
 
 
 ### Outside Europe
