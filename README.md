@@ -30,6 +30,7 @@
 | [No Hat](https://nohat.it) | Bergamo, Italy | July 15 | Oct 10, 2026 |
 | [Hexacon](https://hexacon.fr) | Paris, France | - | Oct 16-17 |
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | May 24 + July 26 | Sept 9, 2026 |
+| [RomHack Camp](https://cfp.romhack.io) | Rome, Italy | Sept 13, 2026 | Oct 2-4, 2026 |
 | [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | ? | Nov 5-6, 2026 |
 | [GreHack](https://grehack.fr) | Grenoble, France | ? | Nov 13, 2026 |
 | [UYBHYS](https://pretalx.com/uybhys26/cfp) | Brest, France | July 6 | Nov 6-7 |
@@ -89,6 +90,7 @@
 - [PancakesCon](https://pancakescon.com)
 - [PivotCon](https://pivotcon.org)
 - [RECON](https://recon.cx/)
+- [RomHack](https://romahack.io)
 - [r2con](https://rada.re/con/2024/)
 - [SecSea](https://secsea.org/) 
 - [ShmooCon](https://shmoocon.org)
