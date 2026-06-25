@@ -4,7 +4,7 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | Aug 23 | Feb 1-5, 2027 |
+| [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | **Aug 23** | Feb 1-5, 2027 |
 
 ## In 2026
 
@@ -42,9 +42,9 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [REverse](https://re-verse.io/) | Orlando, Florida | - | March 11-13, 2027 |
+| [NorthSec](https://nsec.io/cfp/) | Montreal, Canada | ? | May 20-21, 2027 |
 | [Nullcon](https://nullcon.net) | Goa, India | - | Feb 28 - March 1, 2026 |
-| [REverse](https://re-verse.io/) | Orlando, Florida | - | March 5-7, 2026 |
-| [NorthSec](https://nsec.io/cfp/) | Montreal, Canada | Mar 2, 2026 | May 11-17, 2026 |
 | [ReCON](https://recon.cx/) | Montreal, Canada |  | June 19-21, 2026 |
 | [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US |  | Sep 16-19, 2026 |
 | [CanSecWest](https://www.secwest.net/) | Vancouver, Canada | ? | Sept 30- Oct 1, 2026 |
@@ -55,8 +55,7 @@
 ## Conference websites 
 
 - [AlligatorCon](https://alligatorcon.eu) [@AlligatorConEU](https://twitter.com/AlligatorConEU)
-- [AMUSEC](https://amusec.i2m.univ-amu.fr/)
-- [Area 41](https://area41.io) next in 2026.
+- [Area 41](https://area41.io) next in 2028.
 - [AVAR](https://aavar.org/cybersecurity-conference/)
 - [BalCCon](https://balccon.org) [@BalCC0n](https://twitter.com/BalCC0n)
 - [BruCon](https://www.brucon.org/)
