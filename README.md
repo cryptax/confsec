@@ -11,7 +11,6 @@
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | - | March 13-14, 2026 |
-| [BreizhCTF](https://www.breizhctf.com/) | Rennes, France | - |  2026 |
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | Dec 2025 | Mar 16-20, 2026 |
 | [BotConf](https://www.botconf.eu) | Reims, France | January 2, 2026 | April 15-17 2026 |
 | [THCon](https://thcon.party/) | Toulouse, France | Jan 12, 2026 | May 5-6, 2026 |
@@ -26,17 +25,18 @@
 | [44con](https://44con.com/) | London, UK | May 30, 2026 | Sept 17-18, 2026 |
 | [hack.lu](https://hack.lu) | Luxembourg, Luxembourg | May 30, 2026 | Oct 20-23, 2026 |
 | [Barb'hack](https://barbhack.fr) | Toulon, France | June 28 | Aug 29 |
+| [UYBHYS](https://pretalx.com/uybhys26/cfp) | Brest, France | July 6 | Nov 6-7 |
 | [NullCon Berlin](https://nullcon.net/event/nullcon-berlin-2026/cfp/) | Berlin, Germany | July 10 | Nov 2-6 2026 |
 | [No Hat](https://nohat.it) | Bergamo, Italy | July 15 | Oct 10, 2026 |
 | [Hexacon](https://hexacon.fr) | Paris, France | - | Oct 16-17 |
+| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | - | Nov 5-6, 2026 |
 | [SEC-T](https://sec-t.org) | Stockholm, Sweden | May 24 + July 26 | Sept 9, 2026 |
-| [RomHack Camp](https://cfp.romhack.io) | Rome, Italy | Sept 13, 2026 | Oct 2-4, 2026 |
-| [BlackAlps](https://blackalps.ch) | Yverdon les Bains, Switzerland | ? | Nov 5-6, 2026 |
-| [GreHack](https://grehack.fr) | Grenoble, France | ? | Nov 13, 2026 |
-| [UYBHYS](https://pretalx.com/uybhys26/cfp) | Brest, France | July 6 | Nov 6-7 |
 | [DeepSec](https://www.deepsec.net) | Vienna, Austria | July 31 | Nov 17-20, 2026 |
 | [BSides Oslo](https://bsidesoslo.no/) | Oslo, Norway | Aug 10 | Oct 29, 2026 |
-
+| [DefCamp](https://def.camp/call-for-papers) | Bucharest, Romania | August 30 | Nov 19-20 |
+| [GreHack](https://grehack.fr) | Grenoble, France | August 31 | Nov 13, 2026 |
+| [BSides Dresden](https://bsidesdresden.com) | Dresden, Germany | Sept 14 | December 5, 2026 |
+| [BSides London](https://bsides.london/) | London, UK | Sept 30 | December 12, 2026 |
 
 ### Outside Europe
 
@@ -48,8 +48,10 @@
 | [ReCON](https://recon.cx/) | Montreal, Canada |  | June 19-21, 2026 |
 | [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US |  | Sep 16-19, 2026 |
 | [CanSecWest](https://www.secwest.net/) | Vancouver, Canada | ? | Sept 30- Oct 1, 2026 |
+| [Ringzer0](https://ringzer0.training/countermeasure-fall-2026/) | Ottawa, Canada | - | November 2-6 |
 | [Code Blue](https://codeblue.jp/) | Tokyo, Japan | July 31 | November 17-18, 2026 |
-| [AVAR](https://aavar.org/conferences) | Hyderabad, India | ? | Dec 2-4, 2026 |
+| [AV Tokyo](https://www.avtokyo.org/) | Tokyo, Japan | Sept 26 | Nov 21, 2026 |
+| [AVAR](https://aavar.org/conferences) | Hyderabad, India |  | Dec 2-4, 2026 |
 
 
 ## Conference websites 
@@ -58,6 +60,7 @@
 - [Area 41](https://area41.io) next in 2028.
 - [AVAR](https://aavar.org/cybersecurity-conference/)
 - [BalCCon](https://balccon.org) [@BalCC0n](https://twitter.com/BalCC0n)
+- [BreizhCTF](https://www.breizhctf.com/) 
 - [BruCon](https://www.brucon.org/)
 - [BSides Athens](https://www.bsidesath.gr/cfp.php)
 - [BSides Bern](https://bern.bsides.ch/) 
