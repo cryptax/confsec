@@ -5,13 +5,13 @@
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | **Aug 23** | Feb 1-5, 2027 |
+| [BotConf](https://botconf.eu) | Vannes, France? | Jan 3 | April 27-30, 2027 |
 
 ## In 2026
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | - | March 13-14, 2026 |
-| [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | Dec 2025 | Mar 16-20, 2026 |
 | [BotConf](https://www.botconf.eu) | Reims, France | January 2, 2026 | April 15-17 2026 |
 | [THCon](https://thcon.party/) | Toulouse, France | Jan 12, 2026 | May 5-6, 2026 |
 | [BSides Luxembourg](https://bsides.lu/) | Belval, Luxembourg | Mar 1, 2026 | May 6-8, 2026 |
