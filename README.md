@@ -5,27 +5,25 @@
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | **Aug 23** | Feb 1-5, 2027 |
-| [BotConf](https://botconf.eu) | Vannes, France? | Jan 3 | April 27-30, 2027 |
+| [EntryPoint](https://entrypoint.fr/) | Paris, France | **Sept 20** | March 19-20, 2027 |
+| [BotConf](https://botconf.eu) | Vannes, France? | **Jan 3** | April 27-30, 2027 |
+| [Ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | - | March 12-13, 2027 |
+
 
 ## In 2026
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
-| [Ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | - | March 13-14, 2026 |
 | [BotConf](https://www.botconf.eu) | Reims, France | January 2, 2026 | April 15-17 2026 |
-| [THCon](https://thcon.party/) | Toulouse, France | Jan 12, 2026 | May 5-6, 2026 |
 | [BSides Luxembourg](https://bsides.lu/) | Belval, Luxembourg | Mar 1, 2026 | May 6-8, 2026 |
 | [Pass The Salt](https://www.pass-the-salt.org/) | Lille, France | March 31 | June 30 - July 2 2026 |
 | [Virus Bulletin](https://www.virusbulletin.com/conference/vb2026/) | Seville, Spain | April 9, 2026 | Oct 14-16, 2026 |
 | [Security Fest](https://securityfest.com) | Gothenburg, Sweden | | May 28-29, 2026 |
-| [Auvergn'Hack](https://www.auvergnhack.fr/) | Clermont Ferrand, France | February 15 | May 29-30 2026 |
 | [SSTIC](https://www.sstic.org) | Rennes, France | - | Jun 3-5, 2026 |
 | [OrangeCon](https://orangecon.nl/) | Amsterdam, The Netherlands | - | June 4 2026 |
-| [Area 41](https://area41.io/) | Zurich, Switzerland | | June 18-19, 2026 |
 | [44con](https://44con.com/) | London, UK | May 30, 2026 | Sept 17-18, 2026 |
 | [hack.lu](https://hack.lu) | Luxembourg, Luxembourg | May 30, 2026 | Oct 20-23, 2026 |
 | [Barb'hack](https://barbhack.fr) | Toulon, France | June 28 | Aug 29 |
-| [UYBHYS](https://pretalx.com/uybhys26/cfp) | Brest, France | July 6 | Nov 6-7 |
 | [NullCon Berlin](https://nullcon.net/event/nullcon-berlin-2026/cfp/) | Berlin, Germany | July 10 | Nov 2-6 2026 |
 | [No Hat](https://nohat.it) | Bergamo, Italy | July 15 | Oct 10, 2026 |
 | [Hexacon](https://hexacon.fr) | Paris, France | - | Oct 16-17 |
@@ -59,6 +57,7 @@
 
 - [AlligatorCon](https://alligatorcon.eu) [@AlligatorConEU](https://twitter.com/AlligatorConEU)
 - [Area 41](https://area41.io) next in 2028.
+- [Auvergn'Hack](https://www.auvergnhack.fr/) 
 - [AVAR](https://aavar.org/cybersecurity-conference/)
 - [BalCCon](https://balccon.org) [@BalCC0n](https://twitter.com/BalCC0n)
 - [BreizhCTF](https://www.breizhctf.com/) 
@@ -98,12 +97,14 @@
 - [SecSea](https://secsea.org/) 
 - [ShmooCon](https://shmoocon.org)
 - [Swiss Cyber Storm](https://www.swisscyberstorm.com/)
+- [THCon](https://thcon.party/)
 - [T2.fi](https://t2.fi)
 - [Troopers](https://troopers.de/)
 - [UYBHYS](https://www.unlockyourbrain.bzh/)
 - [Virus Bulletin](https://www.virusbulletin.com)
 - [Volcamp](https://www.volcamp.io/) [@VolcampIO](https://twitter.com/VolcampIO)
 - [ZeroDayCon](https://www.zerodaycon.com)
+- [44con](https://44con.com/)
 
 ## Hey, that awesome conference is missing :)
 
