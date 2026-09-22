@@ -49,6 +49,7 @@
 | [SAS](https://thesascon.com/) | Bali, Indonesia | Aug 14 | Oct 20-23 |
 | [Ringzer0](https://ringzer0.training/countermeasure-fall-2026/) | Ottawa, Canada | - | November 2-6 |
 | [SinCon](https://www.infosec-city.com/sin-26) | Singapore | July 13 | Oct 15-16 |
+| [Unprompted](https://unpromptedcon.org/) | San Francisco, USA | Sept 8 | Oct 27-29 |
 | [Code Blue](https://codeblue.jp/) | Tokyo, Japan | July 31 | November 17-18, 2026 |
 | [AV Tokyo](https://www.avtokyo.org/) | Tokyo, Japan | Sept 26 | Nov 21, 2026 |
 | [AVAR](https://aavar.org/conferences) | Hyderabad, India |  | Dec 2-4, 2026 |
