@@ -48,6 +48,7 @@
 | [ReCON](https://recon.cx/) | Montreal, Canada |  | June 19-21, 2026 |
 | [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US |  | Sep 16-19, 2026 |
 | [CanSecWest](https://www.secwest.net/) | Vancouver, Canada | ? | Sept 30- Oct 1, 2026 |
+| [SAS](https://thesascon.com/) | Bali, Indonesia | Aug 14 | Oct 20-23 |
 | [Ringzer0](https://ringzer0.training/countermeasure-fall-2026/) | Ottawa, Canada | - | November 2-6 |
 | [SinCon](https://www.infosec-city.com/sin-26) | Singapore | July 13 | Oct 15-16 |
 | [Code Blue](https://codeblue.jp/) | Tokyo, Japan | July 31 | November 17-18, 2026 |
