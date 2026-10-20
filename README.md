@@ -5,9 +5,13 @@
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
 | [Insomni'hack](https://insomnihack.ch) | Lausanne, Switzerland | **Aug 23** | Feb 1-5, 2027 |
-| [EntryPoint](https://entrypoint.fr/) | Paris, France | **Sept 20** | March 19-20, 2027 |
-| [BotConf](https://botconf.eu) | Vannes, France? | **Jan 3** | April 27-30, 2027 |
+| [Bsides Tirol](https://www.bsides.tirol) | Innsbruck, Austria | Nov 15 | Feb 25, 2027 |
+| | [CARO](https://caro2027.org) workshop | Brussels, Belgium | Nov 1 | March 9-11, 2027 |
 | [Ph0wn CTF](https://ph0wn.org) | Sophia Antipolis, France | - | March 12-13, 2027 |
+| [EntryPoint](https://entrypoint.fr/) | Paris, France | Sept 20 | March 19-20, 2027 |
+| [Bsides Prague](https://bsidesprg.cz) | Prague, CZ | Dec 31 | April 7-8, 2027 |
+| [BotConf](https://botconf.eu) | Vannes, France? | **Jan 3** | April 27-30, 2027 |
+
 
 
 ## In 2026
@@ -40,10 +44,12 @@
 
 | Name           | Location	| CfP ends |  Conference dates |
 | ---------------- | ------------- | ------------ | -------------------------|
+| [SECCON](https://www.seccon.jp/15/) | Japan | Nov 7 | Feb 19-20, 2027 |
 | [REverse](https://re-verse.io/) | Orlando, Florida | - | March 11-13, 2027 |
 | [NorthSec](https://nsec.io/cfp/) | Montreal, Canada | ? | May 20-21, 2027 |
 | [Nullcon](https://nullcon.net) | Goa, India | - | Feb 28 - March 1, 2026 |
-| [ReCON](https://recon.cx/) | Montreal, Canada |  | June 19-21, 2026 |
+| [Out of the Box](https://conference.hitb.org/) | Jakarta, Indonesia | ? | April 29-30 |
+| [ReCON](https://recon.cx/) | Montreal, Canada | ?  | June 19-21, 2026 |
 | [Labscon](https://www.labscon.io) | Scottsdale, Arizona, US |  | Sep 16-19, 2026 |
 | [CanSecWest](https://www.secwest.net/) | Vancouver, Canada | ? | Sept 30- Oct 1, 2026 |
 | [SAS](https://thesascon.com/) | Bali, Indonesia | Aug 14 | Oct 20-23 |
